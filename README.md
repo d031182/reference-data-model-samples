@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title.  
+This repository contains materials and sample data, which can be used to setup a reference data model for workshops, showcases and demos. 
 
 ## Overview
 
