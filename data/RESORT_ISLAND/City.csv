@@ -1,0 +1,50 @@
+city_id;city;region_id
+10;Houston;20
+11;Dallas;20
+12;San Francisco;21
+13;Los Angeles;21
+14;San Diego;21
+15;Chicago;23
+16;Memphis;23
+17;New York City;22
+18;Boston;22
+19;Washington D.C.;22
+20;Paris;30
+21;Versailles;30
+22;Fontainebleau;30
+23;Lyon;31
+24;Grenoble;31
+25;Albertville;31
+27;Nice;32
+28;Marseilles;32
+29;Bordeaux;32
+30;Swansea;40
+31;Glasgow;41
+32;Edinburgh;41
+33;Belfast;42
+34;Londonderry;42
+35;London;43
+36;Oxford;43
+37;Manchester;43
+38;Cardiff;40
+40;Amsterdam;51
+41;Utrecht;51
+42;Rotterdam;50
+43;Eindhoven;50
+50;Dusseldorf;60
+51;Cologne;60
+52;Munich;61
+53;Dresden;62
+54;Magdeburg;62
+55;Berlin;62
+56;Augsburg;61
+60;Sidney;70
+61;Canberra;70
+62;Melbourne;71
+63;Brisbane;72
+64;Gold Coast;72
+70;Tokyo;80
+71;Yokohama;80
+72;Osaka;81
+73;Kyoto;81
+74;Kobe;81

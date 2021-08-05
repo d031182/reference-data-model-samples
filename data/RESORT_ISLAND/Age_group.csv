@@ -1,0 +1,4 @@
+age_group_id;age_min;age_max;age_range
+1;18;30;18-30
+2;31;60;30-60
+3;61;100;Over 60

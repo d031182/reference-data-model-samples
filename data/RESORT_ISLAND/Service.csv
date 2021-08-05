@@ -1,0 +1,28 @@
+service_id;service;sl_id;price
+211;Hotel Room;21;192
+212;Bungalow;21;160
+213;Hotel Suite;21;292
+221;Restaurant;22;95
+222;Fast Food;22;80
+223;Poolside Bar;22;85
+231;Activities;23;200
+232;Excursion;23;100
+233;Sports;23;100
+311;Hotel Room;31;170
+312;Bungalow;31;120
+313;Hotel Suite;31;270
+321;Restaurant;32;85
+322;Fast Food;32;90
+323;Poolside Bar;32;120
+331;Activities;33;50
+332;Excursion;33;175
+333;Sports;33;190
+411;Hotel Room;41;195
+412;Bungalow;41;150
+413;Hotel Suite;41;295
+421;Restaurant;42;150
+422;Fast Food;42;105
+423;Poolside Bar;42;80
+431;Activities;43;150
+432;Excursion;43;100
+433;Sports;43;150

@@ -1,0 +1,36 @@
+cust_id;first_name;last_name;age;phone_number;address;city_id;sales_id;sponsor_id
+101;Paul;Brendt;19;(212) 555 2146;10 Jasper Blvd.;17;;
+102;Robin;McCarthy;29;(214) 555 3075;27 Pasadena Drive;11;;104
+103;Peter;Travis;34;(510) 555 4448;7835 Hartford Drive;12;;
+104;Joe;Larson;45;(213) 555 5095;87 Carmel Blvd.;13;12;
+105;Tony;Goldschmidt;55;(619) 555 6529;91 Torre drive;14;;
+106;William;Baker;64;(312) 555 7040;2890 Grant Avenue;15;12;104
+107;Jack;Swenson;74;(202) 555 8125;64 Imagination Drive;19;;
+201;Jean;Sartois;19;79 23 26 23;71 rue Rousseau;25;;
+202;Philippe;Michaud;22;78 21 86 20;197 impasse Renoir;23;22;204
+203;Christian;Robert;38;42 25 27 29;1rue Cezanne;28;;
+204;Christine;Martin;42;25 26 46 26;12 allee Victor Hugo;24;21;
+205;Luc;Piaget;56;53 42 24 28;38 allee des Saules;29;;
+206;Michele;Gentil;67;65 62 26 13;17montee des Chenes;25;;204
+207;Marie-Chantale;Dupont;72;46 72 23 53;37 rue Murat;20;;
+301;Caroline;Edwards;18;243 867945;68 Downing Street;35;;0
+302;Justin;Marlow;29;653 643634;290 Yorkshire Drive;32;;304
+303;John;Wilson;34;158 746231;28 Sutton Row;33;;0
+304;George;McCartney;47;323 768678;45 Glenthorne Road;34;31;0
+305;Hariett;Keegan;56;566 344643;10 Hamilton Park;35;;
+306;Mary;Jones;68;143 546456;34 Apple Grove;36;;0
+307;Priscilla;Hopkins;73;634 634643;The Gables;38;;0
+401;Erika;Diemers;18;23 5345;Wiesenstraße 40;51;41;0
+402;Jurgen;Schiller;24;14 2352;Auf dem Rain 4;52;;404
+403;Adolph;Durnstein;36;74 5464;Thomashof 22;53;;
+404;Hans;Weimar;45;34 6636;Goethering 33;54;41;0
+405;Herbert;Schultz;59;25 6346;Am Holzbach 17;55;;0
+406;Silke;Titzman;63;23 5463;Berliner Ring 56;56;;0
+407;Heineke;Reinman;72;23 4646;Yorkstraße 75;55;;
+501;Toshihijo;Arai;18;3478 4597;941 Toyota Ave;70;;
+502;Mariko;Kamata;24;5768 7462;70 Kiroto Street;71;;504
+503;Satoru;Kamimura;38;2647 5684;34 Kawasaki Avenue;72;51;
+504;Tatsuo;Makino;45;3441 3486;2435 Toyota Ave;70;50;
+505;Masayuki;Mukumoto;59;3482 7691;59 Yamamoto Blvd;73;;
+506;Kenji;Oneda;68;5183 9463;94 Toyota Blvd;70;50;504
+507;Isao;Okumura;74;4892 8371;3 Toyota Ave;74;;
