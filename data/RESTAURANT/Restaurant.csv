@@ -1,0 +1,1001 @@
+﻿RestaurantID;RestaurantName;AddressID;RestaurantAddress;RestaurantCity;RestaurantState;RestaurantCountry;RestaurantZIP;Alcohol;Smoking;DressCode;Pricing;Accessibility;Franchise;OtherServices;Parking;Cuisine;WorkingHours;OpeningTime;ClosingTime;WorkingDays;WorkingDay_Sunday;WorkingDay_Monday;WorkingDay_Tuesday;WorkingDay_Wednesday;WorkingDay_Thursday;WorkingDay_Friday;WorkingDay_Saturday;DeliveryType;DeliveryRate
+RE10100;Raffael''s Cafe;A1071469;Lukken;Berlin;Brandenburg;Germany;88151;No_Alcohol_Served;none;informal;4;no_accessibility;f;none;public;Spanish;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10101;Federico''s Pizza Deli;A1035223;Dennis;Berlin;Brandenburg;Germany;599808;No_Alcohol_Served;none;informal;2;completely;f;none;none;Italian;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10102;Froggy''s Take Out;A1092042;Rusk;Berlin;Brandenburg;Germany;831711;Wine-Beer;only at bar;informal;4;partially;f;none;none;Latin_American;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;5
+RE10103;Wind River Ranch;A1090699;Portage;Berlin;Brandenburg;Germany;105107;No_Alcohol_Served;none;informal;1;completely;t;none;none;Mexican;"08:00-19:00;";08:00;19:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10104;William Street Park Summer Feeding Progra;A1020029;Gale;Berlin;Brandenburg;Germany;89862;No_Alcohol_Served;permitted;informal;2;completely;t;none;none;Fast_Food;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10105;Kc Chocolatier;A1054441;Truax;Berlin;Brandenburg;Germany;554533;Wine-Beer;none;informal;2;no_accessibility;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10106;Cooperstown Youth Baseball Clubhouse;A1046626;Evergreen;Berlin;Brandenburg;Germany;43107;No_Alcohol_Served;none;casual;3;completely;f;none;none;Burgers;"08:00-21:00;";08:00;21:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10107;Oneida County 40 & 8, Local 92;A1074389;Mallory;Berlin;Brandenburg;Germany;761142;Wine-Beer;section;informal;5;no_accessibility;t;Internet;yes;Dessert-Ice_Cream;"08:00-21:00;";08:00;21:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10108;Patty''s Sports Pub Inc.;A1035543;North;Berlin;Brandenburg;Germany;3445;No_Alcohol_Served;not permitted;informal;2;completely;t;none;valet parking;Fast_Food;"08:00-21:00;";08:00;21:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10109;Shen Wang Chinese Restaurant;A1066326;Morningstar;Berlin;Brandenburg;Germany;317045;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;valet parking;Hot_Dogs;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10110;Gigi''s Italian Restaurant & Pizzeria;A1002293;Sage;Berlin;Brandenburg;Germany;266366;No_Alcohol_Served;none;informal;4;no_accessibility;f;none;public;Latin_American;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10111;Hebrew Institute Of White Plains;A1082951;Texas;Berlin;Brandenburg;Germany;756521;Wine-Beer;none;informal;3;no_accessibility;f;none;none;Mexican;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10112;Stay Inn Albany;A1014864;Bartillon;Berlin;Brandenburg;Germany;499193;Wine-Beer;section;informal;1;no_accessibility;f;none;valet parking;Steaks;"07:00-23:30;";07:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10113;Smokin Joe''s Bar & Grill;A1065815;Iowa;Berlin;Brandenburg;Germany;690983;Wine-Beer;none;informal;4;no_accessibility;f;none;valet parking;Mexican;"07:00-23:30;";07:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10114;Sams Gas;A1036982;Union;Berlin;Brandenburg;Germany;379505;No_Alcohol_Served;not permitted;informal;4;no_accessibility;t;none;yes;Steaks;"07:00-23:30;";07:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10115;Ccattle''s, Llc;A1099653;Cambridge;Berlin;Brandenburg;Germany;103935;No_Alcohol_Served;not permitted;informal;5;no_accessibility;f;none;public;Mexican;"18:00-23:30;";18:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10116;Village Eatery;A1037662;Valley Edge;Berlin;Brandenburg;Germany;773439;Wine-Beer;none;informal;5;completely;f;none;yes;Steaks;"18:00-23:30;";18:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10117;Roosevelt Children''s Acdmy Chrtr Sch;A1087390;Shoshone;Berlin;Brandenburg;Germany;121715;Full_Bar;section;informal;5;completely;f;variety;none;Asian;"18:00-21:00;";18:00;21:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10118;Re Aldo Pizzeria;A1078770;Lakewood Gardens;Berlin;Brandenburg;Germany;10449;Wine-Beer;none;informal;3;completely;f;none;fee;Dessert-Ice_Cream;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10119;Ready Beans;A1060358;Center;Berlin;Brandenburg;Germany;343410;No_Alcohol_Served;none;informal;4;completely;f;none;public;International;"20:30-23:30;";20:30;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10120;Jernabi Coffee;A1057295;Quincy;Berlin;Brandenburg;Germany;461941;No_Alcohol_Served;section;informal;5;no_accessibility;f;none;yes;Mongolian;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;10
+RE10121;Malek''s Brighton Bakery;A1029681;Upham;Berlin;Brandenburg;Germany;216594;Wine-Beer;none;casual;1;completely;f;none;public;Steaks;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10122;Wok And Roll;A1066480;Morning;Berlin;Brandenburg;Germany;935212;Full_Bar;section;informal;2;no_accessibility;f;none;yes;Vegetarian;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10123;Crystal Bay Catering;A1002227;Randy;Berlin;Brandenburg;Germany;511618;No_Alcohol_Served;not permitted;informal;5;completely;f;none;public;Brazilian;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10124;All Smoked Out Roadside Bbq;A1084124;Lakewood Gardens;Berlin;Brandenburg;Germany;959176;No_Alcohol_Served;none;informal;5;no_accessibility;f;none;yes;International;"12:00-22:00;";12:00;22:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10125;Salty Rita;A1055425;Sunnyside;Berlin;Brandenburg;Germany;38325;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;none;Latin_American;"12:00-23:00;";12:00;23:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10126;Pierogi Wagon;A1006235;Roth;Berlin;Brandenburg;Germany;221314;No_Alcohol_Served;not permitted;casual;5;partially;t;none;none;Steaks;"12:00-22:00;";12:00;22:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10127;Pine Island Deli;A1005542;Ronald Regan;Berlin;Brandenburg;Germany;546157;No_Alcohol_Served;none;informal;1;completely;f;none;none;Cafe-Coffee_Shop;"09:00-23:00;";09:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10128;Alabama Hotel;A1027980;Dennis;Berlin;Brandenburg;Germany;451809;Wine-Beer;none;casual;5;no_accessibility;f;none;none;Cafeteria;"09:00-01:00;";09:00;01:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10129;Southern Kitchen Soul Food Restaurant;A1035335;Swallow;Berlin;Brandenburg;Germany;870152;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;yes;Contemporary;"09:00-22:00;";09:00;22:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10130;David King Chinese Restaurant;A1009725;Heath;Berlin;Brandenburg;Germany;444623;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;yes;Deli-Sandwiches;"13:00-08:00;";13:00;08:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10131;Popeyes Famous Fried Chicken;A1047248;Crescent Oaks;Berlin;Brandenburg;Germany;837117;Full_Bar;section;informal;4;completely;f;variety;yes;Diner;"13:00-08:00;";13:00;08:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10132;New Mex Cafe;A1061773;Hoard;Berlin;Brandenburg;Germany;566202;No_Alcohol_Served;section;informal;1;no_accessibility;f;none;yes;Mexican;"13:00-08:00;";13:00;08:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;5
+RE10133;Dollop;A1044974;Randy;Berlin;Brandenburg;Germany;116179;Wine-Beer;none;informal;2;no_accessibility;f;none;public;Mexican;"14:00-23:30;";14:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10134;Shepherd''s Kitchen;A1078255;Wayridge;Berlin;Brandenburg;Germany;178030;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;yes;Mexican;"14:00-23:30;";14:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10135;Chez Kama;A1080892;Talisman;Berlin;Brandenburg;Germany;542502;No_Alcohol_Served;none;informal;5;no_accessibility;f;Internet;none;Cafeteria;"14:00-23:30;";14:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;10
+RE10136;New Naan On Devon & Grill;A1020990;Heath;Berlin;Brandenburg;Germany;272456;Wine-Beer;section;informal;1;no_accessibility;f;none;yes;Mexican;"13:00-23:00;";13:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10137;Montessori Magnet Academy Sed;A1040220;Pierstorff;Berlin;Brandenburg;Germany;386619;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;yes;Japanese;"13:00-00:00;";13:00;00:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10138;Maplewood Estates;A1090511;Jay;Berlin;Brandenburg;Germany;501194;Wine-Beer;section;casual;2;no_accessibility;f;none;yes;Sushi;"13:00-22:00;";13:00;22:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10139;Frosty Freeze Ice Cream;A1062719;Vernon;Berlin;Brandenburg;Germany;884521;No_Alcohol_Served;not permitted;informal;3;partially;t;none;yes;Mexican;"13:00-23:30;";13:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10140;Papparedelle''s;A1004429;Summerview;Berlin;Brandenburg;Germany;22974;Wine-Beer;none;informal;3;no_accessibility;f;none;none;Seafood;"13:00-00:30;";13:00;00:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10141;12th Avenue Market & Deli;A1018125;Blue Bill Park;Berlin;Brandenburg;Germany;147878;No_Alcohol_Served;permitted;informal;2;completely;t;none;yes;Cafeteria;"13:00-01:00;";13:00;01:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10142;Lawrence Diner;A1097684;Bashford;Berlin;Brandenburg;Germany;878754;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;none;Burgers;"10:00-23:30;";10:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10143;D''andrea''s Pizza;A1002728;Graceland;Berlin;Brandenburg;Germany;479501;No_Alcohol_Served;none;informal;2;completely;f;none;yes;Fast_Food;"10:00-23:30;";10:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10144;Lin Garden & Catering;A1045649;Cordelia;Berlin;Brandenburg;Germany;265425;No_Alcohol_Served;not permitted;informal;4;no_accessibility;f;none;none;Fast_Food;"11:00-23:30;";11:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;5
+RE10145;Slap Happy Cafe;A1005882;Birchwood;Berlin;Brandenburg;Germany;546534;Wine-Beer;not permitted;informal;2;completely;f;none;yes;Chinese;"11:00-23:30;";11:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10146;Asian Spoon;A1088248;Lillian;Berlin;Brandenburg;Germany;312865;Wine-Beer;none;informal;2;completely;t;variety;yes;Seafood;"11:00-23:30;";11:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10147;Bernie''s Deli Inc.;A1068766;Huxley;Berlin;Brandenburg;Germany;666283;Wine-Beer;section;informal;2;no_accessibility;f;none;none;Contemporary;"11:00-22:00;";11:00;22:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10148;Maureen Mullanys Pub;A1001043;Artisan;Berlin;Brandenburg;Germany;71439;Wine-Beer;none;informal;2;completely;t;none;yes;Bar;"12:00-22:00;";12:00;22:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10149;Guckenheimer & Groupon;A1050311;Johnson;Berlin;Brandenburg;Germany;396380;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;public;Bar_Pub_Brewery;"12:00-22:00;";12:00;22:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10150;Johnny''s Grill;A1053902;Beilfuss;Berlin;Brandenburg;Germany;914879;No_Alcohol_Served;section;informal;3;no_accessibility;f;none;yes;Japanese;"12:00-22:00;";12:00;22:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10151;Wildwood Alternative Education;A1032398;Anthes;Berlin;Brandenburg;Germany;326318;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;none;Bar;"09:00-17:00;";09:00;17:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10152;Mama Sushi;A1003208;Sachs;Berlin;Brandenburg;Germany;145917;Wine-Beer;section;informal;1;no_accessibility;f;none;yes;Bar_Pub_Brewery;"09:00-13:00;";09:00;13:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10153;Le Fournil;A1097536;Muir;Berlin;Brandenburg;Germany;210803;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;yes;Bar;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10154;Oswego Hots;A1023918;Coleman;Berlin;Brandenburg;Germany;611451;No_Alcohol_Served;none;informal;4;no_accessibility;f;none;yes;Contemporary;"11:00-21:00;";11:00;21:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10155;Manzene''s Greenside;A1061579;Shelley;Berlin;Brandenburg;Germany;111955;No_Alcohol_Served;section;informal;4;no_accessibility;f;none;none;Seafood;"11:00-21:00;";11:00;21:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10156;Lawrence & Marine;A1048367;Declaration;Berlin;Brandenburg;Germany;803744;No_Alcohol_Served;none;informal;3;completely;f;none;none;Bar;"11:00-21:00;";11:00;21:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;10
+RE10157;Waterfor;A1047786;Pawling;Berlin;Brandenburg;Germany;164991;Wine-Beer;section;informal;3;no_accessibility;f;none;yes;Pizzeria;"07:00-00:00;";07:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10158;Sweet As Honey;A1069073;Knutson;Berlin;Brandenburg;Germany;890696;Full_Bar;permitted;informal;2;completely;f;variety;none;Bar;"07:00-00:00;";07:00;00:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10159;West Haven Martket & Grill;A1058016;Reinke;Berlin;Brandenburg;Germany;71070;No_Alcohol_Served;none;informal;5;no_accessibility;f;none;yes;Bar;"07:00-00:00;";07:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10160;Katerii Tekakwitha Parish;A1035670;Lindbergh;Berlin;Brandenburg;Germany;268195;No_Alcohol_Served;section;informal;4;no_accessibility;f;none;yes;Mexican;"13:00-20:00;";13:00;20:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;10
+RE10161;Babycakes Cafe;A1024798;Glacier Hill;Berlin;Brandenburg;Germany;578746;No_Alcohol_Served;none;informal;4;no_accessibility;f;none;yes;Seafood;"13:00-20:00;";13:00;20:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10162;Good Food Cafe;A1038479;Armistice;Berlin;Brandenburg;Germany;354520;Full_Bar;section;informal;2;completely;f;none;yes;Cafeteria;"13:00-20:00;";13:00;20:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;5
+RE10163;Super Low Meat Market;A1026280;Elka;Berlin;Brandenburg;Germany;182709;No_Alcohol_Served;section;informal;4;no_accessibility;f;none;none;Fast_Food;"09:00-16:00;";09:00;16:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10164;Taste Of Distinction;A1051086;Bartillon;Berlin;Brandenburg;Germany;151388;No_Alcohol_Served;not permitted;informal;4;no_accessibility;t;none;none;Pizzeria;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10165;Bella Vita Trattoria;A1078416;Mcbride;Berlin;Brandenburg;Germany;470505;Full_Bar;none;informal;3;no_accessibility;f;none;none;Bar;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10166;Schenectady Jc Little League;A1089017;International;Berlin;Brandenburg;Germany;524175;No_Alcohol_Served;none;informal;4;no_accessibility;f;none;none;Bar_Pub_Brewery;"08:00-23:00;";08:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10167;Azteca Mexican Restaurant Fse;A1082989;Sunbrook;Berlin;Brandenburg;Germany;198597;No_Alcohol_Served;none;informal;2;no_accessibility;t;none;yes;Seafood;"08:00-23:00;";08:00;23:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10168;Sugar Lips;A1085442;Melody;Berlin;Brandenburg;Germany;200925;No_Alcohol_Served;none;informal;1;completely;f;none;yes;Bar;"08:00-23:00;";08:00;23:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10169;Front Street Deli LLC.;A1008716;Beilfuss;Berlin;Brandenburg;Germany;139787;Full_Bar;none;informal;5;no_accessibility;f;none;none;Fast_Food;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10170;Ywca Woodward Park;A1085645;Talisman;Berlin;Brandenburg;Germany;203656;No_Alcohol_Served;none;informal;2;completely;f;none;yes;Chinese;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10171;Geulah''s Kosher Cafe & Deli;A1077840;Morrow;Berlin;Brandenburg;Germany;695833;No_Alcohol_Served;none;informal;5;no_accessibility;f;none;yes;Fast_Food;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10172;Bd''s Mongolian Barbeque;A1005327;Express;Berlin;Brandenburg;Germany;179560;Full_Bar;not permitted;informal;5;completely;t;variety;yes;Pizzeria;"11:00-23:00;";11:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;10
+RE10173;J.g.''s Pizza;A1026476;Susan;Berlin;Brandenburg;Germany;561095;No_Alcohol_Served;none;informal;3;completely;f;none;none;Chinese;"11:00-23:00;";11:00;23:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10174;Mad.cty.children''s Camp Temp.res.;A1007660;Golf View;Berlin;Brandenburg;Germany;466944;Wine-Beer;section;informal;3;no_accessibility;f;none;none;Bar;"11:00-23:00;";11:00;23:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10175;Caldas Bar;A1015260;Loftsgordon;Berlin;Brandenburg;Germany;754702;No_Alcohol_Served;not permitted;casual;5;completely;f;none;public;Cafeteria;"10:00-18:00;";10:00;18:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10176;Reza''s On Ontario;A1005978;Mcguire;Berlin;Brandenburg;Germany;509142;No_Alcohol_Served;none;informal;1;completely;f;none;yes;Seafood;"10:00-18:00;";10:00;18:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10177;Hot Mollies;A1005105;Green;Berlin;Brandenburg;Germany;879178;No_Alcohol_Served;none;informal;4;no_accessibility;f;none;none;Mexican;"10:00-18:00;";10:00;18:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10178;Restaurant Mediterraneo;A1094810;Briar Crest;Berlin;Brandenburg;Germany;284392;No_Alcohol_Served;section;informal;3;no_accessibility;f;none;none;Bar;"14:00-23:30;";14:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10179;Dylan;A1009051;Maple Wood;Berlin;Brandenburg;Germany;179936;Full_Bar;section;informal;4;no_accessibility;f;none;none;Italian;"14:00-23:30;";14:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10180;Mountain Gourmet Meats;A1037989;Schlimgen;Berlin;Brandenburg;Germany;957657;No_Alcohol_Served;not permitted;casual;5;no_accessibility;f;none;none;Japanese;"14:00-23:30;";14:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10181;Sharpe Res. Camp Tommy Sed Site;A1003548;David;Berlin;Brandenburg;Germany;663803;No_Alcohol_Served;permitted;casual;5;no_accessibility;f;none;none;Cafeteria;"14:00-23:30;";14:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10182;Brownies;A1013654;Old Shore;Berlin;Brandenburg;Germany;209019;Wine-Beer;none;informal;4;no_accessibility;f;none;none;Contemporary;"14:00-23:30;";14:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10183;Sardo''s Pizzeria Of Cicero;A1088158;Sutherland;Berlin;Brandenburg;Germany;334180;No_Alcohol_Served;not permitted;informal;1;partially;f;none;yes;Seafood;"14:00-23:30;";14:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;5
+RE10184;Canastota H;A1011749;Cordelia;Berlin;Brandenburg;Germany;824851;No_Alcohol_Served;not permitted;informal;5;completely;t;none;none;Cafe-Coffee_Shop;"13:00-22:30;";13:00;22:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10185;Gourmet Taste;A1053926;Clove;Berlin;Brandenburg;Germany;689309;No_Alcohol_Served;none;informal;5;completely;f;none;none;Cafeteria;"13:30-22:30;";13:30;22:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10186;Espresso Time Ltd;A1016999;Nova;Berlin;Brandenburg;Germany;751329;No_Alcohol_Served;permitted;informal;4;completely;f;none;public;Bar;"13:30-22:30;";13:30;22:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10187;The Gray Turkey;A1079173;Cardinal;Berlin;Brandenburg;Germany;441955;No_Alcohol_Served;none;informal;2;completely;f;none;yes;Bar_Pub_Brewery;"14:00-20:00;";14:00;20:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10188;Paradise Restaurant;A1069638;Lindbergh;Berlin;Brandenburg;Germany;748531;Wine-Beer;permitted;informal;1;no_accessibility;f;none;none;Mexican;"14:00-20:00;";14:00;20:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10189;Purchase Deli;A1024303;Holy Cross;Berlin;Brandenburg;Germany;6474;No_Alcohol_Served;not permitted;informal;2;no_accessibility;t;none;yes;Mexican;"14:00-20:00;";14:00;20:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10190;Kam Sheng Restaurant;A1013040;Ramsey;Berlin;Brandenburg;Germany;997978;No_Alcohol_Served;not permitted;informal;3;partially;f;none;none;Bar;"06:00-18:00;";06:00;18:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10191;Third Rail Diner LLC;A1068140;Main;Berlin;Brandenburg;Germany;559286;Wine-Beer;none;informal;3;no_accessibility;f;none;none;Bar_Pub_Brewery;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10192;Yogurt Place;A1032097;Maple;Berlin;Brandenburg;Germany;601804;No_Alcohol_Served;not permitted;informal;4;completely;f;none;none;Mexican;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;5
+RE10193;Local Of Taberg;A1004556;Monica;Berlin;Brandenburg;Germany;26075;No_Alcohol_Served;none;informal;3;completely;t;none;none;Mexican;"12:00-23:30;";12:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10194;Holiday Inn Food Service;A1065115;Grasskamp;Berlin;Brandenburg;Germany;336803;No_Alcohol_Served;not permitted;informal;4;completely;t;none;none;Fast_Food;"12:00-23:30;";12:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10195;Merrill Magee Hous;A1050676;Del Sol;Berlin;Brandenburg;Germany;522099;No_Alcohol_Served;permitted;formal;5;completely;f;none;none;Bar;"12:00-23:30;";12:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10196;El Versalle Restaurant;A1041884;Walton;Berlin;Brandenburg;Germany;734101;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;none;Mexican;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;10
+RE10197;Moviehouse;A1063251;Village Green;Berlin;Brandenburg;Germany;319079;Wine-Beer;none;informal;5;no_accessibility;f;none;none;Bar;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10198;Lazzarano''s Pizza;A1090069;Nobel;Berlin;Brandenburg;Germany;826187;Wine-Beer;permitted;casual;4;partially;f;variety;none;Mexican;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10199;151 Grill;A1037324;Elka;Berlin;Brandenburg;Germany;742095;No_Alcohol_Served;section;informal;2;no_accessibility;f;none;yes;Contemporary;"07:00-23:30;";07:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10200;Full Mi Belly;A1036118;Lawn;Berlin;Brandenburg;Germany;591665;Wine-Beer;only at bar;informal;1;no_accessibility;t;Internet;none;Bar;"07:00-23:30;";07:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10201;Bistro 135 Inc.;A1045870;Corry;Berlin;Brandenburg;Germany;532842;No_Alcohol_Served;none;informal;3;partially;f;variety;yes;Bar_Pub_Brewery;"07:00-23:30;";07:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10202;Anne''s Pancakes;A1097538;Forest Run;Berlin;Brandenburg;Germany;351176;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;none;Mexican;"09:30-23:30;";09:30;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10203;Soul Dog;A1048783;Clarendon;Berlin;Brandenburg;Germany;486214;No_Alcohol_Served;none;informal;1;completely;f;none;none;Mexican;"09:30-23:30;";09:30;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10204;Hunan Garden Chen;A1057861;Oxford;Berlin;Brandenburg;Germany;479402;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;yes;Bar;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10205;Franklin Avenue Cafe;A1046749;Fairview;Berlin;Brandenburg;Germany;329325;Wine-Beer;section;informal;4;no_accessibility;f;none;none;Bar_Pub_Brewery;"13:00-23:00;";13:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10206;Clean Bean;A1079676;Bowman;Berlin;Brandenburg;Germany;508707;No_Alcohol_Served;permitted;informal;5;no_accessibility;f;none;yes;Chinese;"13:00-23:30;";13:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10207;Albany''s Golden Cue Billiard Lounge;A1008014;Brown;Berlin;Brandenburg;Germany;642598;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;none;Mexican;"13:00-22:00;";13:00;22:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;10
+RE10208;Lunas Ii;A1089133;Arkansas;Berlin;Brandenburg;Germany;903957;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;none;Japanese;"13:00-23:30;";13:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10209;Cornwall Bagels;A1042782;Ilene;Berlin;Brandenburg;Germany;560601;No_Alcohol_Served;none;informal;1;completely;f;none;yes;Bar;"13:00-23:30;";13:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10210;Ba Le Sandwiches;A1045076;Clyde Gallagher;Berlin;Brandenburg;Germany;104802;Wine-Beer;section;casual;3;completely;f;none;none;Cafe-Coffee_Shop;"13:00-20:00;";13:00;20:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10211;Campeche Restaurant, Inc;A1038940;Summer Ridge;Berlin;Brandenburg;Germany;628558;No_Alcohol_Served;not permitted;informal;2;completely;f;none;yes;Cafeteria;"07:00-23:00;";07:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10212;Beyond Borders Fusion Foods Llc;A1037447;Raven;Berlin;Brandenburg;Germany;819817;Wine-Beer;none;formal;2;no_accessibility;f;none;none;Bar;"07:00-23:00;";07:00;23:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10213;Pheobe''s Restaurant;A1042493;Moose;Berlin;Brandenburg;Germany;425196;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;none;Bar_Pub_Brewery;"07:00-23:00;";07:00;23:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10214;Alexandria Mediterranean Cuisine;A1078633;Dexter;Berlin;Brandenburg;Germany;745514;Wine-Beer;none;informal;2;no_accessibility;f;none;none;Mexican;"09:00-23:30;";09:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10215;Vfw Post 2307;A1048967;Arkansas;Berlin;Brandenburg;Germany;470731;No_Alcohol_Served;not permitted;informal;5;no_accessibility;f;none;yes;Mediterranean;"09:00-23:30;";09:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10216;The Local Option Tavern;A1053880;Eggendart;Berlin;Brandenburg;Germany;239662;No_Alcohol_Served;none;informal;4;no_accessibility;t;none;yes;International;"09:00-23:30;";09:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;10
+RE10217;Zengo;A1049219;Laurel;Berlin;Brandenburg;Germany;433890;No_Alcohol_Served;none;informal;3;partially;f;none;yes;Mexican;"12:00-23:30;";12:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10218;Great Wall Chinese Tak;A1030053;Del Mar;Berlin;Brandenburg;Germany;277851;No_Alcohol_Served;not permitted;informal;1;completely;t;none;yes;Italian;"12:00-23:30;";12:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10219;Central Saloon, The;A1040979;Sommers;Berlin;Brandenburg;Germany;634969;Wine-Beer;section;informal;5;no_accessibility;f;none;valet parking;Bar;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10220;Allied Housing;A1050718;Ridgeview;Berlin;Brandenburg;Germany;391746;Wine-Beer;none;informal;1;no_accessibility;f;none;none;Bar_Pub_Brewery;"12:00-23:00;";12:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;10
+RE10221;Cocoplum 153;A1059514;3rd;Berlin;Brandenburg;Germany;998724;No_Alcohol_Served;not permitted;informal;2;no_accessibility;f;none;yes;Bar;"12:00-23:00;";12:00;23:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10222;Dippin Donuts;A1098925;Lake View;Berlin;Brandenburg;Germany;640901;No_Alcohol_Served;none;informal;1;completely;f;none;yes;Bar_Pub_Brewery;"12:00-23:00;";12:00;23:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;5
+RE10223;Bristol Mt. Day Care;A1002038;Blue Bill Park;Berlin;Brandenburg;Germany;897159;No_Alcohol_Served;none;informal;3;completely;t;none;yes;Italian;"07:00-23:00;";07:00;23:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10224;Oceanaire Seafood Room;A1044422;Morrow;Berlin;Brandenburg;Germany;227297;No_Alcohol_Served;not permitted;informal;1;partially;t;none;yes;Seafood;"07:00-23:00;";07:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10225;Dunkin Dounuts;A1098905;Schlimgen;Berlin;Brandenburg;Germany;737414;No_Alcohol_Served;not permitted;informal;1;completely;f;none;none;Mexican;"07:00-23:00;";07:00;23:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10226;O''learys Blazer Pub;A1033656;Utah;Berlin;Brandenburg;Germany;369091;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;none;Mediterranean;"14:00-23:30;";14:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10227;134 Broadway Cafe;A1033053;Mcguire;Berlin;Brandenburg;Germany;453517;Wine-Beer;not permitted;informal;1;no_accessibility;f;Internet;none;Burgers;"14:00-23:30;";14:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10228;Hand Held Products Cafeteria;A1058293;Corben;Berlin;Brandenburg;Germany;651388;No_Alcohol_Served;none;informal;4;completely;f;none;none;Mexican;"14:00-18:00;";14:00;18:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10229;Wolfe''s Pizza & Wholesale;A1071728;Sugar;Berlin;Brandenburg;Germany;891903;No_Alcohol_Served;none;informal;5;completely;f;none;yes;Cafe-Coffee_Shop;"07:00-22:30;";07:00;22:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10230;Paulina Grocery;A1013130;Linden;Berlin;Brandenburg;Germany;913964;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;yes;Cafeteria;"07:00-22:30;";07:00;22:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10231;Knuckleheads Brewhouse;A1040059;Barby;Berlin;Brandenburg;Germany;610274;No_Alcohol_Served;none;informal;1;completely;f;none;yes;Mexican;"07:00-22:30;";07:00;22:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10232;Jj''s Pizza Planet;A1002888;Tennyson;Berlin;Brandenburg;Germany;884236;Wine-Beer;only at bar;informal;2;partially;f;none;valet parking;Latin_American;"08:30-19:30;";08:30;19:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10233;Sick Moon Saloon;A1075400;Victoria;Berlin;Brandenburg;Germany;218393;No_Alcohol_Served;none;informal;5;completely;t;none;yes;Mexican;"08:30-19:30;";08:30;19:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10234;Old Hotel Cafe;A1010135;Drewry;Berlin;Brandenburg;Germany;435104;No_Alcohol_Served;permitted;informal;2;completely;t;none;none;American;"09:00-15:00;";09:00;15:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10235;Cheryl''s Place;A1081278;Dovetail;Berlin;Brandenburg;Germany;476352;Wine-Beer;none;informal;4;no_accessibility;f;none;none;International;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10236;Bronxville Cinemas;A1006280;Stoughton;Berlin;Brandenburg;Germany;542892;No_Alcohol_Served;none;casual;2;completely;f;none;yes;Family;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10237;J & G Italian Deli;A1001115;Melby;Berlin;Brandenburg;Germany;998425;Wine-Beer;section;informal;5;no_accessibility;t;Internet;yes;Cafeteria;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10238;Gelato Fresco;A1068326;Macpherson;Berlin;Brandenburg;Germany;313488;No_Alcohol_Served;not permitted;informal;3;completely;t;none;yes;Mexican;"07:00-23:00;";07:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10239;Texas Lunch Restaurant;A1091755;Eliot;Berlin;Brandenburg;Germany;159392;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;yes;Family;"07:00-23:00;";07:00;23:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10240;Cafe Les Baux;A1052425;Merry;Berlin;Brandenburg;Germany;475245;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;yes;Caribbean;"07:00-23:00;";07:00;23:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10241;Vico Restaurant;A1076866;Leroy;Berlin;Brandenburg;Germany;210246;Wine-Beer;none;informal;1;no_accessibility;f;none;yes;Mexican;"11:30-19:00;";11:30;19:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10242;Shogi Japanese Resturant;A1061449;Homewood;Berlin;Brandenburg;Germany;625846;Wine-Beer;section;informal;3;no_accessibility;f;none;none;American;"11:30-19:00;";11:30;19:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10243;La Forchetta;A1023121;Mosinee;Berlin;Brandenburg;Germany;355829;Wine-Beer;none;informal;3;no_accessibility;f;none;none;Mexican;"11:30-19:00;";11:30;19:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10244;Palermo''s Sub Station;A1097314;Brentwood;Berlin;Brandenburg;Germany;744530;No_Alcohol_Served;not permitted;informal;5;no_accessibility;t;none;none;Mexican;"12:00-23:30;";12:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10245;Patio Drive In;A1021708;Mosinee;Berlin;Brandenburg;Germany;822291;No_Alcohol_Served;not permitted;informal;4;no_accessibility;f;none;none;Family;"12:00-23:30;";12:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10246;Lynbrook S Middle Schl(lynbrook Ufsd;A1044408;Wayridge;Berlin;Brandenburg;Germany;656719;Wine-Beer;none;informal;2;completely;f;none;none;Bar;"12:00-23:30;";12:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10247;Panaderia Juarez;A1004476;Katie;Berlin;Brandenburg;Germany;243807;Full_Bar;section;informal;1;completely;f;variety;none;Mexican;"13:00-23:00;";13:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10248;Doggitt;A1072218;Derek;Berlin;Brandenburg;Germany;144805;Wine-Beer;none;informal;2;completely;f;none;none;Cafeteria;"13:00-23:00;";13:00;23:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10249;Hanks Ice Cream;A1065835;La Follette;Berlin;Brandenburg;Germany;513759;No_Alcohol_Served;none;informal;1;completely;f;none;public;Family;"13:00-23:00;";13:00;23:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10250;God First God Last God Always;A1040156;Maryland;Berlin;Brandenburg;Germany;697561;No_Alcohol_Served;section;informal;4;no_accessibility;f;none;none;American;"13:00-23:00;";13:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10251;Muddy Cup Coffee House;A1033072;Golf View;Berlin;Brandenburg;Germany;548113;Wine-Beer;none;casual;2;completely;f;none;none;Contemporary;"13:00-23:00;";13:00;23:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10252;Shining Star Child Development Institute Of The Arts Inc.;A1000517;Mallard;Berlin;Brandenburg;Germany;770240;Full_Bar;section;informal;2;no_accessibility;f;none;none;Italian;"13:00-23:00;";13:00;23:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;10
+RE10253;Ross Towers Nutrition Site;A1090642;Sundown;Berlin;Brandenburg;Germany;386443;No_Alcohol_Served;not permitted;informal;4;completely;f;none;none;American;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10254;Tortillas Mexico Mexico;A1050579;Lukken;Berlin;Brandenburg;Germany;513253;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;none;American;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10255;Los Primos Pizza Restaurant;A1008609;Merchant;Berlin;Brandenburg;Germany;807955;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;yes;American;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10256;Thruway Deli;A1025177;Charing Cross;Berlin;Brandenburg;Germany;173533;No_Alcohol_Served;not permitted;casual;3;partially;t;none;none;Family;"14:00-22:00;";14:00;22:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;10
+RE10257;T.c. Hooligan''s Bar & Grill;A1027356;Bay;Berlin;Brandenburg;Germany;430818;No_Alcohol_Served;none;informal;2;completely;f;none;none;Mexican;"14:00-22:00;";14:00;22:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10258;Rockville Links Halfway Snack Bar;A1019308;Dapin;Berlin;Brandenburg;Germany;971698;Wine-Beer;none;casual;2;no_accessibility;f;none;none;American;"14:00-20:30;";14:00;20:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10259;China Express Restaurant;A1053556;Kensington;Berlin;Brandenburg;Germany;41230;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;none;American;"07:00-19:00;";07:00;19:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10260;Starbucks Coofee;A1061345;Pennsylvania;Berlin;Brandenburg;Germany;223701;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;none;Mexican;"07:00-19:00;";07:00;19:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10261;Cherry Brook Inn;A1011064;Eggendart;Berlin;Brandenburg;Germany;813425;Full_Bar;section;informal;4;completely;f;variety;none;American;"07:00-19:00;";07:00;19:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10262;Fernis Restaurant;A1049755;Lukken;Berlin;Brandenburg;Germany;802670;No_Alcohol_Served;section;informal;4;no_accessibility;f;none;none;Mexican;"11:00-22:00;";11:00;22:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10263;Pepper Jack''s;A1013713;Westport;Berlin;Brandenburg;Germany;71087;Wine-Beer;none;informal;5;no_accessibility;f;none;none;Mexican;"11:00-22:00;";11:00;22:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10264;Pars-persian Store;A1067136;Bellgrove;Berlin;Brandenburg;Germany;664710;No_Alcohol_Served;none;informal;5;no_accessibility;f;none;none;Mexican;"11:00-22:00;";11:00;22:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;10
+RE10265;Rio Mart;A1085632;Ridge Oak;Berlin;Brandenburg;Germany;920110;No_Alcohol_Served;none;informal;2;no_accessibility;f;Internet;none;Mexican;"08:00-23:30;";08:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10266;Orbit Gyros And Grill;A1060346;Saint Paul;Berlin;Brandenburg;Germany;136297;Wine-Beer;section;informal;5;no_accessibility;f;none;none;Mexican;"08:00-23:30;";08:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10267;Senor Dogs;A1014200;Kennedy;Berlin;Brandenburg;Germany;466546;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;none;Mexican;"08:00-23:30;";08:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10268;Four Points By Sheraton;A1034873;Jay;Berlin;Brandenburg;Germany;293355;Wine-Beer;section;casual;3;no_accessibility;f;none;none;American;"08:00-23:30;";08:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10269;El Parral Rest;A1036585;Eggendart;Berlin;Brandenburg;Germany;137169;No_Alcohol_Served;not permitted;informal;2;partially;t;none;none;Bar;"08:00-23:30;";08:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10270;Delevan Firefighters Memorial Tr Ctr;A1061454;Scofield;Berlin;Brandenburg;Germany;927731;Wine-Beer;none;informal;3;no_accessibility;f;none;public;Bar;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10271;Fat Head''s Deli Fs;A1067700;Ludington;Berlin;Brandenburg;Germany;95615;No_Alcohol_Served;permitted;informal;5;completely;t;none;none;Bar;"12:00-19:30;";12:00;19:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10272;Casual Catering & Buffet Restaurant;A1038744;Menomonie;Berlin;Brandenburg;Germany;489421;No_Alcohol_Served;none;informal;4;no_accessibility;f;none;none;Bar;"12:00-19:30;";12:00;19:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10273;Mamacita''s Restaurant;A1028782;Miller;Berlin;Brandenburg;Germany;122195;No_Alcohol_Served;none;informal;4;completely;f;none;none;Bar;"12:00-19:30;";12:00;19:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10274;Roma Deli Ii;A1088308;Killdeer;Berlin;Brandenburg;Germany;641751;No_Alcohol_Served;not permitted;informal;5;no_accessibility;f;none;yes;Bar;"12:00-20:00;";12:00;20:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10275;Alvaro Jimenez;A1053438;8th;Berlin;Brandenburg;Germany;302523;Wine-Beer;not permitted;informal;3;completely;f;none;yes;Mexican;"12:00-20:00;";12:00;20:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10276;Saveway Supermarket;A1024673;Dayton;Berlin;Brandenburg;Germany;918399;Wine-Beer;none;informal;2;completely;t;variety;yes;Burgers;"12:00-20:00;";12:00;20:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10277;Mary''s Bar & Grill;A1022092;Starling;Berlin;Brandenburg;Germany;509726;Wine-Beer;section;informal;2;no_accessibility;f;none;none;Hot_Dogs;"11:00-22:30;";11:00;22:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10278;St. Patrick''s Bakery;A1046011;Butternut;Berlin;Brandenburg;Germany;264667;Wine-Beer;none;informal;2;completely;t;none;none;Mexican;"11:00-22:30;";11:00;22:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10279;Belladessa''s Pizzeria;A1004333;Green;Berlin;Brandenburg;Germany;794682;No_Alcohol_Served;none;informal;5;no_accessibility;f;none;none;Mexican;"11:00-22:30;";11:00;22:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10280;Tuscan Grill;A1029311;Rigney;Berlin;Brandenburg;Germany;764816;No_Alcohol_Served;section;informal;4;no_accessibility;f;none;none;Mexican;"08:00-23:30;";08:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10281;Country Corner Cafe;A1034650;Sullivan;Berlin;Brandenburg;Germany;746434;No_Alcohol_Served;none;informal;5;no_accessibility;f;none;none;American;"08:00-23:30;";08:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10282;Wendy''s Old Fashioned Hamburgers(rfd;A1003838;Glacier Hill;Berlin;Brandenburg;Germany;58137;Wine-Beer;section;informal;2;no_accessibility;f;none;none;American;"08:00-22:00;";08:00;22:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10283;The Curry Cruiser;A1098741;Russell;Berlin;Brandenburg;Germany;301103;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;none;African;"08:30-21:00;";08:30;21:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10284;Murphy''s Law Irish Pub;A1052909;Petterle;Berlin;Brandenburg;Germany;380365;No_Alcohol_Served;none;informal;4;no_accessibility;f;none;none;Bar_Pub_Brewery;"08:30-21:00;";08:30;21:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10285;Southside Boys & Girls Club;A1013937;Autumn Leaf;Berlin;Brandenburg;Germany;948480;No_Alcohol_Served;section;informal;5;no_accessibility;f;none;none;Breakfast-Brunch;"08:30-21:00;";08:30;21:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;10
+RE10286;Wise Guys Entertainment;A1072038;Bayside;Berlin;Brandenburg;Germany;99683;No_Alcohol_Served;none;informal;3;completely;f;none;none;Mexican;"13:00-23:30;";13:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10287;Sushi Taiyo;A1015251;Gale;Berlin;Brandenburg;Germany;453763;Wine-Beer;section;informal;2;no_accessibility;f;none;public;American;"13:00-23:30;";13:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10288;Mole Mole;A1059022;North;Berlin;Brandenburg;Germany;62648;Full_Bar;permitted;informal;3;completely;f;variety;none;Mexican;"13:00-19:00;";13:00;19:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10289;Entrees By You;A1054076;Pearson;Berlin;Brandenburg;Germany;965532;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;none;Mexican;"13:00-22:30;";13:00;22:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10290;Noah Hous;A1094031;1st;Berlin;Brandenburg;Germany;244834;No_Alcohol_Served;section;informal;2;no_accessibility;f;none;none;Mexican;"13:00-22:30;";13:00;22:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10291;Zaccagni''s;A1085827;Thompson;Berlin;Brandenburg;Germany;229554;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;none;Mexican;"13:00-22:30;";13:00;22:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10292;Gourmet Garage;A1063082;Burrows;Berlin;Brandenburg;Germany;754088;Full_Bar;section;informal;5;completely;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10293;Kabab House,inc.;A1022130;Algoma;Berlin;Brandenburg;Germany;886120;No_Alcohol_Served;section;informal;4;no_accessibility;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10294;Los Corrales Taqueria Y Restaurante;A1067309;Farmco;Berlin;Brandenburg;Germany;148683;No_Alcohol_Served;not permitted;informal;3;no_accessibility;t;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10295;I94 Ribs & Grill Express Corp;A1018130;Bunker Hill;Berlin;Brandenburg;Germany;960906;Full_Bar;none;informal;1;no_accessibility;f;none;none;Mexican;"11:00-21:30;";11:00;21:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10296;Perla Escondida Mexican Restaurant;A1005013;Heath;Berlin;Brandenburg;Germany;99046;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;none;Burgers;"11:00-21:30;";11:00;21:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10297;New China Sea Ny Inc;A1041666;Melrose;Berlin;Brandenburg;Germany;609618;No_Alcohol_Served;none;informal;1;no_accessibility;t;none;none;Mexican;"11:00-21:30;";11:00;21:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;5
+RE10298;Mother''s Touch Day Care;A1020848;Waxwing;Berlin;Brandenburg;Germany;258275;No_Alcohol_Served;none;informal;2;completely;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10299;Phat Thai;A1032906;Declaration;Berlin;Brandenburg;Germany;254232;Full_Bar;none;informal;4;no_accessibility;f;none;none;Bar;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10300;The Chill Grill;A1024849;Clarendon;Berlin;Brandenburg;Germany;308001;No_Alcohol_Served;none;informal;5;completely;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10301;Park Manor Lounge;A1004164;Moose;Berlin;Brandenburg;Germany;108384;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;none;Mexican;"08:00-23:30;";08:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10302;Cathedrals Pizza;A1063425;Westridge;Berlin;Brandenburg;Germany;378478;Full_Bar;not permitted;informal;2;completely;t;variety;none;Mexican;"08:00-23:30;";08:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10303;Wilson''s Pizza Shop;A1022427;Scoville;Berlin;Brandenburg;Germany;637833;No_Alcohol_Served;none;informal;1;completely;f;none;none;American;"08:00-23:30;";08:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10304;Hunter Inn Management Corporation;A1033324;John Wall;Berlin;Brandenburg;Germany;127936;Wine-Beer;section;informal;4;no_accessibility;f;none;none;Mexican;"10:00-20:00;";10:00;20:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10305;Ollies;A1079714;Briar Crest;Berlin;Brandenburg;Germany;783324;No_Alcohol_Served;not permitted;casual;5;completely;f;none;none;Mexican;"10:00-20:00;";10:00;20:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10306;Hunan Larchmont;A1051119;Melvin;Berlin;Brandenburg;Germany;486567;No_Alcohol_Served;none;informal;3;completely;f;none;none;Mexican;"10:00-20:00;";10:00;20:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10307;Colorado Coffee Company;A1012716;Gateway;Berlin;Brandenburg;Germany;498896;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;none;Mexican;"08:00-17:00;";08:00;17:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10308;West Town Mobile;A1052785;Warbler;Berlin;Brandenburg;Germany;710592;No_Alcohol_Served;section;informal;5;no_accessibility;f;none;none;Mexican;"08:00-17:00;";08:00;17:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10309;Halal Mojoes Chicken & Pizza;A1070483;Eggendart;Berlin;Brandenburg;Germany;385779;Full_Bar;section;informal;1;no_accessibility;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10310;Hong An Chinese Takeout;A1095724;Talisman;Berlin;Brandenburg;Germany;842194;No_Alcohol_Served;not permitted;casual;2;no_accessibility;f;none;public;Mexican;"13:30-22:00;";13:30;22:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10311;Warren Barr Pavilion;A1015339;Sycamore;Berlin;Brandenburg;Germany;555773;No_Alcohol_Served;permitted;casual;1;no_accessibility;f;none;yes;Pizzeria;"13:30-22:00;";13:30;22:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10312;Chen''s Great Wall;A1029617;Monterey;Berlin;Brandenburg;Germany;438790;Wine-Beer;none;informal;1;no_accessibility;f;none;public;Family;"13:30-22:00;";13:30;22:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10313;Pinita Food, Inc;A1041507;Cascade;Berlin;Brandenburg;Germany;886370;No_Alcohol_Served;not permitted;informal;3;partially;f;none;public;Cafeteria;"12:00-23:30;";12:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;10
+RE10314;Tasty Sub;A1055063;Village;Berlin;Brandenburg;Germany;214107;No_Alcohol_Served;not permitted;informal;5;completely;t;none;public;Bar;"12:00-23:30;";12:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10315;Nick''s Corner Market;A1086586;Bayside;Berlin;Brandenburg;Germany;665726;No_Alcohol_Served;none;informal;3;completely;f;none;none;Mexican;"12:00-23:30;";12:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10316;Chen''s Kitchen Of New Rochelle;A1024545;Sage;Berlin;Brandenburg;Germany;807838;No_Alcohol_Served;permitted;informal;3;completely;f;none;none;Mexican;"13:30-23:30;";13:30;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10317;Dockside Pub;A1062004;Nevada;Berlin;Brandenburg;Germany;416101;No_Alcohol_Served;none;informal;3;completely;f;none;none;Mexican;"13:30-23:30;";13:30;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10318;Church Of The Holy Family;A1095988;Gateway;Berlin;Brandenburg;Germany;59818;Wine-Beer;permitted;informal;2;no_accessibility;f;none;none;American;"13:30-18:30;";13:30;18:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10319;Ni;A1048284;Pine View;Berlin;Brandenburg;Germany;625905;No_Alcohol_Served;not permitted;informal;3;no_accessibility;t;none;yes;Mexican;"13:30-23:00;";13:30;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10320;That Little Mexican Cafe Ii;A1036248;Helena;Berlin;Brandenburg;Germany;977907;No_Alcohol_Served;not permitted;informal;4;partially;f;none;none;American;"13:30-23:00;";13:30;23:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10321;Off The Wall;A1090482;Delladonna;Berlin;Brandenburg;Germany;841364;Wine-Beer;none;informal;2;no_accessibility;f;none;none;Mexican;"13:30-19:00;";13:30;19:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;10
+RE10322;Shopko Stores Inc.;A1044972;Swallow;Berlin;Brandenburg;Germany;124562;No_Alcohol_Served;not permitted;informal;5;completely;f;none;none;Mexican;"09:00-21:00;";09:00;21:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10323;Morsel;A1071266;Brown;Berlin;Brandenburg;Germany;26815;No_Alcohol_Served;none;informal;2;completely;t;none;none;Mexican;"09:00-21:00;";09:00;21:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10324;Sapore;A1049401;Leroy;Berlin;Brandenburg;Germany;63070;No_Alcohol_Served;not permitted;informal;1;completely;t;none;none;Mexican;"09:00-21:00;";09:00;21:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;10
+RE10325;Fulu Sato;A1018961;Memorial;Berlin;Brandenburg;Germany;256966;No_Alcohol_Served;permitted;formal;5;completely;f;none;yes;Mexican;"07:00-23:30;";07:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10326;Billy''s Gyros;A1092022;Mariners Cove;Berlin;Brandenburg;Germany;742615;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;yes;Mexican;"07:00-23:30;";07:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10327;Di Maggio''s Pizzeria;A1046112;Monterey;Berlin;Brandenburg;Germany;729482;Wine-Beer;none;informal;3;no_accessibility;f;none;yes;Mexican;"07:00-23:30;";07:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10328;Saveco Express Co;A1066309;Ramsey;Berlin;Brandenburg;Germany;465242;Wine-Beer;permitted;casual;3;partially;f;variety;none;Mexican;"07:00-19:00;";07:00;19:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;10
+RE10329;Boba & Crepes;A1052434;Carpenter;Berlin;Brandenburg;Germany;585258;No_Alcohol_Served;section;informal;5;no_accessibility;f;none;none;Mexican;"07:00-19:00;";07:00;19:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10330;Camp Nyack;A1056965;Mcguire;Berlin;Brandenburg;Germany;473788;Wine-Beer;only at bar;informal;2;no_accessibility;t;Internet;none;Mexican;"07:00-19:00;";07:00;19:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10331;Loft;A1024430;Buhler;Berlin;Brandenburg;Germany;800462;No_Alcohol_Served;none;informal;2;partially;f;variety;public;Mexican;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10332;Snarf''s On Broadway;A1086961;Swallow;Berlin;Brandenburg;Germany;534568;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10333;Cinnabon Bakery;A1074799;Hudson;Berlin;Brandenburg;Germany;553346;No_Alcohol_Served;none;informal;4;completely;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10334;Kisaku;A1052010;Marcy;Berlin;Brandenburg;Germany;118237;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;public;Regional;"13:00-22:00;";13:00;22:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10335;Red Line Saloon & Restaurant;A1000316;Evergreen;Berlin;Brandenburg;Germany;626870;Wine-Beer;section;informal;4;no_accessibility;f;none;none;Mexican;"13:00-22:00;";13:00;22:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10336;Den Dens;A1088053;Sachs;Berlin;Brandenburg;Germany;584042;No_Alcohol_Served;permitted;informal;5;no_accessibility;f;none;none;Mexican;"13:00-22:00;";13:00;22:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;5
+RE10337;Oneida Food Mart;A1087043;Hoepker;Berlin;Brandenburg;Germany;753580;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;none;Mexican;"13:00-23:30;";13:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10338;Sri Balaji Foods Inc;A1053940;Sage;Berlin;Brandenburg;Germany;204272;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;none;Mexican;"13:00-23:30;";13:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10339;Zanzibar Billiards Club;A1071315;Meadow Ridge;Berlin;Brandenburg;Germany;534981;No_Alcohol_Served;none;informal;3;completely;f;none;none;Mexican;"13:00-19:00;";13:00;19:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10340;Evel''s Sweets;A1005674;Red Cloud;Berlin;Brandenburg;Germany;509394;Wine-Beer;section;casual;3;completely;f;none;none;Mexican;"08:00-22:00;";08:00;22:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10341;Dale Association;A1072311;Spohn;Berlin;Brandenburg;Germany;885675;No_Alcohol_Served;not permitted;informal;5;completely;f;none;none;Mexican;"08:00-23:00;";08:00;23:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10342;Momiji Japanese Restaurant;A1029507;Kropf;Berlin;Brandenburg;Germany;848406;Wine-Beer;none;formal;4;no_accessibility;f;none;none;Chinese;"08:00-19:00;";08:00;19:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10343;Rosebud Cafe;A1010785;Mifflin;Berlin;Brandenburg;Germany;716323;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;none;Mexican;"13:30-23:30;";13:30;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10344;Cooper''s Landing;A1015810;Golden Leaf;Berlin;Brandenburg;Germany;24326;Wine-Beer;none;informal;3;no_accessibility;f;none;none;Mexican;"13:30-23:30;";13:30;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10345;Octopus Fish & Chicken Inc.;A1029744;Steensland;Berlin;Brandenburg;Germany;817030;No_Alcohol_Served;not permitted;informal;3;no_accessibility;f;none;public;Mexican;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10346;Cholies Pizzeria Inc.;A1037771;Vernon;Berlin;Brandenburg;Germany;46154;No_Alcohol_Served;none;informal;2;no_accessibility;t;none;none;Afghan;"18:00-23:30;";18:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10347;Gym By Miramont;A1082132;Miller;Berlin;Brandenburg;Germany;80277;No_Alcohol_Served;none;informal;3;partially;f;none;none;Italian;"14:00-23:30;";14:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10348;Life Of Reilly''s;A1048426;Stephen;Berlin;Brandenburg;Germany;45787;No_Alcohol_Served;not permitted;informal;1;completely;t;none;public;American;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10349;Carniceria Y Taqueria Guerrero;A1073114;Packers;Berlin;Brandenburg;Germany;813783;Wine-Beer;section;informal;2;no_accessibility;f;none;none;Cafeteria;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10350;Tianguis Fresh Foods;A1039242;Memorial;Berlin;Brandenburg;Germany;448475;Wine-Beer;none;informal;2;no_accessibility;f;none;none;Japanese;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10351;Quincy''s Llc;A1083710;Summer Ridge;Berlin;Brandenburg;Germany;725764;No_Alcohol_Served;not permitted;informal;1;no_accessibility;f;none;none;American;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10352;Infield Sports Bar;A1023333;Northport;Berlin;Brandenburg;Germany;224972;No_Alcohol_Served;none;informal;4;completely;f;none;none;American;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10353;Palenque Inc.;A1098907;Corscot;Berlin;Brandenburg;Germany;709519;No_Alcohol_Served;none;informal;1;completely;t;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10354;Peachtree Educational Daycare;A1039409;Laurel;Berlin;Brandenburg;Germany;13013;No_Alcohol_Served;not permitted;informal;2;partially;t;none;none;Burgers;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10355;Courtyard Cafe;A1062585;Fieldstone;Berlin;Brandenburg;Germany;218090;No_Alcohol_Served;not permitted;informal;5;completely;f;none;none;Pizzeria;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10356;Seoul Gardens;A1056282;Glacier Hill;Berlin;Brandenburg;Germany;939207;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10357;Carniceria La Mejor Produce;A1000313;John Wall;Berlin;Brandenburg;Germany;260794;Wine-Beer;not permitted;informal;3;no_accessibility;f;Internet;none;Bar;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;5
+RE10358;Ma Ma''s Home Cookin;A1084578;Bartillon;Berlin;Brandenburg;Germany;339556;No_Alcohol_Served;none;informal;1;completely;f;none;none;Mexican;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10359;Tacos Los Gueros;A1084735;Moland;Berlin;Brandenburg;Germany;922607;No_Alcohol_Served;none;informal;4;completely;f;none;none;Bakery;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10360;Old Mill Diner;A1052671;Fairview;Berlin;Brandenburg;Germany;318250;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;none;Cafeteria;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10361;U Like Chinese Restaurant;A1014794;Manitowish;Berlin;Brandenburg;Germany;104454;No_Alcohol_Served;none;informal;5;completely;f;none;none;Mexican;"08:00-21:00;";08:00;21:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10362;Karavalli Regional Cuisine Of India;A1032930;Scott;Berlin;Brandenburg;Germany;863733;Wine-Beer;only at bar;informal;5;partially;f;none;none;Mexican;"08:00-21:00;";08:00;21:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10363;Morgan''s Restaurant Of Syracuse;A1099316;Lyons;Berlin;Brandenburg;Germany;169714;No_Alcohol_Served;none;informal;3;completely;t;none;none;International;"08:00-21:00;";08:00;21:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;10
+RE10364;Gorilla Kids;A1029281;Heffernan;Berlin;Brandenburg;Germany;114734;No_Alcohol_Served;permitted;informal;5;completely;t;none;none;International;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10365;Garlock''s;A1029072;Morrow;Berlin;Brandenburg;Germany;254328;Wine-Beer;none;informal;3;no_accessibility;f;none;none;Burgers;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10366;Delta Kappa Epsilon Fraternity;A1097500;Evergreen;Berlin;Brandenburg;Germany;736029;No_Alcohol_Served;none;casual;3;completely;f;none;none;International;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10367;Java Joe''s An More;A1033541;Mockingbird;Berlin;Brandenburg;Germany;883702;Wine-Beer;section;informal;5;no_accessibility;t;Internet;none;International;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10368;Dean''s Restaurant;A1009834;Schmedeman;Berlin;Brandenburg;Germany;466933;No_Alcohol_Served;not permitted;informal;5;completely;t;none;public;Burgers;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10369;New Peking Chinese Restaurant;A1054518;Ridgeway;Berlin;Brandenburg;Germany;33750;No_Alcohol_Served;none;informal;5;no_accessibility;f;none;none;International;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10370;Inspiration Cafe;A1045318;Monica;Berlin;Brandenburg;Germany;959775;No_Alcohol_Served;none;informal;5;no_accessibility;f;none;none;Italian;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10371;Gan Shalom Of;A1024021;Havey;Berlin;Brandenburg;Germany;828888;Wine-Beer;none;informal;1;no_accessibility;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10372;Cat''s Meow;A1089854;Warner;Berlin;Brandenburg;Germany;386917;Wine-Beer;section;informal;1;no_accessibility;f;none;none;International;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10373;Docs;A1028792;Everett;Berlin;Brandenburg;Germany;323307;Wine-Beer;none;informal;3;no_accessibility;f;none;none;Fast_Food;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;10
+RE10374;Little Italy Pizza & Past;A1053978;Dexter;Berlin;Brandenburg;Germany;200967;No_Alcohol_Served;not permitted;informal;2;no_accessibility;t;none;none;Latin_American;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10375;Mcnally''s Deli;A1070353;Stoughton;Berlin;Brandenburg;Germany;899574;No_Alcohol_Served;not permitted;informal;2;no_accessibility;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10376;662 East Side Ice Cream Parlor;A1077543;Lillian;Berlin;Brandenburg;Germany;485731;Wine-Beer;none;informal;1;completely;f;none;none;American;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;10
+RE10377;Attivo Take And Bake;A1083841;Havey;Berlin;Brandenburg;Germany;686335;Full_Bar;section;informal;3;completely;f;variety;public;Game;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10378;Angelo''s Stuffed Pizza Corp;A1004217;Helena;Berlin;Brandenburg;Germany;110440;Wine-Beer;none;informal;5;completely;f;none;none;International;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10379;Usmania Restaurant;A1069738;Mendota;Berlin;Brandenburg;Germany;149588;No_Alcohol_Served;none;informal;1;completely;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10380;Josephine''s Cookin;A1058540;Ridgeway;Berlin;Brandenburg;Germany;369385;No_Alcohol_Served;section;informal;4;no_accessibility;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10381;Espn Zone;A1079189;Esker;Berlin;Brandenburg;Germany;120110;Wine-Beer;none;casual;4;completely;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;5
+RE10382;Seattle Art Museum;A1048990;Magdeline;Berlin;Brandenburg;Germany;8176;Full_Bar;section;informal;5;no_accessibility;f;none;none;Mexican;"13:00-22:00;";13:00;22:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10383;Eastern Style Pizza Ii Lt;A1018297;Pine View;Berlin;Brandenburg;Germany;932960;No_Alcohol_Served;not permitted;informal;4;completely;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10384;Margie''s Beef;A1022195;Grover;Berlin;Brandenburg;Germany;93854;No_Alcohol_Served;none;informal;4;no_accessibility;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10385;Cooking Academy Of Chicago Inc;A1060103;Swallow;Berlin;Brandenburg;Germany;430668;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;yes;Mexican;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;10
+RE10386;Morrisville Cafeteria;A1069585;Westridge;Berlin;Brandenburg;Germany;592539;No_Alcohol_Served;not permitted;casual;4;partially;t;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10387;Lucy''s Deli Pizza;A1091310;Bay;Berlin;Brandenburg;Germany;74595;No_Alcohol_Served;none;informal;3;completely;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10388;Sinha, Ltd;A1062210;Nancy;Berlin;Brandenburg;Germany;810029;Wine-Beer;none;casual;1;no_accessibility;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10389;Mrs. Green''s Of Webster;A1009835;Autumn Leaf;Berlin;Brandenburg;Germany;814026;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;yes;Mexican;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10390;Acropolis Diner;A1086223;Melody;Berlin;Brandenburg;Germany;275376;No_Alcohol_Served;none;informal;4;no_accessibility;f;none;valet parking;Mexican;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10391;Niagara Christian Academy;A1032109;Elmside;Berlin;Brandenburg;Germany;683170;Full_Bar;section;informal;1;completely;f;variety;none;Mexican;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10392;Romans Four Pizza;A1053036;Delaware;Berlin;Brandenburg;Germany;978347;No_Alcohol_Served;section;informal;1;no_accessibility;f;none;public;Mexican;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10393;All Shook Up!;A1062928;Del Sol;Berlin;Brandenburg;Germany;435538;Wine-Beer;none;informal;2;no_accessibility;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10394;Le Chambord Tr;A1045897;Briar Crest;Berlin;Brandenburg;Germany;51907;No_Alcohol_Served;none;informal;5;no_accessibility;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10395;Cafe Shella;A1023175;Pierstorff;Berlin;Brandenburg;Germany;66314;No_Alcohol_Served;none;informal;3;no_accessibility;f;Internet;none;International;"00:00-00:00;";00:00;00:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10396;Pinnochio''s Restuarant & Bakery;A1087022;Lillian;Berlin;Brandenburg;Germany;967838;Wine-Beer;section;informal;4;no_accessibility;f;none;none;Vegetarian;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10397;Lefty''s Colorado Trail;A1002219;Chinook;Berlin;Brandenburg;Germany;806655;No_Alcohol_Served;none;informal;4;no_accessibility;f;none;yes;Cafeteria;"07:30-23:30;";07:30;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;10
+RE10398;Big John''s Restaurant;A1039352;Rowland;Berlin;Brandenburg;Germany;735336;Wine-Beer;section;casual;5;no_accessibility;f;none;none;Mexican;"07:30-23:30;";07:30;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10399;P.j. Clarke''s East;A1095845;Sommers;Berlin;Brandenburg;Germany;80602;No_Alcohol_Served;not permitted;informal;4;partially;t;none;none;Mexican;"07:30-23:30;";07:30;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10400;San Remo Pizza;A1087833;Oxford;Berlin;Brandenburg;Germany;475402;Wine-Beer;none;informal;2;no_accessibility;f;none;none;Bar;"13:00-18:00;";13:00;18:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10401;Younger''s;A1059165;Schurz;Berlin;Brandenburg;Germany;932762;No_Alcohol_Served;permitted;informal;5;completely;t;none;none;Chinese;"13:00-23:00;";13:00;23:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10402;Daniella''s Steakhouse;A1070062;Gale;Berlin;Brandenburg;Germany;911619;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;valet parking;Chinese;"13:00-19:00;";13:00;19:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10403;Bibi Convenience;A1008243;Farragut;Berlin;Brandenburg;Germany;347865;No_Alcohol_Served;none;informal;4;completely;f;none;none;Mexican;"12:30-20:30;";12:30;20:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10404;Laura''s Sweets Specialty Bake Shoppe;A1057413;Forster;Berlin;Brandenburg;Germany;186612;No_Alcohol_Served;not permitted;informal;1;no_accessibility;f;none;none;Armenian;"12:30-20:30;";12:30;20:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10405;Vista Quality Market;A1046951;Johnson;Berlin;Brandenburg;Germany;879909;Wine-Beer;not permitted;informal;1;completely;f;none;public;Mexican;"12:30-19:00;";12:30;19:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10406;Ronny''s Original Steak House;A1058381;Sherman;Berlin;Brandenburg;Germany;510246;Wine-Beer;none;informal;1;completely;t;variety;public;Cafeteria;"08:30-21:00;";08:30;21:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10407;Barbeque Recreation;A1086154;Mariners Cove;Berlin;Brandenburg;Germany;241664;Wine-Beer;section;informal;1;no_accessibility;f;none;none;American;"08:30-21:00;";08:30;21:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10408;Franco''s Brick Oven Pizza;A1002950;Oxford;Berlin;Brandenburg;Germany;783169;Wine-Beer;none;informal;5;completely;t;none;yes;American;"08:30-21:00;";08:30;21:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10409;Holm Elementary School;A1028732;Eliot;Berlin;Brandenburg;Germany;104103;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;public;Vegetarian;"12:00-23:30;";12:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10410;Swirlz Cupcakes;A1028652;Golf View;Berlin;Brandenburg;Germany;344810;No_Alcohol_Served;section;informal;3;no_accessibility;f;none;yes;Mexican;"12:00-23:30;";12:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10411;Chef Mumford''s Dog House;A1039758;Acker;Berlin;Brandenburg;Germany;681489;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;yes;International;"12:00-23:30;";12:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10412;La Vera Cucina 3;A1042694;Burning Wood;Berlin;Brandenburg;Germany;224155;Wine-Beer;section;informal;4;no_accessibility;f;none;yes;Mexican;"12:00-20:00;";12:00;20:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10413;Jellybean Learning Center Vi;A1013838;Stephen;Berlin;Brandenburg;Germany;897677;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;public;International;"12:00-20:00;";12:00;20:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10414;Freddies;A1072174;Morrow;Berlin;Brandenburg;Germany;419255;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;yes;Mexican;"12:00-20:00;";12:00;20:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10415;'m'' Bar;A1019477;Pennsylvania;Berlin;Brandenburg;Germany;222719;No_Alcohol_Served;section;informal;2;no_accessibility;f;none;valet parking;American;"12:00-20:00;";12:00;20:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10416;Sushi Mike''s Prep Kitchen;A1080803;Barnett;Berlin;Brandenburg;Germany;167090;No_Alcohol_Served;none;informal;3;completely;f;none;yes;International;"12:00-20:00;";12:00;20:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10417;Szabolcs Bujdoso;A1042579;Darwin;Berlin;Brandenburg;Germany;335644;Wine-Beer;section;informal;2;no_accessibility;f;none;yes;International;"11:30-20:00;";11:30;20:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;10
+RE10418;Volunteers Of America;A1073243;Division;Berlin;Brandenburg;Germany;798468;Full_Bar;permitted;informal;4;completely;f;variety;yes;Mexican;"07:00-23:30;";07:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10419;Riverside Lobby Shop;A1017698;Gulseth;Berlin;Brandenburg;Germany;571875;No_Alcohol_Served;none;informal;5;no_accessibility;f;none;none;Italian;"07:00-23:30;";07:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10420;Marios'' Place;A1084792;Sheridan;Berlin;Brandenburg;Germany;766159;No_Alcohol_Served;section;informal;1;no_accessibility;f;none;none;International;"07:00-23:30;";07:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10421;Inspired Souls;A1015377;Rockefeller;Berlin;Brandenburg;Germany;138856;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;none;Family;"07:30-18:00;";07:30;18:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10422;Sacred Grounds Coffeehouse Of Mendon;A1059680;Mandrake;Berlin;Brandenburg;Germany;608046;Full_Bar;section;informal;1;completely;f;none;none;Mexican;"07:30-18:00;";07:30;18:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10423;Big Daddy''s;A1036469;American;Berlin;Brandenburg;Germany;246886;No_Alcohol_Served;section;informal;5;no_accessibility;f;none;yes;Mexican;"07:30-18:00;";07:30;18:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10424;Kosher Pizza;A1026513;Hudson;Berlin;Brandenburg;Germany;498107;No_Alcohol_Served;not permitted;informal;4;no_accessibility;t;none;none;Mexican;"11:00-21:00;";11:00;21:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10425;Charlotte Hots;A1015530;Badeau;Berlin;Brandenburg;Germany;999666;Full_Bar;none;informal;5;no_accessibility;f;none;public;Mexican;"11:00-21:00;";11:00;21:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10426;The New Energy Cafe;A1088606;Dunning;Berlin;Brandenburg;Germany;519159;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;yes;Mexican;"11:00-21:00;";11:00;21:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10427;China King Chinese Restaurant Llc;A1074622;Novick;Berlin;Brandenburg;Germany;874241;No_Alcohol_Served;none;informal;2;no_accessibility;t;none;yes;Mexican;"12:00-18:00;";12:00;18:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10428;Camp Lovejoy;A1066541;Hazelcrest;Berlin;Brandenburg;Germany;756490;No_Alcohol_Served;none;informal;4;completely;f;none;none;American;"12:00-18:00;";12:00;18:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10429;Zealous;A1065503;Bunting;Berlin;Brandenburg;Germany;969112;Full_Bar;none;informal;5;no_accessibility;f;none;none;Bakery;"12:00-18:00;";12:00;18:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;10
+RE10430;Best Croutons, Llc;A1051184;Schmedeman;Berlin;Brandenburg;Germany;226445;No_Alcohol_Served;none;informal;4;completely;f;none;none;Breakfast-Brunch;"11:00-21:30;";11:00;21:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10431;Serenata Mexicana Deli;A1060472;Ryan;Berlin;Brandenburg;Germany;302457;No_Alcohol_Served;none;informal;4;no_accessibility;f;none;none;Burgers;"11:00-21:30;";11:00;21:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10432;Hecho;A1058067;Moland;Berlin;Brandenburg;Germany;903778;Full_Bar;not permitted;informal;3;completely;t;variety;none;Cafe-Coffee_Shop;"11:00-21:30;";11:00;21:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10433;Montgomery Hose, Hook & Ladder Food;A1030121;Donald;Berlin;Brandenburg;Germany;613848;No_Alcohol_Served;none;informal;5;completely;f;none;none;Cafeteria;"07:00-23:00;";07:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10434;Skinners Falls Campground;A1022054;Forest Run;Berlin;Brandenburg;Germany;296616;Wine-Beer;section;informal;3;no_accessibility;f;none;public;Diner;"07:00-23:00;";07:00;23:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10435;Tacos Tequilas;A1047715;Ramsey;Berlin;Brandenburg;Germany;266873;No_Alcohol_Served;not permitted;casual;2;completely;f;none;none;Family;"07:00-23:00;";07:00;23:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10436;Westchester Tobacco;A1046366;Namekagon;Berlin;Brandenburg;Germany;764930;No_Alcohol_Served;none;informal;1;completely;f;none;none;Mexican;"08:00-18:00;";08:00;18:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10437;Lewis'' Tavern;A1068248;Melvin;Berlin;Brandenburg;Germany;661891;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;none;Family;"09:00-15:00;";09:00;15:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10438;J. Blooms Cafe;A1041048;Kingsford;Berlin;Brandenburg;Germany;894238;No_Alcohol_Served;section;informal;5;no_accessibility;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;10
+RE10439;Steve''s Deli;A1077707;Boyd;Berlin;Brandenburg;Germany;902706;Full_Bar;section;informal;2;no_accessibility;f;none;none;Mexican;"07:00-23:00;";07:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10440;Gappy''s Pizza;A1066382;Summerview;Berlin;Brandenburg;Germany;632077;No_Alcohol_Served;not permitted;casual;1;no_accessibility;f;none;none;Japanese;"07:00-23:00;";07:00;23:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10441;Bohica Bar And Grill;A1053639;Oxford;Berlin;Brandenburg;Germany;8687;No_Alcohol_Served;permitted;casual;5;no_accessibility;f;none;none;Spanish;"07:00-23:00;";07:00;23:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10442;Chiboust;A1046978;Tony;Berlin;Brandenburg;Germany;77400;Wine-Beer;none;informal;4;no_accessibility;f;none;yes;Mexican;"13:00-23:00;";13:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10443;Picosito Picosito;A1067294;Oak Valley;Berlin;Brandenburg;Germany;740344;No_Alcohol_Served;not permitted;informal;3;partially;f;none;public;Family;"12:00-23:30;";12:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10444;Barkeater''s Barbeque;A1009110;Gateway;Berlin;Brandenburg;Germany;129758;No_Alcohol_Served;not permitted;informal;5;completely;t;none;none;Vietnamese;"12:00-22:00;";12:00;22:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;5
+RE10445;China Unicorn;A1026469;Forster;Berlin;Brandenburg;Germany;132058;No_Alcohol_Served;none;informal;2;completely;f;none;none;Japanese;"08:00-21:30;";08:00;21:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10446;Angela''s Deli;A1022806;Truax;Berlin;Brandenburg;Germany;950505;No_Alcohol_Served;permitted;informal;1;completely;f;none;none;Mexican;"08:00-21:30;";08:00;21:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10447;Faith And Love Fellowship;A1082635;Forest;Berlin;Brandenburg;Germany;127775;No_Alcohol_Served;none;informal;5;completely;f;none;none;Mexican;"00:00-00:00;";00:00;00:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10448;Raimondo Pizzeria & Rest. Inc.;A1056881;Washington;Berlin;Brandenburg;Germany;562930;Wine-Beer;permitted;informal;1;no_accessibility;f;none;none;Mexican;"07:30-23:30;";07:30;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10449;Hostaria Mazzei;A1066804;Artisan;Berlin;Brandenburg;Germany;360975;No_Alcohol_Served;not permitted;informal;2;no_accessibility;t;none;yes;Mexican;"07:30-23:30;";07:30;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10450;St. Luke Academy;A1005444;Pierstorff;Berlin;Brandenburg;Germany;947996;No_Alcohol_Served;not permitted;informal;3;partially;f;none;none;Mexican;"08:00-18:00;";08:00;18:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10451;Charlie''s Treats;A1094320;Carey;Berlin;Brandenburg;Germany;664736;Wine-Beer;none;informal;2;no_accessibility;f;none;public;Mexican;"12:00-23:30;";12:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10452;Opies Brewing Co.;A1032601;Mifflin;Berlin;Brandenburg;Germany;731243;No_Alcohol_Served;not permitted;informal;4;completely;f;none;none;Mexican;"12:00-23:30;";12:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10453;Park Avenue Restaurant;A1094364;Monument;Berlin;Brandenburg;Germany;636515;No_Alcohol_Served;none;informal;4;completely;t;none;yes;Italian;"14:00-23:30;";14:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10454;Chocolate & Ice Cream Delight;A1024981;Manufacturers;Berlin;Brandenburg;Germany;984122;No_Alcohol_Served;not permitted;informal;2;completely;t;none;none;Mexican;"13:30-22:00;";13:30;22:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10455;Maxs Appetizing And Kosher Deli;A1001025;Thompson;Berlin;Brandenburg;Germany;225009;No_Alcohol_Served;permitted;formal;4;completely;f;none;none;Mexican;"13:30-23:30;";13:30;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10456;Pizza Pizza;A1063841;Northfield;Berlin;Brandenburg;Germany;104792;No_Alcohol_Served;none;informal;5;no_accessibility;f;none;yes;Mexican;"13:30-20:00;";13:30;20:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10457;Angel Restaurant;A1079012;Bobwhite;Berlin;Brandenburg;Germany;843422;Wine-Beer;none;informal;1;no_accessibility;f;none;fee;Cafeteria;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10458;Triangle Deli;A1039916;Merrick;Berlin;Brandenburg;Germany;743408;Wine-Beer;permitted;casual;2;partially;f;variety;yes;Burgers;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10459;Hebron Kebobs;A1022995;Brown;Berlin;Brandenburg;Germany;349036;No_Alcohol_Served;section;informal;5;no_accessibility;f;none;fee;Burgers;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10460;Rook Cafe And Smoothie Bar;A1054391;Little Fleur;Berlin;Brandenburg;Germany;886596;Wine-Beer;only at bar;informal;4;no_accessibility;t;Internet;fee;Mexican;"13:00-23:00;";13:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10461;Karina Place;A1048220;Delaware;Berlin;Brandenburg;Germany;334755;No_Alcohol_Served;none;informal;5;partially;f;variety;none;Mexican;"12:00-23:30;";12:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10462;One Stop Grocery;A1087971;Lakewood Gardens;Berlin;Brandenburg;Germany;422489;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;yes;Chinese;"12:00-22:00;";12:00;22:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10463;El Valle Restaurant & Bar;A1068691;Shasta;Berlin;Brandenburg;Germany;836783;No_Alcohol_Served;none;informal;3;completely;f;none;none;Mexican;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10464;Fireman Tom''s Ice Cream Commissary;A1033995;Clarendon;Berlin;Brandenburg;Germany;127183;No_Alcohol_Served;none;informal;5;no_accessibility;f;none;none;American;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10465;Tower Deli & Sundries;A1003504;Forest;Berlin;Brandenburg;Germany;873444;Wine-Beer;section;informal;4;no_accessibility;f;none;yes;Mexican;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;5
+RE10466;Mo Jo Java Juice;A1044060;Elgar;Berlin;Brandenburg;Germany;78367;No_Alcohol_Served;permitted;informal;2;no_accessibility;f;none;none;Mexican;"09:30-23:30;";09:30;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10467;Umana Yana Restaurant Wine Bar;A1077452;Surrey;Berlin;Brandenburg;Germany;237292;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;none;Mexican;"09:30-23:30;";09:30;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10468;Lighthouse;A1015513;Summerview;Berlin;Brandenburg;Germany;64548;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;public;Mexican;"09:30-23:30;";09:30;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10469;Tofully;A1093443;Waxwing;Berlin;Brandenburg;Germany;120913;No_Alcohol_Served;none;informal;4;completely;f;none;yes;Mexican;"14:00-23:30;";14:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10470;Wok'' N Roll;A1019802;Elgar;Berlin;Brandenburg;Germany;901416;Wine-Beer;section;casual;1;completely;f;none;yes;Mexican;"14:00-23:30;";14:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10471;Comfort Inn Fairgrounds;A1016779;Bartelt;Berlin;Brandenburg;Germany;482149;No_Alcohol_Served;not permitted;informal;2;completely;f;none;yes;Hot_Dogs;"14:00-21:00;";14:00;21:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10472;Creo;A1065103;Hollow Ridge;Berlin;Brandenburg;Germany;65661;Wine-Beer;none;formal;1;no_accessibility;f;none;yes;Mexican;"13:00-23:30;";13:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10473;Maurice''s Commissary;A1064586;Gerald;Berlin;Brandenburg;Germany;765598;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;none;Korean;"13:00-23:30;";13:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10474;Cayuga Health Association;A1055881;Carpenter;Berlin;Brandenburg;Germany;960144;Wine-Beer;none;informal;4;no_accessibility;f;none;none;Mexican;"13:00-19:00;";13:00;19:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;10
+RE10475;Salgado''s Grocery Store;A1024525;Springview;Berlin;Brandenburg;Germany;830510;No_Alcohol_Served;not permitted;informal;1;no_accessibility;f;none;yes;Pizzeria;"14:00-23:30;";14:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10476;Congregation Bethemeth;A1083474;Manufacturers;Berlin;Brandenburg;Germany;539975;No_Alcohol_Served;none;informal;4;no_accessibility;t;none;fee;Pizzeria;"14:00-23:30;";14:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10477;Jersey Street Bar & Grill;A1065900;Esker;Berlin;Brandenburg;Germany;714966;No_Alcohol_Served;none;informal;5;partially;f;none;fee;Mexican;"14:00-23:30;";14:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10478;Sam''s Food;A1045363;Scofield;Berlin;Brandenburg;Germany;414584;No_Alcohol_Served;not permitted;informal;1;completely;t;none;yes;Fast_Food;"11:00-20:00;";11:00;20:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;10
+RE10479;Sciortino''s Restaurant;A1020422;Katie;Berlin;Brandenburg;Germany;986235;Wine-Beer;section;informal;3;no_accessibility;f;none;yes;American;"11:00-20:00;";11:00;20:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10480;Jack''s Neighborhood Pizza;A1041364;Muir;Berlin;Brandenburg;Germany;916693;Wine-Beer;none;informal;3;no_accessibility;f;none;none;Mexican;"11:00-20:00;";11:00;20:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10481;Gene''s Sweet Tooth;A1051049;Briar Crest;Berlin;Brandenburg;Germany;926645;No_Alcohol_Served;not permitted;informal;2;no_accessibility;f;none;none;Hot_Dogs;"11:00-18:00;";11:00;18:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10482;Reconstructionist Synagogue;A1067463;Mariners Cove;Berlin;Brandenburg;Germany;93108;No_Alcohol_Served;none;informal;4;completely;f;none;valet parking;Hot_Dogs;"11:00-18:00;";11:00;18:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10483;New Lakeview;A1077344;Colorado;Berlin;Brandenburg;Germany;605278;No_Alcohol_Served;none;informal;2;completely;t;none;valet parking;Fast_Food;"11:00-18:00;";11:00;18:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10484;Mckenzy''s;A1063970;Cody;Berlin;Brandenburg;Germany;678609;No_Alcohol_Served;not permitted;informal;4;partially;t;none;valet parking;Mexican;"11:00-20:00;";11:00;20:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10485;Smoothie King;A1044573;Eagle Crest;Berlin;Brandenburg;Germany;225899;No_Alcohol_Served;not permitted;informal;3;completely;f;none;valet parking;Mexican;"11:00-20:00;";11:00;20:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10486;East High School;A1033637;Drewry;Berlin;Brandenburg;Germany;834057;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;valet parking;American;"11:00-20:00;";11:00;20:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10487;Wee Wee Center For Creative Learning;A1076919;Scott;Berlin;Brandenburg;Germany;722701;Wine-Beer;not permitted;informal;2;no_accessibility;f;Internet;yes;Mexican;"14:00-22:00;";14:00;22:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10488;The Blue Ice Tavern;A1084930;Briar Crest;Berlin;Brandenburg;Germany;498058;No_Alcohol_Served;none;informal;1;completely;f;none;yes;Mexican;"14:00-22:00;";14:00;22:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10489;Fox''s Pizza Den;A1000929;Dwight;Berlin;Brandenburg;Germany;704091;No_Alcohol_Served;none;informal;5;completely;f;none;valet parking;Mexican;"14:00-18:00;";14:00;18:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10490;Sittings At Mama''s Day Care;A1012327;Warbler;Berlin;Brandenburg;Germany;353074;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;public;Mexican;"13:00-22:00;";13:00;22:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10491;Pete''s Central I;A1046613;Saint Paul;Berlin;Brandenburg;Germany;708131;No_Alcohol_Served;none;informal;2;completely;f;none;valet parking;Mexican;"13:00-22:00;";13:00;22:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10492;Howitt Schl East;A1007063;Shasta;Berlin;Brandenburg;Germany;864559;Wine-Beer;only at bar;informal;2;partially;f;none;valet parking;Mexican;"13:00-22:00;";13:00;22:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10493;605 Reign;A1002818;Upham;Berlin;Brandenburg;Germany;92099;No_Alcohol_Served;none;informal;4;completely;t;none;yes;Mexican;"08:00-23:30;";08:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10494;Amazon Caf;A1060939;Clove;Berlin;Brandenburg;Germany;62359;No_Alcohol_Served;permitted;informal;1;completely;t;none;public;Mexican;"08:00-23:30;";08:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10495;Geppetto''s Restaurant;A1003640;Del Mar;Berlin;Brandenburg;Germany;516726;Wine-Beer;none;informal;1;no_accessibility;f;none;public;Mexican;"08:00-20:00;";08:00;20:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10496;Starlite Cafe;A1052738;Raven;Berlin;Brandenburg;Germany;90867;No_Alcohol_Served;none;casual;3;completely;f;none;public;Mexican;"13:00-22:00;";13:00;22:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10497;Vanilla Flour;A1014326;Sachs;Berlin;Brandenburg;Germany;259271;Wine-Beer;section;informal;1;no_accessibility;t;Internet;none;Mexican;"13:00-22:00;";13:00;22:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10498;Dusty''s;A1030301;Gina;Berlin;Brandenburg;Germany;313490;No_Alcohol_Served;not permitted;informal;4;completely;t;none;public;Mexican;"13:00-22:00;";13:00;22:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10499;Liz Cafe I I;A1062419;Marquette;Berlin;Brandenburg;Germany;181307;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;none;Mexican;"08:00-21:00;";08:00;21:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10500;Desert Moon Cafe;A1032511;Westerfield;Berlin;Brandenburg;Germany;751393;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;none;Mexican;"08:00-21:00;";08:00;21:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10501;Top My Pizza;A1063760;Homewood;Berlin;Brandenburg;Germany;15828;Wine-Beer;none;informal;5;no_accessibility;f;none;yes;Mexican;"09:00-17:00;";09:00;17:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10502;Coppola''s Tuscan Grill;A1003696;Steensland;Berlin;Brandenburg;Germany;477854;Wine-Beer;section;informal;5;no_accessibility;f;none;none;Mexican;"07:00-23:00;";07:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10503;S.v. Youth Bureau 500402630006;A1096018;Northland;Berlin;Brandenburg;Germany;971790;Wine-Beer;none;informal;3;no_accessibility;f;none;public;Mexican;"07:00-23:00;";07:00;23:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10504;Bethany Spirituality Ctr;A1035134;Anhalt;Berlin;Brandenburg;Germany;783981;No_Alcohol_Served;not permitted;informal;5;no_accessibility;t;none;yes;Mexican;"07:00-23:00;";07:00;23:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;5
+RE10505;Tortilleria Victoria Ii;A1014458;Fairview;Berlin;Brandenburg;Germany;333023;No_Alcohol_Served;not permitted;informal;3;no_accessibility;f;none;yes;Mexican;"14:00-23:00;";14:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10506;Squiggys;A1050715;Sunnyside;Berlin;Brandenburg;Germany;14389;Wine-Beer;none;informal;4;completely;f;none;none;Bar;"14:00-23:00;";14:00;23:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10507;Otselic Valley;A1079662;Hanover;Berlin;Brandenburg;Germany;682083;Full_Bar;section;informal;1;completely;f;variety;none;Mexican;"14:00-23:00;";14:00;23:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10508;Cottle E.s.;A1000490;Arizona;Berlin;Brandenburg;Germany;942342;Wine-Beer;none;informal;2;completely;f;none;yes;Mexican;"08:00-23:00;";08:00;23:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10509;Tata''s Daycare N Learning Center;A1060670;Fallview;Berlin;Brandenburg;Germany;511419;No_Alcohol_Served;none;informal;4;completely;f;none;yes;Mexican;"08:00-23:00;";08:00;23:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10510;360 Degrees Cafe;A1033609;Forest Dale;Berlin;Brandenburg;Germany;224011;No_Alcohol_Served;section;informal;2;no_accessibility;f;none;none;American;"08:00-23:00;";08:00;23:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10511;Stateline;A1037992;International;Berlin;Brandenburg;Germany;36099;Wine-Beer;none;casual;3;completely;f;none;public;Mexican;"09:00-16:00;";09:00;16:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10512;Arnold Winnick Student Center;A1063558;Delladonna;Berlin;Brandenburg;Germany;562532;Full_Bar;section;informal;2;no_accessibility;f;none;public;Japanese;"10:00-15:00;";10:00;15:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10513;Happy Days At Tannersville Lake;A1015155;Schlimgen;Berlin;Brandenburg;Germany;878666;No_Alcohol_Served;not permitted;informal;1;completely;f;none;none;Thai;"10:00-16:00;";10:00;16:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10514;Whipple City Pizz;A1075030;Coolidge;Berlin;Brandenburg;Germany;770469;No_Alcohol_Served;none;informal;5;no_accessibility;f;none;public;Barbecue;"09:00-17:00;";09:00;17:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10515;Fresh Mart Foods;A1090040;Eastlawn;Berlin;Brandenburg;Germany;512576;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;none;American;"09:00-17:00;";09:00;17:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10516;Koko''s Mediterranean Grill;A1075277;Kedzie;Berlin;Brandenburg;Germany;847079;No_Alcohol_Served;not permitted;casual;3;partially;t;none;none;American;"10:00-03:30;";10:00;03:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10517;Truman Moon Elementary;A1078797;Oak;Berlin;Brandenburg;Germany;155030;No_Alcohol_Served;none;informal;4;completely;f;none;none;American;"06:00-23:30;";06:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10518;9-mart Flea Market;A1086642;Fulton;Berlin;Brandenburg;Germany;765573;Wine-Beer;none;casual;3;no_accessibility;f;none;none;Mexican;"02:00-23:30;";02:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10519;J.d. George Elementary;A1012613;5th;Berlin;Brandenburg;Germany;852201;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;fee;Mexican;"04:00-23:30;";04:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10520;John''s Farms Deli;A1030655;Upham;Berlin;Brandenburg;Germany;178657;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;public;American;"07:00-22:00;";07:00;22:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10521;Eastern Style Pizza Ii Lt;A1040080;Everett;Berlin;Brandenburg;Germany;33349;Full_Bar;section;informal;4;completely;f;variety;none;Mexican;"07:00-22:00;";07:00;22:00;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10522;Pi New Rochelle;A1082489;Paget;Berlin;Brandenburg;Germany;520534;No_Alcohol_Served;section;informal;4;no_accessibility;f;none;public;Mexican;"07:00-22:00;";07:00;22:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10523;Uno Rogers Park;A1081396;Union;Berlin;Brandenburg;Germany;878167;Wine-Beer;none;informal;1;no_accessibility;f;none;none;Armenian;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10524;Pane Vino Ristorante & Catering;A1080719;Upham;Berlin;Brandenburg;Germany;294446;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;yes;Mexican;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10525;Herricks Middle Sch;A1086278;Forest Dale;Berlin;Brandenburg;Germany;472666;No_Alcohol_Served;none;informal;4;no_accessibility;f;Internet;yes;American;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;10
+RE10526;Mcauley Living Services;A1047409;Walton;Berlin;Brandenburg;Germany;61465;Wine-Beer;section;informal;1;no_accessibility;f;none;none;Mexican;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10527;Bocaza Mexican Grill;A1008641;Hermina;Berlin;Brandenburg;Germany;395130;No_Alcohol_Served;none;informal;5;no_accessibility;f;none;none;Mexican;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10528;Firehouse Tavern;A1025565;Fallview;Berlin;Brandenburg;Germany;976955;Wine-Beer;section;casual;1;no_accessibility;f;none;yes;Armenian;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10529;Lennons Pub;A1096872;High Crossing;Berlin;Brandenburg;Germany;312522;No_Alcohol_Served;not permitted;informal;3;partially;t;none;public;Mexican;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10530;Riverside Pizzeria;A1008320;Summit;Berlin;Brandenburg;Germany;826044;Wine-Beer;none;informal;4;no_accessibility;f;none;yes;Mexican;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10531;Sake Nomi L.l.c.;A1002125;Kipling;Berlin;Brandenburg;Germany;583086;No_Alcohol_Served;permitted;informal;4;completely;t;none;none;Mexican;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10532;Farmhouse;A1019047;Graedel;Berlin;Brandenburg;Germany;243160;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;none;Armenian;"11:00-23:30;";11:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10533;Haage;A1011937;Melrose;Berlin;Brandenburg;Germany;2761;No_Alcohol_Served;none;informal;3;completely;f;none;none;Mexican;"11:00-23:30;";11:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10534;The Hubbard House Restaurant;A1065717;Marquette;Berlin;Brandenburg;Germany;291923;No_Alcohol_Served;not permitted;informal;3;no_accessibility;f;none;public;Mexican;"11:00-23:30;";11:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;5
+RE10535;Centro Nuestro George E Taylor;A1069262;Dakota;Berlin;Brandenburg;Germany;704131;Wine-Beer;not permitted;informal;5;completely;f;none;none;Mexican;"10:00-23:30;";10:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10536;Charleys Philly Steaks;A1030693;Drewry;Berlin;Brandenburg;Germany;43762;Wine-Beer;none;informal;1;completely;t;variety;public;Mexican;"10:30-23:30;";10:30;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10537;The Sweet Shop;A1040704;Lake View;Berlin;Brandenburg;Germany;766254;Wine-Beer;section;informal;3;no_accessibility;f;none;public;Mexican;"10:30-23:30;";10:30;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10538;Ponderosa Steak House;A1012782;Amoth;Berlin;Brandenburg;Germany;375337;Wine-Beer;none;informal;3;completely;t;none;public;American;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10539;Pulaski Hot Spot Inc;A1030208;Pearson;Berlin;Brandenburg;Germany;881274;No_Alcohol_Served;none;informal;5;no_accessibility;f;none;yes;Mexican;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10540;Legacy At Parklands;A1069617;Green Ridge;Berlin;Brandenburg;Germany;961255;No_Alcohol_Served;section;informal;4;no_accessibility;f;none;public;American;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10541;Reggio''s Pizza Express;A1081917;Melody;Berlin;Brandenburg;Germany;343958;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;none;American;"10:30-23:30;";10:30;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10542;Lez Enfants Academy Inc.;A1063200;Sunnyside;Berlin;Brandenburg;Germany;401069;Wine-Beer;section;informal;1;no_accessibility;f;none;yes;Mexican;"10:30-23:30;";10:30;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10543;Mayne;A1074407;Express;Berlin;Brandenburg;Germany;165136;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;none;American;"10:30-23:30;";10:30;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10544;Angora Pizzeria &mediterranean Grill;A1042839;4th;Berlin;Brandenburg;Germany;386582;No_Alcohol_Served;none;informal;4;no_accessibility;f;none;none;Mexican;"12:00-17:00;";12:00;17:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;10
+RE10545;Tal Lounge;A1014392;Summit;Berlin;Brandenburg;Germany;797795;No_Alcohol_Served;section;informal;1;no_accessibility;f;none;none;African;"12:00-17:00;";12:00;17:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10546;Pint Of Plain Tap House;A1087145;Canary;Berlin;Brandenburg;Germany;979714;No_Alcohol_Served;none;informal;2;completely;f;none;none;Mexican;"12:00-19:00;";12:00;19:00;"Sun;";Yes;No;No;No;No;No;No;FlatRate;5
+RE10547;Eat Well, Stay Well Dining;A1049461;Ilene;Berlin;Brandenburg;Germany;652573;Wine-Beer;section;informal;5;no_accessibility;f;none;yes;American;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10548;Griff''s Tavern;A1030449;Fordem;Berlin;Brandenburg;Germany;761600;Full_Bar;permitted;informal;3;completely;f;variety;yes;Mexican;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10549;Kana''s Kitchen;A1095867;Elgar;Berlin;Brandenburg;Germany;961488;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;yes;African;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10550;El Potro Restaurant;A1006151;Arkansas;Berlin;Brandenburg;Germany;252197;No_Alcohol_Served;section;informal;2;no_accessibility;f;none;none;American;"11:00-23:30;";11:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10551;University Of Chicago Coffee Shop;A1061484;Dahle;Berlin;Brandenburg;Germany;559073;No_Alcohol_Served;none;informal;5;no_accessibility;f;none;yes;American;"11:00-23:30;";11:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10552;Prestige Food & Liquor;A1005377;Emmet;Berlin;Brandenburg;Germany;959366;Full_Bar;section;informal;1;completely;f;none;public;Mexican;"11:00-23:30;";11:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10553;Pizza Amore;A1066405;Stoughton;Berlin;Brandenburg;Germany;16908;No_Alcohol_Served;section;informal;5;no_accessibility;f;none;public;American;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10554;Elnora''s Health Unlimited;A1021250;7th;Berlin;Brandenburg;Germany;832649;No_Alcohol_Served;not permitted;informal;5;no_accessibility;t;none;none;American;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10555;Panchos Te;A1093155;Marcy;Berlin;Brandenburg;Germany;304802;Full_Bar;none;informal;5;no_accessibility;f;none;none;Mexican;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10556;Golden Home Sing Restaurant;A1077700;Bluejay;Berlin;Brandenburg;Germany;492576;No_Alcohol_Served;none;informal;4;no_accessibility;f;none;none;Mexican;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10557;Max Bialystok;A1008269;Eagan;Berlin;Brandenburg;Germany;547628;No_Alcohol_Served;none;informal;4;no_accessibility;t;none;none;Mexican;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;5
+RE10558;Pita Kabab;A1012998;Elgar;Berlin;Brandenburg;Germany;95015;No_Alcohol_Served;none;informal;5;completely;f;none;public;Mexican;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10559;Joey D''s;A1086116;Shelley;Berlin;Brandenburg;Germany;14905;Full_Bar;none;informal;3;no_accessibility;f;none;none;Mexican;"09:00-22:00;";09:00;22:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10560;Zeus Gyros Inc;A1049225;Merchant;Berlin;Brandenburg;Germany;742013;No_Alcohol_Served;none;informal;4;completely;f;none;none;Italian;"09:00-23:30;";09:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10561;Basil Doc''s Pizza;A1023314;Twin Pines;Berlin;Brandenburg;Germany;527764;No_Alcohol_Served;none;informal;4;no_accessibility;f;none;none;Italian;"09:00-20:00;";09:00;20:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10562;Anvil Inn North;A1019720;Glacier Hill;Berlin;Brandenburg;Germany;571493;Full_Bar;not permitted;informal;1;completely;t;variety;none;Mexican;"13:00-23:30;";13:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;5
+RE10563;Xeo''s Cafe;A1053579;Talisman;Berlin;Brandenburg;Germany;230171;No_Alcohol_Served;none;informal;1;completely;f;none;public;Mexican;"13:00-23:30;";13:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10564;Doggie Diner;A1025679;Hayes;Berlin;Brandenburg;Germany;140771;Wine-Beer;section;informal;3;no_accessibility;f;none;public;Mexican;"15:00-23:30;";15:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;10
+RE10565;Siam On Eastlake;A1017965;Chinook;Berlin;Brandenburg;Germany;599194;No_Alcohol_Served;not permitted;casual;4;completely;f;none;public;Chinese;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10566;Raj Food Mart Inc.;A1054383;Ridgeview;Berlin;Brandenburg;Germany;99578;No_Alcohol_Served;none;informal;2;completely;f;none;public;Mexican;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10567;Ciro''s Pizzeria & Restaurant;A1051335;Lunder;Berlin;Brandenburg;Germany;9893;No_Alcohol_Served;none;informal;3;no_accessibility;f;none;none;Fast_Food;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10568;Eagle Bagel Deli;A1013362;Rowland;Berlin;Brandenburg;Germany;682556;No_Alcohol_Served;section;informal;4;no_accessibility;f;none;public;Mexican;"10:00-21:30;";10:00;21:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10569;Bar;A1013705;Tennyson;Berlin;Brandenburg;Germany;950478;Full_Bar;section;informal;1;no_accessibility;f;none;public;Fast_Food;"10:00-23:00;";10:00;23:00;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10570;Crawford''s Corner;A1048006;Tony;Berlin;Brandenburg;Germany;461196;No_Alcohol_Served;not permitted;casual;1;no_accessibility;f;none;public;Mexican;"10:00-23:00;";10:00;23:00;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10571;Chi Cafe, Llc;A1055094;Graceland;Berlin;Brandenburg;Germany;780377;No_Alcohol_Served;permitted;casual;4;no_accessibility;f;none;public;Mexican;"14:30-20:00;";14:30;20:00;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10572;Jimmy G''s;A1020845;Forest;Berlin;Brandenburg;Germany;899100;Wine-Beer;none;informal;4;no_accessibility;f;none;none;Mexican;"14:00-20:30;";14:00;20:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10573;Cavemane Cafeteria;A1049173;Riverside;Berlin;Brandenburg;Germany;174927;No_Alcohol_Served;not permitted;informal;3;partially;f;none;public;Mexican;"14:00-20:30;";14:00;20:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10574;South Shore Produce;A1005828;Thackeray;Berlin;Brandenburg;Germany;681239;No_Alcohol_Served;not permitted;informal;3;completely;t;none;public;Pizzeria;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10575;Via Mare Fish Market;A1005771;Springs;Berlin;Brandenburg;Germany;936199;No_Alcohol_Served;none;informal;4;completely;f;none;yes;Mexican;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10576;Wm J Varney American Leg Post862;A1043855;Fairfield;Berlin;Brandenburg;Germany;494849;No_Alcohol_Served;permitted;informal;4;completely;f;none;yes;Mexican;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10577;Cordon Blue Deli;A1044777;Dwight;Berlin;Brandenburg;Germany;142134;No_Alcohol_Served;none;informal;4;completely;f;none;public;Fast_Food;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10578;La Condesa;A1063966;Bartillon;Berlin;Brandenburg;Germany;768160;Wine-Beer;permitted;informal;5;no_accessibility;f;none;yes;Mexican;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10579;Mario''s Restaurant;A1029702;Superior;Berlin;Brandenburg;Germany;672554;No_Alcohol_Served;not permitted;informal;4;no_accessibility;t;none;public;Mexican;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10580;Michelina''s Italian Eatery;A1020914;Heffernan;Berlin;Brandenburg;Germany;669767;No_Alcohol_Served;not permitted;informal;2;partially;f;none;yes;American;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10581;Saint Cajetan;A1059167;Dorton;Berlin;Brandenburg;Germany;283475;Wine-Beer;none;informal;3;no_accessibility;f;none;none;American;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10582;Village Bistro;A1001369;Northland;Berlin;Brandenburg;Germany;561197;No_Alcohol_Served;not permitted;informal;3;completely;f;none;yes;Cafeteria;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10583;Chinatown Kitchen Wei;A1059831;Waywood;Berlin;Brandenburg;Germany;558418;No_Alcohol_Served;none;informal;3;completely;t;none;yes;Mexican;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;10
+RE10584;Woodland Village;A1094159;Washington;Berlin;Brandenburg;Germany;761012;No_Alcohol_Served;not permitted;informal;5;completely;t;none;yes;Mexican;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10585;Monk''s Pizza;A1012981;American;Berlin;Brandenburg;Germany;141095;No_Alcohol_Served;permitted;formal;2;completely;f;none;none;Cafe-Coffee_Shop;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;FlatRate;7,5
+RE10586;Peking Chinese Restaurant 888;A1024382;Grim;Berlin;Brandenburg;Germany;23197;No_Alcohol_Served;none;informal;4;no_accessibility;f;none;yes;American;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10587;Broadway Caterer;A1056444;Moulton;Berlin;Brandenburg;Germany;336764;Wine-Beer;none;informal;2;no_accessibility;f;none;none;Mexican;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+RE10588;Little Pizza Shop;A1065165;Chinook;Berlin;Brandenburg;Germany;728298;Wine-Beer;permitted;casual;3;partially;f;variety;yes;Mexican;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10589;Provenance Food & Wine;A1054011;Linden;Berlin;Brandenburg;Germany;196755;No_Alcohol_Served;section;informal;4;no_accessibility;f;none;yes;Mexican;"18:30-23:30;";18:30;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10590;Bill''s Restaurant;A1059871;Evergreen;Berlin;Brandenburg;Germany;503685;Wine-Beer;only at bar;informal;5;no_accessibility;t;Internet;yes;Mexican;"17:00-23:30;";17:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;7,5
+RE10591;Sergio''s Place;A1000785;Killdeer;Berlin;Brandenburg;Germany;778770;No_Alcohol_Served;none;informal;2;partially;f;variety;yes;Mexican;"17:00-23:30;";17:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10592;Le Grand Bistro & Oyster Bar;A1058301;Merchant;Berlin;Brandenburg;Germany;24007;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;yes;Mexican;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;Free;0
+RE10593;B. Bakery;A1069615;Golf Course;Berlin;Brandenburg;Germany;599316;No_Alcohol_Served;none;informal;2;completely;f;none;yes;Mexican;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10594;Pepsico;A1004973;Sugar;Berlin;Brandenburg;Germany;492147;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;public;Mexican;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10595;Hid;A1031007;Northport;Berlin;Brandenburg;Germany;891942;Wine-Beer;section;informal;4;no_accessibility;f;none;public;Hot_Dogs;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10596;Cohoes House Of Pizza;A1044252;Prentice;Berlin;Brandenburg;Germany;416093;No_Alcohol_Served;permitted;informal;2;no_accessibility;f;none;none;Cafeteria;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;Free;0
+RE10597;American Ukranian Vet''s Mens C;A1048800;Valley Edge;Berlin;Brandenburg;Germany;611194;No_Alcohol_Served;none;informal;1;no_accessibility;f;none;none;Mexican;"00:00-23:30;";00:00;23:30;"Sun;";Yes;No;No;No;No;No;No;Free;0
+RE10598;China Express Rest;A1075015;Clove;Berlin;Brandenburg;Germany;935255;No_Alcohol_Served;none;informal;2;no_accessibility;f;none;none;American;"00:00-23:30;";00:00;23:30;"Mon;Tue;Wed;Thu;Fri;";No;Yes;Yes;Yes;Yes;Yes;No;FlatRate;7,5
+RE10599;T.p. Quinn''s;A1009288;Spohn;Berlin;Brandenburg;Germany;626125;No_Alcohol_Served;none;informal;2;completely;f;none;none;Mexican;"00:00-23:30;";00:00;23:30;"Sat;";No;No;No;No;No;No;Yes;FlatRate;10
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

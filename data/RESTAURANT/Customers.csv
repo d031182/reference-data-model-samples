@@ -1,0 +1,501 @@
+﻿CustomerID;CustomerName;;CAddressID;CustomerAddress;;CustomerLatitude;CustomerLongitude;Smoker;DrinkLevel;DressPreference;Transport;MaritalStatus;BirthYear;Interest;Personality;Profession;Budget;CustomerPhone
+C118976;Barris Cheesworth;;CA101782;1991 Blackbird Crossing;;-275.245.743;161.948.921;FALSE;abstemious;informal;on foot;single;1989;variety;thrifty-protector;student;medium;49-5298-1536358
+C126207;Bondie Hebborne;;CA101137;1093 Donald Drive;;-45.887.697;-64.202.878;FALSE;abstemious;informal;public;single;1990;technology;hunter-ostentatious;student;low;49-4255-6830176
+C198556;Esme de Mendoza;;CA104558;5875 Crescent Oaks Alley;;420.096.857;182.293.232;FALSE;social drinker;formal;public;single;1989;none;hard-worker;student;low;49-6267-6734917
+C135929;Bunni Burchett;;CA106885;75 Morning Court;;3.830.647;620.609.273;FALSE;abstemious;informal;public;single;1940;variety;hard-worker;professional;medium;49-9279-2333379
+C126300;Dominik Nutbeem;;CA109268;569 Clove Point;;400.257.239;107.143.432;FALSE;abstemious;no preference;public;single;1992;none;thrifty-protector;student;medium;49-3251-3739043
+C167757;Korie Piscopo;;CA106890;615 6th Circle;;-76.695.988;308.157.423;TRUE;social drinker;no preference;car owner;single;1989;variety;hard-worker;student;medium;49-3266-5035100
+C192823;Christabella Isson;;CA107625;97 Shelley Crossing;;234.464.152;1.040.301.606;FALSE;casual drinker;informal;public;single;1989;variety;thrifty-protector;student;low;49-2222-7636676
+C134450;Marja Molian;;CA109366;5192 Oneill Center;;39.959.953;-84.193.536;FALSE;social drinker;formal;public;single;1989;technology;hard-worker;student;low;49-0206-6439588
+C131155;Suzette Mertel;;CA103267;61672 Bartillon Way;;2.986.548;102.319.757;FALSE;abstemious;formal;on foot;single;1991;variety;thrifty-protector;student;medium;49-7287-3439269
+C170068;Bret De Santos;;CA102336;52522 Crescent Oaks Plaza;;500.105.928;157.420.508;FALSE;social drinker;no preference;car owner;married;1987;technology;hard-worker;student;medium;49-9294-5137916
+C179629;Korrie Possek;;CA102694;424 Merchant Trail;;518.135.681;-92.848.171;FALSE;abstemious;no preference;public;single;1989;variety;hard-worker;student;medium;49-9263-6934885
+C147334;Aldridge Stiddard;;CA104248;4689 Kensington Place;;410.875.099;160.604.207;FALSE;casual drinker;formal;public;single;1988;technology;hard-worker;student;medium;49-4200-9537074
+C166966;Maiga Turfin;;CA108043;21 Sheridan Parkway;;-211.661.005;-85;FALSE;abstemious;no preference;public;widow;1982;retro;thrifty-protector;professional;medium;49-4216-4130693
+C144565;Laina Hadleigh;;CA109640;320 Main Plaza;;56.654.278;1.214.737.021;FALSE;abstemious;?;public;single;1990;none;hard-worker;student;medium;49-0222-9932775
+C141823;Elston Grunbaum;;CA102396;81 Welch Pass;;24.115.578;1.210.852;TRUE;social drinker;informal;public;single;1989;technology;thrifty-protector;student;medium;49-6236-9136074
+C183545;Granthem Simione;;CA103403;0 Johnson Parkway;;265.725.006;298.554.841;FALSE;casual drinker;informal;on foot;single;1991;eco-friendly;thrifty-protector;student;medium;49-1279-5636407
+C121003;Griffith Twitching;;CA101517;920 South Circle;;45.965.631;-713.009.387;FALSE;casual drinker;formal;public;single;1991;retro;hunter-ostentatious;professional;medium;49-6209-3738863
+C150173;Thomasina Dorkins;;CA109238;2 Onsgard Place;;-31.575.874;1.312.959.142;TRUE;casual drinker;formal;public;single;1989;technology;thrifty-protector;student;low;49-3221-5031145
+C170973;Gawen Yeomans;;CA109817;36 Morning Alley;;89.951.264;99.850.365;FALSE;casual drinker;no preference;public;single;1989;variety;thrifty-protector;student;medium;49-3217-2831912
+C123704;Tuesday Mort;;CA105993;68 Stoughton Lane;;322.785.242;107.172.085;FALSE;abstemious;no preference;public;single;1982;technology;hard-worker;professional;medium;49-8233-2735102
+C162053;Quincy Loughren;;CA105087;7819 Warrior Court;;54.632.212;438.673.222;FALSE;social drinker;no preference;car owner;single;1984;none;hard-worker;student;medium;49-8220-3238265
+C140715;Gavan Hunday;;CA101162;1679 Vermont Hill;;30.736.899;320.695.406;FALSE;casual drinker;formal;car owner;single;1990;variety;hard-worker;student;medium;49-7239-6937845
+C171453;Enriqueta Roots;;CA105344;08 Springview Plaza;;361.398.393;121.585.315;FALSE;casual drinker;informal;car owner;single;1988;none;hard-worker;student;low;49-3257-7639933
+C173504;Ogdon Hirth;;CA103848;4 Pennsylvania Way;;28.441.557;300.636.349;?;abstemious;?;?;?;1930;none;hard-worker;?;?;49-1267-0735920
+C196455;Eldin Bulter;;CA109012;960 Hovde Point;;92.422.286;-748.068.454;FALSE;social drinker;no preference;public;single;1990;none;thrifty-protector;student;medium;49-7284-7439610
+C113339;Scarlet Turnpenny;;CA109365;3 Esker Lane;;342.565.473;321.611.288;FALSE;abstemious;formal;public;single;1989;technology;hunter-ostentatious;student;medium;49-1245-1938114
+C118672;Donaugh McKeaney;;CA101853;6 Dakota Drive;;161.225.185;189.739.954;TRUE;social drinker;no preference;public;single;1989;retro;thrifty-protector;student;low;49-6241-1334872
+C143850;Hazel Grgic;;CA108749;4266 Fairview Terrace;;576.438.118;38.856.404;FALSE;abstemious;no preference;public;single;1989;variety;hard-worker;student;medium;49-6233-3432664
+C172019;Rouvin Durdan;;CA103720;55 Red Cloud Lane;;103.765.284;1.094.245.979;TRUE;casual drinker;formal;public;single;1990;variety;conformist;student;low;49-3264-3831815
+C187880;Aguste Popelay;;CA103525;71 Dakota Parkway;;30.131.843;208.074.789;FALSE;casual drinker;formal;on foot;single;1991;eco-friendly;hard-worker;student;medium;49-0270-5230008
+C133236;Ty Gosford;;CA107151;6 Hudson Street;;3.080.447;1.236.050.105;FALSE;abstemious;informal;?;married;1992;none;hard-worker;unemployed;medium;49-4208-8631628
+C111852;Fidole Roddie;;CA102822;020 Huxley Circle;;483.071;1.119.313.826;FALSE;abstemious;formal;public;single;1989;variety;hard-worker;student;medium;49-1294-9833007
+C196196;Aaren Killeley;;CA109699;2 Maryland Park;;-33.060.598;4.194.224;FALSE;social drinker;no preference;on foot;single;1991;none;hard-worker;student;low;49-6243-0531321
+C152236;Vi Potes;;CA109459;9 Dakota Avenue;;39.042.852;-68.533.658;FALSE;casual drinker;informal;public;single;1990;technology;thrifty-protector;student;medium;49-2241-1731745
+C104802;Saudra Neylan;;CA100769;813 Waywood Court;;47.247.125;1.206.947.551;TRUE;casual drinker;no preference;car owner;single;1985;variety;hunter-ostentatious;student;medium;49-7223-5330903
+C165105;Siusan Taplin;;CA100699;53137 Pepper Wood Street;;-691.748;107.446.012;FALSE;social drinker;informal;public;single;1991;none;hard-worker;student;medium;49-8292-8931229
+C129097;Ginni Goudy;;CA104962;056 Becker Alley;;-118.887.963;106.792.761;FALSE;social drinker;no preference;public;single;1990;variety;thrifty-protector;student;low;49-4250-1238527
+C158722;Denny Tynnan;;CA108421;21 Anzinger Court;;577.500.731;-635.362.339;TRUE;social drinker;no preference;public;single;1930;variety;thrifty-protector;student;low;49-0205-5237727
+C122858;Bernadina Davitashvili;;CA105209;507 Corscot Road;;-33.472.662;-92.167;FALSE;social drinker;no preference;?;single;1989;none;hard-worker;student;medium;49-8218-2932689
+C154136;Maude Enden;;CA100667;0 6th Place;;479.039.934;112.424.933;FALSE;abstemious;no preference;public;single;1994;none;thrifty-protector;student;medium;49-4228-5330636
+C156235;Beale Fentem;;CA108230;690 Cardinal Road;;291.416.432;353.685.679;FALSE;abstemious;no preference;on foot;single;1985;eco-friendly;hunter-ostentatious;professional;medium;49-6214-5330130
+C102535;Briana McCumesky;;CA109275;423 Pepper Wood Terrace;;420.275.439;201.143.155;FALSE;abstemious;no preference;car owner;single;1943;technology;thrifty-protector;student;high;49-4262-4635325
+C102659;Molli Pietruszka;;CA109142;0 Loeprich Parkway;;36.112.722;422.263.783;FALSE;abstemious;no preference;public;single;1989;technology;hard-worker;student;medium;49-3236-5530242
+C183082;Sonny Feuell;;CA108128;1958 Starling Lane;;88.153.071;35.165.005;TRUE;social drinker;informal;car owner;married;1969;variety;thrifty-protector;professional;medium;49-9266-4235967
+C135040;Juliet Oen;;CA104667;17 Calypso Circle;;422.827.426;38.637;FALSE;casual drinker;elegant;car owner;single;1991;technology;thrifty-protector;student;high;49-4283-3136858
+C109814;Caty Gillian;;CA100777;94719 David Place;;50.511.083;-757.803.892;FALSE;social drinker;no preference;car owner;single;1990;retro;hard-worker;student;medium;49-4285-0137140
+C160728;Natasha Dibble;;CA102465;85832 Arapahoe Junction;;98.827.617;100.222.137;FALSE;abstemious;no preference;public;single;1992;retro;thrifty-protector;student;medium;49-0272-0635947
+C196911;Cynthy Hodgon;;CA107540;93601 Bluestem Pass;;504.072.694;430.729.987;TRUE;casual drinker;no preference;public;single;1988;eco-friendly;thrifty-protector;student;medium;49-1235-9935214
+C190859;Vinni Gallacher;;CA109663;1002 Northridge Park;;4.903.201;10.608.395;FALSE;casual drinker;informal;public;single;1991;none;hard-worker;student;?;49-9281-4030885
+C164691;Jeffy Pixton;;CA108565;3216 Katie Parkway;;445.428.135;1.085.329.338;FALSE;social drinker;no preference;car owner;single;1989;variety;hard-worker;student;medium;49-7272-3035608
+C195954;Keslie Doelle;;CA103239;57 Cardinal Drive;;493.142.554;132.227.563;FALSE;casual drinker;no preference;public;single;1979;variety;thrifty-protector;professional;medium;49-4224-4838100
+C112263;Ulrica Goldfinch;;CA103254;7351 Shopko Point;;586.073.483;-16.299.338;TRUE;social drinker;no preference;on foot;single;1990;none;conformist;student;low;49-9235-1532641
+C152240;Augustine Heinish;;CA108028;144 Randy Lane;;441.640.152;-88.436.815;FALSE;casual drinker;informal;public;single;1990;variety;thrifty-protector;student;low;49-1232-9232319
+C115677;Nobe Mulford;;CA105374;390 Arapahoe Parkway;;543.924.957;466.632.999;FALSE;social drinker;formal;public;single;1992;technology;thrifty-protector;student;medium;49-8247-5335651
+C170545;Arlyn Inett;;CA102778;9416 Granby Place;;478.172.631;116.116.695;FALSE;abstemious;no preference;car owner;married;1952;none;hard-worker;professional;medium;49-5227-0833640
+C171283;Norton Summerell;;CA105300;6858 Reinke Terrace;;535.324.492;-720.907.994;FALSE;social drinker;informal;on foot;single;1930;none;hard-worker;student;medium;49-3250-2931477
+C181640;Olenolin Liley;;CA104028;0 Chinook Circle;;139.051.904;1.100.181.673;TRUE;casual drinker;formal;public;single;1989;technology;hunter-ostentatious;student;medium;49-3293-0035834
+C161833;Dav Kisby;;CA104583;169 Haas Pass;;358.042.947;1.208.449.991;FALSE;abstemious;formal;public;single;1991;variety;hard-worker;student;low;49-6290-4539476
+C122522;Bren Whacket;;CA102895;95 Sutherland Center;;428.302.933;-49.623.678;FALSE;abstemious;formal;on foot;single;1987;technology;thrifty-protector;student;medium;49-3223-8433778
+C143749;Leanora Janata;;CA101211;424 Briar Crest Plaza;;35.811.058;-67.826.868;FALSE;casual drinker;formal;public;single;1991;technology;thrifty-protector;student;medium;49-4292-8634074
+C191790;Gael Morefield;;CA103858;21 Westridge Parkway;;28.512.467;-702.535.901;FALSE;social drinker;no preference;car owner;single;1990;none;hard-worker;professional;medium;49-4246-3939909
+C198392;Sapphire Grollmann;;CA102684;72605 Sycamore Park;;96.840.203;482.244.268;FALSE;casual drinker;informal;car owner;single;1985;variety;hard-worker;student;medium;49-3206-3233158
+C162027;My Mynett;;CA104681;7000 Loomis Center;;550.214.573;-80.224.709;FALSE;casual drinker;formal;public;single;1988;eco-friendly;conformist;student;medium;49-1271-8237439
+C171647;Flin Sivyer;;CA105862;1015 Sherman Terrace;;-80.896;8.309.014;FALSE;casual drinker;formal;public;single;1991;variety;hunter-ostentatious;student;medium;49-4227-1735476
+C187266;Fin McAuslan;;CA102371;469 Johnson Plaza;;35.492.876;8.612.402;FALSE;abstemious;formal;public;single;1989;technology;conformist;student;medium;49-0271-8137406
+C172229;Travers Fuente;;CA106413;25 Calypso Point;;486.945.174;58.715.134;FALSE;abstemious;informal;public;single;1986;technology;thrifty-protector;student;low;49-4250-2838527
+C157156;Stacie Gherardini;;CA106400;7 Arizona Circle;;34.590.145;5.595.535;FALSE;abstemious;no preference;public;single;1987;technology;thrifty-protector;student;medium;49-1242-6637728
+C117002;Janot Gruszka;;CA108030;58 Cambridge Alley;;61.514.423;94.928.484;FALSE;casual drinker;informal;public;single;1988;technology;thrifty-protector;student;low;49-2255-1631177
+C190401;Bailie Rampage;;CA101615;4178 Bartelt Road;;135.336.211;-83.624.629;FALSE;social drinker;no preference;public;single;1983;variety;thrifty-protector;professional;medium;49-6277-4032019
+C196728;Jo ann Hodges;;CA105677;89856 Kropf Drive;;335.177.039;-697.294.736;FALSE;casual drinker;informal;public;single;1991;variety;thrifty-protector;student;low;49-5260-6735985
+C101972;Jerrold Gearing;;CA103378;6 Village Trail;;489.398.644;1.642.740.515;FALSE;abstemious;formal;car owner;single;1930;none;hunter-ostentatious;student;high;49-1278-5438918
+C169435;Moina Latore;;CA109966;358 Forest Dale Park;;150.676;1.357.683.696;FALSE;casual drinker;no preference;public;single;1984;eco-friendly;thrifty-protector;student;medium;49-8258-1830460
+C140634;Mina Storch;;CA106624;33 Veith Avenue;;346.682.722;101.765.843;FALSE;abstemious;informal;car owner;widow;1989;none;hard-worker;unemployed;medium;49-0298-5836149
+C106465;Teddy Chotty;;CA100901;282 Towne Parkway;;-76.185.371;276.363.775;TRUE;casual drinker;no preference;car owner;single;1967;eco-friendly;hard-worker;professional;medium;49-4275-0039165
+C155014;Lira Botfield;;CA104893;31 Aberg Road;;420.753.926;-7.559.557;FALSE;casual drinker;informal;car owner;single;1991;technology;thrifty-protector;student;medium;49-2296-4734104
+C111322;Deborah Lawlan;;CA103985;77 Grasskamp Parkway;;499.912.948;1.209.731.375;FALSE;social drinker;elegant;public;married;1987;technology;thrifty-protector;student;medium;49-6274-5730058
+C134726;Kory Venmore;;CA103936;9656 Village Green Hill;;58.734.472;-731.661.093;FALSE;social drinker;elegant;public;married;1987;technology;thrifty-protector;student;medium;49-7214-4938816
+C172418;Cornell Rose;;CA105575;57054 Eagle Crest Alley;;31.121.428;1.194.213.786;TRUE;social drinker;informal;car owner;single;1983;variety;hard-worker;professional;medium;49-7222-8332365
+C177424;Emalee Rain;;CA107751;43596 Hallows Circle;;570.408.915;120.764.679;FALSE;abstemious;formal;public;single;1992;technology;thrifty-protector;?;medium;49-1250-7438853
+C122046;Marlin Ickovici;;CA101351;7383 American Ash Trail;;-81.268.196;120.482.198;TRUE;social drinker;formal;car owner;single;1987;variety;hard-worker;student;low;49-3229-2039284
+C170410;Valery McBeith;;CA102415;9 Loeprich Circle;;21.355.574;3.550.838;FALSE;casual drinker;informal;public;single;1991;variety;hard-worker;student;low;49-7201-1738347
+C153663;Enrichetta Sharpless;;CA107914;488 Lyons Drive;;-83.797.336;15.924.147;TRUE;abstemious;informal;public;single;1989;variety;hard-worker;student;medium;49-2242-6836634
+C100849;Barton Uttley;;CA103387;817 Ridge Oak Lane;;-7.935.534;1.160.761.121;FALSE;abstemious;?;?;?;1981;none;hard-worker;?;?;49-2252-5832516
+C198892;Regan Henderson;;CA108007;9928 Larry Place;;-73.175.297;139.788.932;TRUE;casual drinker;formal;public;single;1991;variety;thrifty-protector;student;medium;49-1294-3233168
+C170334;Hillary Wiper;;CA102149;98005 Redwing Junction;;305.383.451;1.126.722.635;FALSE;abstemious;no preference;car owner;single;1988;technology;thrifty-protector;student;?;49-5255-8837978
+C102496;Biddy Buckland;;CA108704;75019 Meadow Ridge Road;;490.648.694;-713.764.996;FALSE;social drinker;no preference;car owner;single;1991;variety;hunter-ostentatious;student;medium;49-4236-4736822
+C157857;Emelina Bradley;;CA109012;4278 Schlimgen Junction;;59.412.262;52.527.741;FALSE;abstemious;no preference;public;single;1989;variety;thrifty-protector;student;medium;49-5293-2734341
+C122401;Giffer Airlie;;CA107318;5462 Old Gate Point;;28.650.072;1.132.037.131;FALSE;social drinker;informal;on foot;single;1991;none;hard-worker;student;medium;49-2235-4533908
+C197203;Hanni Crichmere;;CA101713;0 Porter Center;;-232.248.099;-75.142.287;TRUE;casual drinker;informal;public;single;1990;variety;conformist;student;low;49-7239-1034864
+C139381;Salomon Elsmor;;CA108883;37385 Anhalt Alley;;145.346.437;-990.073.673;FALSE;social drinker;no preference;car owner;single;1988;variety;thrifty-protector;student;medium;49-1202-1937803
+C128170;Cory Willoway;;CA100649;4514 Brentwood Pass;;534.174.421;-946.331.656;FALSE;casual drinker;no preference;car owner;single;1989;eco-friendly;thrifty-protector;student;low;49-5261-8634732
+C110879;Amabel Goodsir;;CA107180;1550 Talmadge Way;;410.032.627;156.058.647;FALSE;abstemious;formal;public;single;1990;variety;thrifty-protector;?;medium;49-7235-4439799
+C129375;Montgomery Compton;;CA103580;76 Knutson Lane;;3.153.537;118.592.707;TRUE;casual drinker;no preference;car owner;single;1990;variety;thrifty-protector;student;medium;49-3243-0138904
+C130864;Josefa de Courcy;;CA104918;8006 4th Park;;116.818.641;445.057.388;FALSE;abstemious;informal;public;single;1991;variety;thrifty-protector;student;medium;49-4212-6739999
+C183109;Antonietta Scholer;;CA102348;87 2nd Terrace;;564.428.126;82.353.656;FALSE;abstemious;formal;public;married;1986;variety;thrifty-protector;student;medium;49-4218-5837281
+C113605;Dee Windibank;;CA103814;2006 Autumn Leaf Plaza;;27.615.202;21.053.265;FALSE;abstemious;formal;public;single;1990;eco-friendly;hard-worker;student;medium;49-6294-5835318
+C175477;Cori Daintier;;CA103912;2589 La Follette Lane;;-33.419.323;237.255.557;FALSE;abstemious;formal;public;single;1990;variety;hard-worker;student;medium;49-9281-1732864
+C166039;Griffy Philipeaux;;CA106480;77 Graceland Street;;353.387.006;98.480.195;FALSE;social drinker;formal;public;single;1991;none;thrifty-protector;student;medium;49-2282-8731004
+C186157;Pascal Marini;;CA100721;677 Springs Drive;;498.825.995;1.052.897.042;TRUE;social drinker;informal;public;single;1989;technology;conformist;student;high;49-7231-2033683
+C164069;Sydney Furmonger;;CA104095;6046 Hazelcrest Street;;144.874.284;1.050.791.228;FALSE;casual drinker;formal;public;single;1990;eco-friendly;hard-worker;student;medium;49-4270-7732438
+C190189;Bailey Posten;;CA105564;289 Becker Road;;336.669.335;161.242.534;FALSE;casual drinker;no preference;car owner;single;1988;eco-friendly;hunter-ostentatious;student;low;49-8236-6537084
+C128553;Winfred Moodie;;CA108198;295 Karstens Circle;;0.6877958;289.587;FALSE;social drinker;no preference;on foot;single;1989;eco-friendly;conformist;student;low;49-9296-8832101
+C198842;Martin Bartholomieu;;CA104375;6 Loeprich Place;;567.952.392;3.740.292;FALSE;abstemious;formal;public;single;1989;technology;hard-worker;professional;medium;49-9238-6939034
+C188518;Eben Foote;;CA101218;33911 Kinsman Plaza;;399.931.853;379.565.339;TRUE;social drinker;no preference;car owner;single;1991;technology;hunter-ostentatious;student;medium;49-1212-3639327
+C101499;Khalil Verrall;;CA106656;6 Graedel Lane;;424.922.477;116.299.392;FALSE;social drinker;formal;public;single;1991;variety;hard-worker;student;medium;49-6270-0537808
+C188018;Malva Hasley;;CA104150;18395 Knutson Alley;;54.356.367;441.672.804;FALSE;casual drinker;informal;car owner;single;1930;technology;hard-worker;professional;medium;49-0223-2731799
+C192675;Juliet Kilmaster;;CA106146;52 Eggendart Place;;260.549.565;0.768949;FALSE;abstemious;no preference;car owner;single;1989;variety;hard-worker;?;high;49-3289-8130104
+C170047;Shayne Chastan;;CA109079;7 Surrey Lane;;420.011.586;233.204.309;FALSE;abstemious;informal;public;single;1983;technology;thrifty-protector;student;medium;49-4254-2433618
+C107882;Ashla Karby;;CA106662;2 Kropf Park;;-252.855.091;-723.022.522;FALSE;abstemious;formal;public;single;1989;eco-friendly;thrifty-protector;student;low;49-5270-8637355
+C150887;Marmaduke Uden;;CA101251;062 Main Trail;;2.456.853;3.510.742;FALSE;abstemious;no preference;car owner;single;1993;variety;thrifty-protector;student;medium;49-4282-8934845
+C161436;Gaby Gebbe;;CA106530;648 Burrows Way;;-236.126.976;-91.836.701;TRUE;casual drinker;formal;car owner;single;1991;none;hard-worker;student;medium;49-9233-6330895
+C130543;Ashbey Duffyn;;CA106095;0922 Ridgeview Terrace;;15.596.502;277.754.515;TRUE;casual drinker;formal;car owner;single;1991;none;hard-worker;student;medium;49-3268-4331198
+C117781;Jeannine Reasun;;CA107137;01 Stone Corner Alley;;3.530.385;1.205.244.987;FALSE;casual drinker;formal;public;single;1990;none;thrifty-protector;student;medium;49-4299-9830954
+C169297;Osmond Kinner;;CA100642;045 Bartillon Plaza;;371.432.384;1.237.154.467;FALSE;abstemious;no preference;on foot;single;1991;variety;hard-worker;student;medium;49-9289-0831741
+C179780;Tybi Tripcony;;CA103349;56585 Grasskamp Court;;608.061.218;166.887.052;TRUE;social drinker;elegant;public;single;1990;variety;hard-worker;student;low;49-6268-3336923
+C179541;Torey Doleman;;CA102677;1 Susan Avenue;;497.115.204;2.187.599;FALSE;social drinker;formal;public;married;1987;technology;thrifty-protector;student;medium;49-8233-5732934
+C133472;Arlana Benech;;CA102478;7481 Eastlawn Plaza;;581.484.742;124.825.117;FALSE;abstemious;no preference;public;single;1982;technology;thrifty-protector;professional;medium;49-9200-3939311
+C135741;Jacynth Baudon;;CA104562;89217 Rutledge Road;;413.395.549;14.457.299;TRUE;casual drinker;informal;public;single;1987;technology;thrifty-protector;student;medium;49-9253-6139430
+C191224;Greg MacDiarmond;;CA108683;10 Marcy Pass;;-73.608.928;138.060.697;FALSE;abstemious;formal;public;single;1992;eco-friendly;thrifty-protector;student;medium;49-3243-3030243
+C128064;Alameda Alentyev;;CA105920;1 Darwin Park;;-12.920.659;110.853.299;FALSE;abstemious;informal;public;single;1930;variety;hard-worker;student;low;49-1270-9531454
+C199960;Jacklyn Devitt;;CA104222;39 Continental Pass;;-287.523;1.074.144.526;FALSE;social drinker;no preference;public;married;1987;variety;thrifty-protector;working-class;medium;49-3282-7238837
+C190472;Meaghan Spolton;;CA104670;807 Portage Place;;110.465.171;1.078.243.267;?;abstemious;?;?;?;1930;none;hard-worker;?;?;49-3277-2637705
+C142255;Delaney Beharrell;;CA102515;2821 South Road;;36.569.805;-372.746.574;FALSE;abstemious;informal;?;single;1987;technology;hard-worker;student;medium;49-2291-4430554
+C178686;Cookie Scott;;CA101374;4217 Parkside Crossing;;495.516.872;232.572.455;FALSE;casual drinker;informal;public;single;1991;none;hard-worker;student;low;49-9297-3033653
+C132757;Theadora Hayford;;CA104512;35 Maple Parkway;;-63.323.202;-729.342.451;FALSE;casual drinker;formal;public;single;1990;technology;hard-worker;student;low;49-9275-6435696
+C135226;Alys Conklin;;CA109451;25 Mandrake Street;;-82.132.323;93.215.345;FALSE;casual drinker;formal;on foot;single;1990;technology;hard-worker;student;low;49-0299-5637651
+C186613;Sophie Colbourn;;CA107708;263 Dawn Pass;;387.755.649;179.833.033;FALSE;abstemious;no preference;public;single;1992;variety;hard-worker;student;low;49-4227-6337587
+C168537;Coraline Hucknall;;CA105861;72605 Cascade Road;;8.287.423;1.134.586;FALSE;casual drinker;no preference;public;single;1986;variety;thrifty-protector;student;low;49-9267-1036569
+C182621;Ellyn Knibley;;CA101801;0460 Tennessee Crossing;;416.412.644;12.557.278;FALSE;casual drinker;no preference;public;single;1989;variety;thrifty-protector;student;low;49-5223-1932790
+C180140;Fredi Arnold;;CA105656;5531 Sheridan Drive;;0.4607691;-369.111.057;?;abstemious;?;?;?;1989;none;hard-worker;?;?;49-5299-8930623
+C145863;Corette Hitter;;CA104234;789 Prairieview Junction;;55.067.818;-489.383.824;TRUE;social drinker;no preference;car owner;married;1990;eco-friendly;hard-worker;student;medium;49-3206-3334240
+C186416;Katusha Fallowes;;CA101372;75 Stoughton Terrace;;613.444.468;22.938.485;FALSE;casual drinker;informal;public;single;1991;none;hard-worker;student;?;49-8239-8831447
+C190600;Hobie Fassbindler;;CA103698;783 Logan Junction;;-294.169.973;117.788.836;FALSE;abstemious;no preference;car owner;single;1991;none;hard-worker;student;medium;49-4229-6331314
+C186251;Walsh Wayon;;CA108386;9 Lerdahl Park;;35.553.144;2.166.848;FALSE;casual drinker;no preference;public;single;1991;variety;hard-worker;student;medium;49-3263-9334301
+C186367;Henrieta Beagrie;;CA102273;564 Sunnyside Parkway;;446.441.061;120.738.172;FALSE;casual drinker;informal;on foot;single;1988;variety;hunter-ostentatious;student;low;49-0296-6232943
+C153089;Moises Tufts;;CA105385;66837 Northfield Court;;398.385.153;1.006.309.169;TRUE;social drinker;no preference;car owner;single;1990;retro;thrifty-protector;student;low;49-2214-2330518
+C155613;Timothee Batterson;;CA104974;2 Moose Pass;;526.924.095;112.225.334;FALSE;social drinker;formal;public;single;1989;eco-friendly;hard-worker;student;low;49-1222-8830548
+C148451;Tate Weild;;CA105679;166 Sutherland Lane;;-66.327.752;5.942.257;FALSE;social drinker;formal;public;single;1991;variety;thrifty-protector;student;medium;49-4222-1931610
+C156809;Carmine Smithin;;CA109006;32424 Linden Way;;328.449.406;-75.811.744;FALSE;abstemious;informal;on foot;single;1985;variety;thrifty-protector;student;;49-1202-2335073
+C177970;Alina McGurn;;CA106782;3644 Cascade Circle;;522.346.447;389.367.364;FALSE;abstemious;informal;public;single;1985;technology;hunter-ostentatious;student;;49-3254-9338285
+C139154;Bel Grimley;;CA107985;2 Rusk Way;;-338.603.461;202.827;FALSE;social drinker;formal;public;single;1985;none;hard-worker;student;;49-6236-9230292
+C182894;Garrek Shillam;;CA105612;28594 Pearson Point;;22.555.259;117.081.971;FALSE;abstemious;informal;public;single;1985;variety;hard-worker;professional;;49-0278-2632822
+C144536;Conney Mildmott;;CA109107;04 American Terrace;;-66.551.319;59.832.577;FALSE;abstemious;no preference;public;single;1985;none;thrifty-protector;student;;49-7274-8437155
+C146047;Violante Costellow;;CA104804;566 Lawn Court;;22.278.214;15.952.954;TRUE;social drinker;no preference;car owner;single;1985;variety;hard-worker;student;;49-6299-2838322
+C167992;Aila Moorman;;CA108341;8 Hayes Terrace;;-70.777.326;117.549.211;FALSE;casual drinker;informal;public;single;1985;variety;thrifty-protector;student;;49-6234-2633472
+C164578;Meriel Lunnon;;CA107427;69716 Barby Way;;12.151.801;1.449.611.223;FALSE;social drinker;formal;public;single;1985;technology;hard-worker;student;;49-5260-6739490
+C170691;Ogdan Pahler;;CA102217;06077 Oriole Center;;3.054.251;103.374.576;FALSE;abstemious;formal;on foot;single;1985;variety;thrifty-protector;student;;49-2297-2436144
+C136874;Gilbertine Clayson;;CA104093;1987 Pawling Pass;;80.419.777;-28.080.155;FALSE;social drinker;no preference;car owner;married;1985;technology;hard-worker;student;;49-8296-4332367
+C163924;Gwendolyn Gribbon;;CA108839;5906 School Way;;-261.026.584;170.893.798;FALSE;abstemious;no preference;public;single;1985;variety;hard-worker;student;;49-6210-7331443
+C122757;Jefferson Devons;;CA104434;60746 Fremont Trail;;492.152.833;1.021.632.718;FALSE;casual drinker;formal;public;single;1985;technology;hard-worker;student;;49-7247-5034966
+C179577;Jeanette Kment;;CA107473;49202 Golf View Circle;;138.954.365;378.286.538;FALSE;abstemious;no preference;public;widow;1985;retro;thrifty-protector;professional;;49-3217-2238958
+C186744;Rivkah Sneezum;;CA107870;6894 Summit Hill;;534.174.421;61.807.997;FALSE;abstemious;?;public;single;1985;none;hard-worker;student;;49-5285-8038740
+C196428;Harlin Spadaro;;CA102710;38908 Summit Center;;360.268.006;11.683.333;TRUE;social drinker;informal;public;single;1985;technology;thrifty-protector;student;;49-2244-0931359
+C104400;Giusto De Ambrosi;;CA108932;35 Victoria Avenue;;-38.956.431;-386.779.363;FALSE;casual drinker;informal;on foot;single;1985;eco-friendly;thrifty-protector;student;;49-5237-6934704
+C192495;Terry Siveyer;;CA100956;986 Pennsylvania Avenue;;70.241.972;377.795.618;FALSE;casual drinker;formal;public;single;1985;retro;hunter-ostentatious;professional;;49-4200-0439867
+C167682;Rudd Kix;;CA103018;8 Fordem Junction;;213.410.625;97.817.792;TRUE;casual drinker;formal;public;single;1985;technology;thrifty-protector;student;;49-0252-7237164
+C129981;Frederique Wharmby;;CA101382;97285 Green Ridge Pass;;525.093;298.465.101;FALSE;casual drinker;no preference;public;single;1985;variety;thrifty-protector;student;;49-1205-3231185
+C144176;Nathanial Emilien;;CA101409;190 Independence Alley;;470.201.565;1.219.359;FALSE;abstemious;no preference;public;single;1986;technology;hard-worker;professional;;49-6258-3937292
+C137659;Foss Girdwood;;CA100540;0 Eliot Crossing;;-70.341.681;117.523.761;FALSE;social drinker;no preference;car owner;single;1986;none;hard-worker;student;;49-4225-9636689
+C188418;Elbert Lethabridge;;CA109154;1110 Caliangt Pass;;596.715.102;111.170.552;FALSE;casual drinker;formal;car owner;single;1986;variety;hard-worker;student;;49-1282-8630576
+C180915;Franky Guilliland;;CA109244;7 Sycamore Court;;207.236.765;-8.481.788;FALSE;casual drinker;informal;car owner;single;1986;none;hard-worker;student;;49-6245-5739652
+C136680;Carolyne Pirazzi;;CA105784;97372 Veith Drive;;457.787.293;42.531.745;?;abstemious;?;?;?;1986;none;hard-worker;?;;49-0236-4131522
+C129146;Darcy Dewan;;CA101978;044 Sutteridge Alley;;-414.332.215;179.863.038;FALSE;social drinker;no preference;public;single;1986;none;thrifty-protector;student;;49-7283-9030462
+C111544;Erskine Finneran;;CA107334;01985 Doe Crossing Trail;;3.554.729;688.347.313;FALSE;abstemious;formal;public;single;1986;technology;hunter-ostentatious;student;;49-3290-4034192
+C154278;Amye Mulqueen;;CA104609;6300 Elmside Parkway;;591.639.426;3.906.949;TRUE;social drinker;no preference;public;single;1986;retro;thrifty-protector;student;;49-2281-0331020
+C153871;Nevil Jacobi;;CA101756;7 Loftsgordon Alley;;620.096.447;1.102.485.736;FALSE;abstemious;no preference;public;single;1986;variety;hard-worker;student;;49-4282-6938623
+C116510;Peggy Maitland;;CA102463;9957 Dexter Hill;;560.817.105;1.209.518.182;TRUE;casual drinker;formal;public;single;1986;variety;conformist;student;;49-5231-1433393
+C162245;Becca Perton;;CA106267;514 Atwood Hill;;404.776.836;1.140.369.075;FALSE;casual drinker;formal;on foot;single;1986;eco-friendly;hard-worker;student;;49-8281-5035001
+C132917;Paolo Turneaux;;CA103324;64 Di Loreto Pass;;-94.852.898;124.345.771;FALSE;abstemious;informal;?;married;1986;none;hard-worker;unemployed;;49-8296-9439415
+C170179;Sissy Emms;;CA104385;3 Norway Maple Pass;;765.611;-947.195.096;FALSE;abstemious;formal;public;single;1986;variety;hard-worker;student;;49-4291-7935696
+C142205;Shamus Mein;;CA108642;83 Arkansas Trail;;-38.277.688;361.522.509;FALSE;social drinker;no preference;on foot;single;1986;none;hard-worker;student;;49-2260-7332990
+C144560;Andreas Grabiec;;CA104417;00291 Ridgeview Center;;22.654.032;411.911.122;FALSE;casual drinker;informal;public;single;1986;technology;thrifty-protector;student;;49-3268-6132443
+C131057;Bord Gull;;CA106961;060 American Circle;;543.413.515;-584.809.081;TRUE;casual drinker;no preference;car owner;single;1986;variety;hunter-ostentatious;student;;49-4213-8231797
+C135115;Tally Cutting;;CA109770;1002 Morrow Circle;;39.29;-749.208.772;FALSE;social drinker;informal;public;single;1986;none;hard-worker;student;;49-3209-5632621
+C149090;Sylvester Housam;;CA102023;5347 Tony Place;;-65.752.811;1.451.694;FALSE;social drinker;no preference;public;single;1986;variety;thrifty-protector;student;;49-7271-2338304
+C162725;Huntington Ashfield;;CA104902;7811 Mayfield Junction;;559.309.486;77.069.038;TRUE;social drinker;no preference;public;single;1986;variety;thrifty-protector;student;;49-0212-6639199
+C130980;Ashly Scrace;;CA100357;7 Ilene Street;;2.434.712;111.439.528;FALSE;social drinker;no preference;?;single;1986;none;hard-worker;student;;49-9238-1237841
+C170030;Merrick Dawtrey;;CA104833;6572 Mifflin Parkway;;554.787.765;106.888.644;FALSE;abstemious;no preference;public;single;1986;none;thrifty-protector;student;;49-3239-4239914
+C143378;Tomasine Walkden;;CA104960;61 East Circle;;45.943.745;120.382.609;FALSE;abstemious;no preference;on foot;single;1986;eco-friendly;hunter-ostentatious;professional;;49-3294-9231052
+C120784;Bale Algie;;CA104381;4 Goodland Street;;517.930.978;2.539.275;FALSE;abstemious;no preference;car owner;single;1986;technology;thrifty-protector;student;;49-7271-5735410
+C138551;Lilly Heinzel;;CA100341;2369 Boyd Terrace;;51.883;-772.666.969;FALSE;abstemious;no preference;public;single;1986;technology;hard-worker;student;;49-0214-7830338
+C184812;Griffin Lanaway;;CA101260;5541 Schurz Terrace;;37.031.485;-64.386.599;TRUE;social drinker;informal;car owner;married;1986;variety;thrifty-protector;professional;;49-2282-9239379
+C186003;Cooper Goodlatt;;CA104188;9 Corscot Point;;7.619.032;112.444.197;FALSE;casual drinker;elegant;car owner;single;1986;technology;thrifty-protector;student;;49-4278-1833258
+C176150;Merrill Klosser;;CA105855;33954 Cody Crossing;;390.225.262;58.741.913;FALSE;social drinker;no preference;car owner;single;1986;retro;hard-worker;student;;49-3224-1738039
+C138983;Barton Strange;;CA100575;02 Macpherson Alley;;5.569.153;24.119.232;FALSE;abstemious;no preference;public;single;1986;retro;thrifty-protector;student;;49-1292-4035771
+C199519;Hinze Zoellner;;CA105017;3415 Jenifer Hill;;-293.652.193;118.223.965;TRUE;casual drinker;no preference;public;single;1986;eco-friendly;thrifty-protector;student;;49-7280-6132482
+C150759;Violante Accomb;;CA107830;24 Sauthoff Park;;41.403.128;-10.633.446;FALSE;casual drinker;informal;public;single;1986;none;hard-worker;student;;49-8233-4539560
+C193583;Sandye McKinna;;CA107918;2693 Bunting Avenue;;39.711.179;339.071.546;FALSE;social drinker;no preference;car owner;single;1986;variety;hard-worker;student;;49-2242-0230163
+C167035;Ashlan Lyburn;;CA107699;15 Annamark Circle;;394.854.373;-74.416.014;FALSE;casual drinker;no preference;public;single;1986;variety;thrifty-protector;professional;;49-8209-7534871
+C184696;Parnell North;;CA109180;2 Westend Alley;;589.747.897;-754.361.391;TRUE;social drinker;no preference;on foot;single;1986;none;conformist;student;;49-3248-7938692
+C129393;Hartwell Pogg;;CA105648;1448 Burrows Trail;;428.903.751;104.066.801;FALSE;casual drinker;informal;public;single;1986;variety;thrifty-protector;student;;49-6254-4430129
+C131934;Basile Godley;;CA101602;15 Express Pass;;497.030.481;120.756.479;FALSE;social drinker;formal;public;single;1986;technology;thrifty-protector;student;;49-4206-2334186
+C192759;Yvonne Clougher;;CA104035;4 Schurz Center;;29.956.858;1.214.213.333;FALSE;abstemious;no preference;car owner;married;1986;none;hard-worker;professional;;49-0211-4935548
+C162640;Vasilis Culbard;;CA107551;2304 Sachtjen Center;;37.355.469;308.077.635;FALSE;social drinker;informal;on foot;single;1986;none;hard-worker;student;;49-3222-9639429
+C159310;Jennine Kenealy;;CA101922;813 Moland Place;;43.654.415;141.585.251;TRUE;casual drinker;formal;public;single;1986;technology;hunter-ostentatious;student;;49-7297-7438506
+C141186;Malina Cartwight;;CA108338;074 Pleasure Pass;;32.317.719;121.083.337;FALSE;abstemious;formal;public;single;1986;variety;hard-worker;student;;49-6298-4737120
+C193735;Arlette Blezard;;CA107028;48 Kenwood Avenue;;-303.845.133;163.268.491;FALSE;abstemious;formal;on foot;single;1986;technology;thrifty-protector;student;;49-0217-2439938
+C188090;Morten Joyes;;CA106440;1584 Rusk Crossing;;47.642.707;114.364.875;FALSE;casual drinker;formal;public;single;1986;technology;thrifty-protector;student;;49-0282-3030684
+C179671;Jodi Greatbatch;;CA104974;270 North Drive;;22.919.769;-575.709.382;FALSE;social drinker;no preference;car owner;single;1986;none;hard-worker;professional;;49-8215-9532752
+C109677;Romonda Lodovichi;;CA106064;41058 Kennedy Drive;;-50.424.945;146.917.325;FALSE;casual drinker;informal;car owner;single;1986;variety;hard-worker;student;;49-0265-4738057
+C104087;Venita Kumaar;;CA102135;97665 Lunder Hill;;217.960.343;29.161.111;FALSE;casual drinker;formal;public;single;1986;eco-friendly;conformist;student;;49-1233-3339713
+C163864;Rees Fellis;;CA104764;139 Duke Junction;;489.933.836;-114.001.928;FALSE;casual drinker;formal;public;single;1986;variety;hunter-ostentatious;student;;49-7222-2036848
+C160803;Clementina Gwioneth;;CA101182;2 Sunbrook Pass;;358.387.024;101.225.991;FALSE;abstemious;formal;public;single;1986;technology;conformist;student;;49-1245-9934015
+C152272;Armstrong Oliff;;CA102860;9311 Grover Junction;;104.132.061;202.359.415;FALSE;abstemious;informal;public;single;1986;technology;thrifty-protector;student;;49-5295-7936062
+C134589;Nicholle Gunda;;CA108051;3054 Bunker Hill Park;;434.945.737;-878.537.478;FALSE;abstemious;no preference;public;single;1986;technology;thrifty-protector;student;;49-4278-9631361
+C113612;Mord Gawthorpe;;CA106258;86212 Springview Court;;32.114.217;113.369.956;FALSE;casual drinker;informal;public;single;1986;technology;thrifty-protector;student;;49-4213-4930480
+C125981;Raymund Counihan;;CA106739;437 Ridgeway Junction;;506.787;-13.421.032;FALSE;social drinker;no preference;public;single;1986;variety;thrifty-protector;professional;;49-0217-4630865
+C141055;Phip Ludlamme;;CA108327;535 Thierer Way;;491.931.313;-515.169.861;FALSE;casual drinker;informal;public;single;1986;variety;thrifty-protector;student;;49-6253-3935803
+C184092;Vasilis Lehrmann;;CA109753;72 Hansons Place;;49.233.083;114.055.261;FALSE;abstemious;formal;car owner;single;1986;none;hunter-ostentatious;student;;49-8208-5131827
+C145725;Ferris McRobbie;;CA103604;5511 Prentice Pass;;-73.384.839;688.347.313;FALSE;casual drinker;no preference;public;single;1986;eco-friendly;thrifty-protector;student;;49-5212-6538636
+C109592;Barclay Paulson;;CA106856;837 Eastlawn Junction;;-273.201.981;1.257.079.231;FALSE;abstemious;informal;car owner;widow;1986;none;hard-worker;unemployed;;49-1250-1038469
+C198249;Malissa Romanin;;CA102574;02383 Park Meadow Point;;22.060.541;1.048.423.232;TRUE;casual drinker;no preference;car owner;single;1986;eco-friendly;hard-worker;professional;;49-9206-8031475
+C120686;Jo Hele;;CA106859;99087 Rigney Junction;;508.747.818;738.218.835;FALSE;casual drinker;informal;car owner;single;1986;technology;thrifty-protector;student;;49-1252-7933961
+C162285;Viviyan Noah;;CA109506;37 Jay Drive;;496.877.756;-797.890.462;FALSE;social drinker;elegant;public;married;1986;technology;thrifty-protector;student;;49-9239-8633588
+C183677;Ingamar Lincoln;;CA100846;79 Farmco Point;;21.664.044;558.511.258;FALSE;social drinker;elegant;public;married;1986;technology;thrifty-protector;student;;49-4201-6637561
+C116051;Bobbye Stammer;;CA108879;10 Tomscot Hill;;604.872.057;128.237.518;TRUE;social drinker;informal;car owner;single;1986;variety;hard-worker;professional;;49-1244-5331444
+C148899;Barclay Bollis;;CA106321;223 Rigney Street;;32.359.068;-3.664.859;FALSE;abstemious;formal;public;single;1986;technology;thrifty-protector;?;;49-5292-2532169
+C121545;Quinn Watkiss;;CA100835;6992 Anthes Place;;-66.817.255;232.587.992;TRUE;social drinker;formal;car owner;single;1986;variety;hard-worker;student;;49-7274-7130679
+C150952;Pierette Dumbrill;;CA100088;4 Harper Court;;438.427.177;-568.198.691;FALSE;casual drinker;informal;public;single;1986;variety;hard-worker;student;;49-0249-8731058
+C168092;Estel Wreiford;;CA101578;3115 Daystar Lane;;315.233.543;1.423.680.716;TRUE;abstemious;informal;public;single;1986;variety;hard-worker;student;;49-9286-5634445
+C121358;Sherman Dreakin;;CA106010;84 Armistice Junction;;-300.722.165;208.195.292;FALSE;abstemious;?;?;?;1986;none;hard-worker;?;;49-4275-7035025
+C154524;Lisetta Watting;;CA104207;8890 Boyd Trail;;28.682.309;1.279.678.652;TRUE;casual drinker;formal;public;single;1986;variety;thrifty-protector;student;;49-4269-9931964
+C115909;Amargo State;;CA100950;65 Farragut Pass;;147.596.318;-509.907.877;FALSE;abstemious;no preference;car owner;single;1986;technology;thrifty-protector;student;;49-3281-4237798
+C165378;Amandie Ilyin;;CA103036;7 Crest Line Park;;547.624.683;23.652.122;FALSE;social drinker;no preference;car owner;single;1986;variety;hunter-ostentatious;student;;49-2207-6239177
+C166436;Anthiathia Irce;;CA108968;24340 Fairfield Terrace;;43.704.612;-991.636.051;FALSE;abstemious;no preference;public;single;1986;variety;thrifty-protector;student;;49-9249-9539499
+C178212;Madelena Janas;;CA109237;92 Randy Place;;-81.649;117.407.783;FALSE;social drinker;informal;on foot;single;1987;none;hard-worker;student;;49-0272-6232399
+C187109;Basile Abramsky;;CA100260;0 Grayhawk Court;;58.105.032;120.894.496;TRUE;casual drinker;informal;public;single;1987;variety;conformist;student;;49-4205-6137750
+C115063;Simonne Mumby;;CA106895;604 Scofield Lane;;40.510.564;-772.347.674;FALSE;social drinker;no preference;car owner;single;1987;variety;thrifty-protector;student;;49-2201-2933456
+C145726;Codee Whickman;;CA109918;9261 Eastlawn Avenue;;56.155.293;-1.183.841.777;FALSE;casual drinker;no preference;car owner;single;1987;eco-friendly;thrifty-protector;student;;49-1241-5236897
+C179444;Esteban Assiratti;;CA102391;457 Bashford Parkway;;-7.340.531;26.045.885;FALSE;abstemious;formal;public;single;1987;variety;thrifty-protector;?;;49-9230-3634209
+C167787;Josepha Abba;;CA102855;63611 Union Hill;;-64.240.524;121.315.718;TRUE;casual drinker;no preference;car owner;single;1987;variety;thrifty-protector;student;;49-9201-3530739
+C101498;Amber Gullberg;;CA108184;72 Bay Lane;;39.109.563;18.403;FALSE;abstemious;informal;public;single;1987;variety;thrifty-protector;student;;49-6299-1230598
+C192174;Chancey Bassil;;CA103472;6730 Fairview Circle;;616.787.713;1.412.998.457;FALSE;abstemious;formal;public;married;1987;variety;thrifty-protector;student;;49-7264-9731026
+C146236;Halie Dowdam;;CA108238;64 Mariners Cove Junction;;-8.817.396;300.282.481;FALSE;abstemious;formal;public;single;1987;eco-friendly;hard-worker;student;;49-8223-4839452
+C182561;Edgardo O'Leagham;;CA105937;7 Parkside Road;;570.237.445;1.101.402.594;FALSE;abstemious;formal;public;single;1987;variety;hard-worker;student;;49-8252-0637725
+C187340;Hildagard Scotchmor;;CA104204;649 Lien Alley;;-305.454.936;119.583.599;FALSE;social drinker;formal;public;single;1987;none;thrifty-protector;student;;49-3240-1231773
+C176000;Aylmar Dumphries;;CA102855;2949 Golf Terrace;;86.663.907;375.470.072;TRUE;social drinker;informal;public;single;1987;technology;conformist;student;;49-6210-1739405
+C187864;Katine Primak;;CA102992;65459 Gulseth Junction;;599.959.635;11.803.177;FALSE;casual drinker;formal;public;single;1987;eco-friendly;hard-worker;student;;49-7270-8833957
+C108064;Mollee Morgue;;CA109145;9525 Arkansas Drive;;-94.691.312;353.145.782;FALSE;casual drinker;no preference;car owner;single;1987;eco-friendly;hunter-ostentatious;student;;49-7285-7634266
+C160639;Derk Burgher;;CA108613;42079 Dakota Trail;;-52.755.737;113.875.129;FALSE;social drinker;no preference;on foot;single;1987;eco-friendly;conformist;student;;49-9290-0431105
+C128496;Marti Pillman;;CA103345;8853 Hauk Trail;;52.287.989;347.518.631;FALSE;abstemious;formal;public;single;1987;technology;hard-worker;professional;;49-3224-4832654
+C109561;Quinn Hayman;;CA100224;41675 Columbus Road;;324.237.461;-26.844.071;TRUE;social drinker;no preference;car owner;single;1987;technology;hunter-ostentatious;student;;49-9219-5535212
+C172960;Carrissa Hairsnape;;CA106492;80 Monterey Way;;455.825.837;1.222.618.013;FALSE;social drinker;formal;public;single;1987;variety;hard-worker;student;;49-8246-7038597
+C106943;Donelle Littlemore;;CA107221;263 Melvin Street;;488.480.625;187.871.344;FALSE;casual drinker;informal;car owner;single;1987;technology;hard-worker;professional;;49-8226-7530141
+C110074;Rebekkah Rolf;;CA103383;8 Gale Center;;-7.992.641;915.015.009;FALSE;abstemious;no preference;car owner;single;1987;variety;hard-worker;?;;49-2255-2530011
+C108822;Rickie Trenfield;;CA103945;78 Charing Cross Lane;;511.434.519;216.288.728;FALSE;abstemious;informal;public;single;1987;technology;thrifty-protector;student;;49-6230-1838923
+C172951;Parke Luff;;CA105853;50 Bartelt Pass;;415.622.714;-534.770.359;FALSE;abstemious;formal;public;single;1987;eco-friendly;thrifty-protector;student;;49-4253-6333341
+C101670;Redford Shuard;;CA105535;1434 Barby Junction;;2.312.911;-374.329.352;FALSE;abstemious;no preference;car owner;single;1987;variety;thrifty-protector;student;;49-7291-4332081
+C157511;Arvin Caskey;;CA108932;6955 Mcbride Crossing;;0.033333;1.253.996.693;TRUE;casual drinker;formal;car owner;single;1987;none;hard-worker;student;;49-8243-7436521
+C102141;Kathi Spendley;;CA103187;4 Moose Terrace;;21.377.246;-924.672.927;TRUE;casual drinker;formal;car owner;single;1987;none;hard-worker;student;;49-9280-6836817
+C114619;Giorgia Sallinger;;CA109124;491 Kingsford Terrace;;0.1840524;116.405.478;FALSE;casual drinker;formal;public;single;1987;none;thrifty-protector;student;;49-4283-2334074
+C186656;Bianka Lucia;;CA106731;9648 South Street;;-71.194.958;1.014.679.893;FALSE;abstemious;no preference;on foot;single;1987;variety;hard-worker;student;;49-8286-1539988
+C170794;Neddie Shay;;CA103132;88732 Oakridge Lane;;-83.340.386;128.941.023;TRUE;social drinker;elegant;public;single;1987;variety;hard-worker;student;;49-2259-1137444
+C164633;Jsandye Canadas;;CA100977;683 Mitchell Point;;-11.806.679;347.679.568;FALSE;social drinker;formal;public;married;1987;technology;thrifty-protector;student;;49-6215-0837172
+C162109;Anet Rosell;;CA103737;64485 Spohn Court;;436.297.603;-584.829.834;FALSE;abstemious;no preference;public;single;1987;technology;thrifty-protector;professional;;49-1285-8331807
+C136173;Nestor Crispe;;CA103977;526 Quincy Alley;;485.372.073;11.369.756;TRUE;casual drinker;informal;public;single;1987;technology;thrifty-protector;student;;49-3276-1633046
+C142080;Aridatha Moorfield;;CA108177;25502 Springview Pass;;267.418.451;1.244.251;FALSE;abstemious;formal;public;single;1987;eco-friendly;thrifty-protector;student;;49-6288-2937382
+C152251;Lulu Grinov;;CA104764;15 Almo Way;;459.678.392;10.542.118;FALSE;abstemious;informal;public;single;1987;variety;hard-worker;student;;49-6294-0834458
+C177077;Cassandre Taig;;CA106973;506 Eagan Pass;;47.692.143;-701.229.081;FALSE;social drinker;no preference;public;married;1987;variety;thrifty-protector;working-class;;49-7244-9730224
+C104405;Jerrome Jedraszek;;CA107274;913 Roth Point;;-32.943.528;3.518.574;?;abstemious;?;?;?;1987;none;hard-worker;?;;49-6219-4432272
+C166330;Bartolemo Rosengart;;CA102763;17 Thompson Hill;;29.260.885;115.814.504;FALSE;abstemious;informal;?;single;1987;technology;hard-worker;student;;49-9287-3130647
+C132871;Laura Hinze;;CA102319;70 Mosinee Terrace;;40.5;120.589.457;FALSE;casual drinker;informal;public;single;1987;none;hard-worker;student;;49-8237-1937648
+C160365;Lauraine Jancik;;CA106410;98705 Dunning Plaza;;359.675;26.050.814;FALSE;casual drinker;formal;public;single;1987;technology;hard-worker;student;;49-9283-9231329
+C166410;Dannie Shyre;;CA106063;21 Marcy Parkway;;430.745.339;236.542.166;FALSE;casual drinker;formal;on foot;single;1987;technology;hard-worker;student;;49-1217-7932133
+C123405;Mil Zieme;;CA107795;00 Spenser Parkway;;413.375.035;1.125.106;FALSE;abstemious;no preference;public;single;1987;variety;hard-worker;student;;49-9294-3732141
+C133019;Denice Bloore;;CA108413;251 Johnson Junction;;-1.181.781;114.367.092;FALSE;casual drinker;no preference;public;single;1987;variety;thrifty-protector;student;;49-6278-7338345
+C165772;Wenda Sargant;;CA101567;806 3rd Point;;147.247.931;-629.764.978;FALSE;casual drinker;no preference;public;single;1987;variety;thrifty-protector;student;;49-9202-0238051
+C173484;Benedikta Templman;;CA105822;8323 Lyons Crossing;;-232.245.912;111.862.117;?;abstemious;?;?;?;1987;none;hard-worker;?;;49-8200-8937583
+C132059;Yolande Helliwell;;CA107812;27721 Arapahoe Court;;-283.833.642;577.502.092;TRUE;social drinker;no preference;car owner;married;1987;eco-friendly;hard-worker;student;;49-1276-1936873
+C168783;Appolonia Rossin;;CA105414;39 Kings Place;;9.696.521;117.217.373;FALSE;casual drinker;informal;public;single;1987;none;hard-worker;student;;49-0271-3436249
+C194232;Rickie Mertsching;;CA102438;18 Clove Plaza;;521.361.219;-88.344.101;FALSE;abstemious;no preference;car owner;single;1987;none;hard-worker;student;;49-6297-8934412
+C176307;Eolande Prendergrass;;CA101880;2878 Declaration Point;;502.620.534;108.212.245;FALSE;casual drinker;no preference;public;single;1987;variety;hard-worker;student;;49-1291-0937832
+C121710;Goldarina Bertl;;CA106521;7 Kedzie Pass;;-207.175.404;1.144.109.921;FALSE;casual drinker;informal;on foot;single;1987;variety;hunter-ostentatious;student;;49-0239-3234131
+C136885;Marthe Triplow;;CA102843;711 Bellgrove Point;;30.999.016;331.070.309;TRUE;social drinker;no preference;car owner;single;1987;retro;thrifty-protector;student;;49-8243-7037581
+C128030;Kendall Maddie;;CA109367;3046 Armistice Hill;;-41.828.379;11.947.016;FALSE;social drinker;formal;public;single;1987;eco-friendly;hard-worker;student;;49-4200-5130870
+C139537;Dylan Constantine;;CA101127;0996 Hovde Drive;;22.579.117;10.623.546;FALSE;social drinker;formal;public;single;1987;variety;thrifty-protector;student;;49-4250-4830787
+C171785;Griselda Medland;;CA107864;3 Independence Trail;;-75.178.871;1.351.523.126;FALSE;abstemious;informal;on foot;single;1987;variety;thrifty-protector;student;;49-3236-0138725
+C195423;Aleda Hanbury;;CA100666;76331 Doe Crossing Lane;;144.324.917;104.5;FALSE;abstemious;informal;public;single;1987;technology;hunter-ostentatious;student;;49-2257-4135258
+C124186;Debbi Lindner;;CA107527;3 Saint Paul Circle;;391.688.385;313.655.989;FALSE;social drinker;formal;public;single;1987;none;hard-worker;student;;49-0264-6038641
+C156282;Phaidra Brookson;;CA109312;4 Browning Junction;;126.679.167;225.089.067;FALSE;abstemious;informal;public;single;1987;variety;hard-worker;professional;;49-3203-8839024
+C178026;Carlye Penniall;;CA105748;5250 Hauk Pass;;-7.258.661;119.560.304;FALSE;abstemious;no preference;public;single;1987;none;thrifty-protector;student;;49-6238-5938795
+C101906;Ricki Lau;;CA100825;4155 Washington Plaza;;497.371.648;281.791.333;TRUE;social drinker;no preference;car owner;single;1987;variety;hard-worker;student;;49-9287-8537166
+C182342;Titos Burroughes;;CA103713;399 Sycamore Way;;-64.933.318;699.069.312;FALSE;casual drinker;informal;public;single;1987;variety;thrifty-protector;student;;49-9258-3832399
+C133509;Reine Claworth;;CA106112;307 Del Mar Pass;;40.508.339;8.796.046;FALSE;social drinker;formal;public;single;1987;technology;hard-worker;student;;49-9214-7536317
+C130640;Brendan Phipps;;CA102583;544 Di Loreto Terrace;;-70.428.104;116.442.259;FALSE;abstemious;formal;on foot;single;1987;variety;thrifty-protector;student;;49-8240-4238730
+C180261;Gale MacGuffog;;CA107457;915 Sundown Alley;;510.026.948;107.209.965;FALSE;social drinker;no preference;car owner;married;1987;technology;hard-worker;student;;49-1236-9136936
+C198501;Vladamir Tefft;;CA109312;12 Pepper Wood Hill;;485.625.988;1.072.553;FALSE;abstemious;no preference;public;single;1987;variety;hard-worker;student;;49-4275-7637207
+C194338;Merilee Kenson;;CA100652;6421 Melody Terrace;;11.383.932;1.165.226.451;FALSE;casual drinker;formal;public;single;1987;technology;hard-worker;student;;49-2220-4533736
+C172837;Kliment Milson;;CA105544;896 Jenna Terrace;;-62.899.253;225.703.984;FALSE;abstemious;no preference;public;widow;1987;retro;thrifty-protector;professional;;49-6207-7537844
+C114916;Costanza Burl;;CA106255;63 Monterey Hill;;508.294.542;396.490.172;FALSE;abstemious;?;public;single;1987;none;hard-worker;student;;49-7216-3031638
+C154627;Delcine Leak;;CA100103;9 Dorton Hill;;4.901.671;603.414.529;TRUE;social drinker;informal;public;single;1987;technology;thrifty-protector;student;;49-3216-6039241
+C173030;Shermie Brownjohn;;CA105786;9861 Hayes Lane;;352.445.589;691.625.896;FALSE;casual drinker;informal;on foot;single;1987;eco-friendly;thrifty-protector;student;;49-0289-9030793
+C195085;Ivory Wibrow;;CA107013;106 Northridge Lane;;104.675.987;-497.319.925;FALSE;casual drinker;formal;public;single;1987;retro;hunter-ostentatious;professional;;49-2218-3131629
+C149161;Ronny Allington;;CA100195;67672 Hintze Place;;210.130.648;1.232.970.961;TRUE;casual drinker;formal;public;single;1988;technology;thrifty-protector;student;;49-2214-4931758
+C177676;Nikolos Edmead;;CA109965;74 Veith Center;;-127.398.884;1.209.855.937;FALSE;casual drinker;no preference;public;single;1988;variety;thrifty-protector;student;;49-9256-3030370
+C181443;Jerrine Keywood;;CA106871;68 Hoffman Parkway;;-50.395.725;3.994.134;FALSE;abstemious;no preference;public;single;1988;technology;hard-worker;professional;;49-8287-7838506
+C138878;Arlan Sneesbie;;CA104427;79 3rd Junction;;391.110.776;388.114.674;FALSE;social drinker;no preference;car owner;single;1988;none;hard-worker;student;;49-0221-7831339
+C116375;Pier Death;;CA103490;4 Rusk Road;;411.266.172;857.788.422;FALSE;casual drinker;formal;car owner;single;1988;variety;hard-worker;student;;49-0289-4032609
+C185178;Jorie Grzegorecki;;CA103770;6297 Harbort Trail;;6.113.336;-1.197.541.856;FALSE;casual drinker;informal;car owner;single;1988;none;hard-worker;student;;49-4267-9633034
+C153205;Marv Kirmond;;CA105345;7829 Helena Way;;47.578.686;1.226.943.665;?;abstemious;?;?;?;1988;none;hard-worker;?;;49-5252-7538936
+C106879;Latashia Barnish;;CA102369;58 Thompson Lane;;37.760.365;1.119.403.254;FALSE;social drinker;no preference;public;single;1988;none;thrifty-protector;student;;49-7216-0632972
+C102712;Maura Ivashinnikov;;CA102203;5614 Reindahl Court;;-227.186.089;-115.15;FALSE;abstemious;formal;public;single;1988;technology;hunter-ostentatious;student;;49-7213-7737224
+C163479;Clemente Watford;;CA103628;3 Ronald Regan Lane;;-203.596.647;165.763.043;TRUE;social drinker;no preference;public;single;1988;retro;thrifty-protector;student;;49-9259-7034689
+C114163;Doroteya Campsall;;CA108685;457 Myrtle Court;;264.434.686;-90.610.972;FALSE;abstemious;no preference;public;single;1988;variety;hard-worker;student;;49-2295-9730993
+C181801;Dall Butterfield;;CA106239;087 Meadow Valley Center;;392.762.158;-861.306.519;TRUE;casual drinker;formal;public;single;1988;variety;conformist;student;;49-7216-3138803
+C131661;Bern Ascrofte;;CA100749;715 Fisk Place;;5.005.998;113.497.275;FALSE;casual drinker;formal;on foot;single;1988;eco-friendly;hard-worker;student;;49-7299-1830268
+C145520;Allin O'Hengerty;;CA104152;7 Russell Avenue;;32.955.581;1.106.794.676;FALSE;abstemious;informal;?;married;1988;none;hard-worker;unemployed;;49-4233-3837139
+C117728;Mariquilla Vockins;;CA106703;221 Holmberg Crossing;;304.333.333;329.705.266;FALSE;abstemious;formal;public;single;1988;variety;hard-worker;student;;49-4247-0430689
+C199823;Sawyere McCreadie;;CA104373;59093 Golf Court;;39.574.695;194.516.353;FALSE;social drinker;no preference;on foot;single;1988;none;hard-worker;student;;49-4248-6734135
+C117110;Merralee Moylan;;CA107138;1 Shopko Trail;;549.266.524;-28.339.109;FALSE;casual drinker;informal;public;single;1988;technology;thrifty-protector;student;;49-4237-2732161
+C185022;Ingelbert Burnie;;CA105594;871 Goodland Alley;;175.971.816;-724.701.945;TRUE;casual drinker;no preference;car owner;single;1988;variety;hunter-ostentatious;student;;49-0290-8436132
+C162764;Izaak Krimmer;;CA106691;28880 Elmside Junction;;521.105.349;1.208.805.975;FALSE;social drinker;informal;public;single;1988;none;hard-worker;student;;49-1258-7338346
+C165323;Gerri Enns;;CA105736;19970 Arkansas Way;;499.458.951;1.215.954.324;FALSE;social drinker;no preference;public;single;1988;variety;thrifty-protector;student;;49-5290-1730474
+C121957;Konstanze Humpherston;;CA106192;994 Kingsford Alley;;474.947.984;1.012.750.531;TRUE;social drinker;no preference;public;single;1988;variety;thrifty-protector;student;;49-4288-4334040
+C146970;Pepita Beaton;;CA104024;57921 David Drive;;-224.101.426;213.852.657;FALSE;social drinker;no preference;?;single;1988;none;hard-worker;student;;49-0220-5433384
+C146003;Deeyn MacEveley;;CA102876;78921 Longview Plaza;;-78.100.327;11.670.345;FALSE;abstemious;no preference;public;single;1988;none;thrifty-protector;student;;49-0257-2939257
+C197143;Marylee Hake;;CA100912;3145 Corben Drive;;528.208.769;-1.176.181.229;FALSE;abstemious;no preference;on foot;single;1988;eco-friendly;hunter-ostentatious;professional;;49-3220-3333155
+C116900;Fran Shoesmith;;CA106271;3 Fieldstone Point;;58.750.769;691.505.479;FALSE;abstemious;no preference;car owner;single;1988;technology;thrifty-protector;student;;49-1299-3531392
+C133570;Dulcy Bruntjen;;CA100764;390 Service Junction;;448.278.003;118.552.365;FALSE;abstemious;no preference;public;single;1988;technology;hard-worker;student;;49-1212-5839189
+C104837;Serge Jobbings;;CA109897;8848 East Junction;;-63.139.863;-89.270.477;TRUE;social drinker;informal;car owner;married;1988;variety;thrifty-protector;professional;;49-4259-6031113
+C103579;Lauryn Gilfillan;;CA101978;3553 Portage Hill;;13.559.532;1.233.709.704;FALSE;casual drinker;elegant;car owner;single;1988;technology;thrifty-protector;student;;49-8276-6339451
+C192338;Anthony Kopacek;;CA108152;9896 Dunning Lane;;30.453.667;239.325.441;FALSE;social drinker;no preference;car owner;single;1988;retro;hard-worker;student;;49-9283-8131987
+C122178;Olwen McCorkindale;;CA106823;759 Sugar Drive;;32.886.855;230.126.047;FALSE;abstemious;no preference;public;single;1988;retro;thrifty-protector;student;;49-2258-0536183
+C192461;Aretha Hawkyens;;CA101369;91891 Charing Cross Road;;398.325.643;-92.419.409;TRUE;casual drinker;no preference;public;single;1988;eco-friendly;thrifty-protector;student;;49-2280-2635457
+C183823;Niles Parkhouse;;CA103726;158 Buhler Terrace;;491.931.313;213.375.451;FALSE;casual drinker;informal;public;single;1988;none;hard-worker;student;;49-1221-4930392
+C110374;Emlynne Mars;;CA100681;06 Schiller Center;;231.377.928;-76.589.255;FALSE;social drinker;no preference;car owner;single;1988;variety;hard-worker;student;;49-9200-5633217
+C111940;Joyann Mamwell;;CA106114;9622 Blue Bill Park Plaza;;4.505.426;1.095.151.561;FALSE;casual drinker;no preference;public;single;1988;variety;thrifty-protector;professional;;49-1250-1036810
+C157527;Witty Hourahan;;CA102627;26 Marcy Road;;151.503.549;115.416.027;TRUE;social drinker;no preference;on foot;single;1988;none;conformist;student;;49-8254-1431086
+C101402;Tris Canadas;;CA101970;2328 4th Park;;407.559.095;-169.638.997;FALSE;casual drinker;informal;public;single;1988;variety;thrifty-protector;student;;49-2221-1935203
+C133368;Obidiah Shear;;CA105895;0 Chinook Park;;179.646.325;100.222.545;FALSE;social drinker;formal;public;single;1988;technology;thrifty-protector;student;;49-6212-9634505
+C174114;Kellen Tash;;CA104266;99 Steensland Way;;-55.844.754;145.678.141;FALSE;abstemious;no preference;car owner;married;1988;none;hard-worker;professional;;49-2211-9433208
+C118544;Raquela Jilkes;;CA100926;02 Rutledge Point;;-71.916.713;-81.451.415;FALSE;social drinker;informal;on foot;single;1988;none;hard-worker;student;;49-4289-0430324
+C139644;Stephi Gergely;;CA101082;9 Columbus Pass;;41.821.778;1.245.350.175;TRUE;casual drinker;formal;public;single;1988;technology;hunter-ostentatious;student;;49-1299-4232993
+C155451;Fidela Giacomasso;;CA103045;7 Mandrake Crossing;;2.758.237;109.836.669;FALSE;abstemious;formal;public;single;1988;variety;hard-worker;student;;49-0299-7236535
+C180823;Gregor Cornillot;;CA106999;1 Menomonie Alley;;25.721.143;124.423.984;FALSE;abstemious;formal;on foot;single;1988;technology;thrifty-protector;student;;49-6221-3539086
+C158490;Jerrylee Bradbeer;;CA106605;0173 Dwight Way;;377.340.363;504.047.054;FALSE;casual drinker;formal;public;single;1988;technology;thrifty-protector;student;;49-5263-5738346
+C145893;Glynda Martill;;CA108500;06 East Hill;;30.920.219;-81.419.858;FALSE;social drinker;no preference;car owner;single;1988;none;hard-worker;professional;;49-2220-3635040
+C181380;Florina McIllroy;;CA101427;276 Grasskamp Crossing;;344.344.694;386.199.751;FALSE;casual drinker;informal;car owner;single;1988;variety;hard-worker;student;;49-7267-6931103
+C138608;Cobby Mates;;CA109499;755 Shoshone Circle;;599.050.895;343.106.713;FALSE;casual drinker;formal;public;single;1988;eco-friendly;conformist;student;;49-2294-2830246
+C146076;Skye De la Yglesia;;CA107387;84 Reinke Trail;;404.422.219;103.708.354;FALSE;casual drinker;formal;public;single;1988;variety;hunter-ostentatious;student;;49-6207-8937476
+C155316;Gabriella Romeo;;CA106224;2728 Drewry Alley;;-37.901.775;-78.884.665;FALSE;abstemious;formal;public;single;1988;technology;conformist;student;;49-1262-3233200
+C169738;Tomaso Colles;;CA104593;6 Schlimgen Circle;;145.144.041;170.064.517;FALSE;abstemious;informal;public;single;1988;technology;thrifty-protector;student;;49-8218-0837084
+C196612;Hubey De Mattia;;CA108813;826 Eagle Crest Road;;173.798.237;229.003.199;FALSE;abstemious;no preference;public;single;1988;technology;thrifty-protector;student;;49-4290-1335862
+C196032;Francisca McMeanma;;CA100794;24492 Prairie Rose Alley;;-33.851.176;1.298.728.011;FALSE;casual drinker;informal;public;single;1988;technology;thrifty-protector;student;;49-2292-0435789
+C175084;Jobi Pranger;;CA109076;06958 2nd Plaza;;-70.031.309;161.286.901;FALSE;social drinker;no preference;public;single;1988;variety;thrifty-protector;professional;;49-3200-4237735
+C159999;Shermie Restorick;;CA100956;53 Loeprich Road;;2.298.952;203.244.146;FALSE;casual drinker;informal;public;single;1988;variety;thrifty-protector;student;;49-5268-1433971
+C180928;Melodie Senussi;;CA108333;8 Hudson Alley;;507.056.119;1.043.213.093;FALSE;abstemious;formal;car owner;single;1988;none;hunter-ostentatious;student;;49-1218-6837485
+C113199;Adham Lohmeyer;;CA109446;19337 Moulton Avenue;;105.082.417;12.129.146;FALSE;casual drinker;no preference;public;single;1988;eco-friendly;thrifty-protector;student;;49-7288-2130047
+C141142;Sharlene Ludee;;CA101235;027 Buell Avenue;;55.543.995;119.004.816;FALSE;abstemious;informal;car owner;widow;1988;none;hard-worker;unemployed;;49-7255-1237733
+C115879;Delphine Castagne;;CA101660;960 Del Sol Crossing;;39.133.989;46.751.492;TRUE;casual drinker;no preference;car owner;single;1988;eco-friendly;hard-worker;professional;;49-8238-7533549
+C115868;Rona Petti;;CA105739;918 Atwood Point;;53.048.634;1.138.822.686;FALSE;casual drinker;informal;car owner;single;1988;technology;thrifty-protector;student;;49-3232-4132564
+C135954;Georges Keers;;CA101925;2 Gateway Crossing;;367.195.014;66.557.943;FALSE;social drinker;elegant;public;married;1988;technology;thrifty-protector;student;;49-2219-6035183
+C199311;Yank Fricker;;CA104150;83 Fordem Pass;;-75.957.387;117.647.093;FALSE;social drinker;elegant;public;married;1988;technology;thrifty-protector;student;;49-9286-0832374
+C105478;Griselda Brookfield;;CA103832;491 Fisk Center;;539.559.626;121.023.576;TRUE;social drinker;informal;car owner;single;1988;variety;hard-worker;professional;;49-6233-6131218
+C117743;Johnath Dofty;;CA108350;95 Waxwing Alley;;24.625.561;1.216.224.914;FALSE;abstemious;formal;public;single;1988;technology;thrifty-protector;?;;49-3225-1734120
+C165140;Lyndell Crunden;;CA106790;535 Mallard Way;;638.737.727;127.301.543;TRUE;social drinker;formal;car owner;single;1988;variety;hard-worker;student;;49-6246-0132422
+C109746;Angus Ducker;;CA105609;5251 Manley Trail;;414.933.471;1.006.461.557;FALSE;casual drinker;informal;public;single;1988;variety;hard-worker;student;;49-9231-0937463
+C111188;Cyril Maruska;;CA101709;22444 Farwell Hill;;-1.172.447;294.306.557;TRUE;abstemious;informal;public;single;1988;variety;hard-worker;student;;49-1257-4733275
+C132365;Taffy Willoughby;;CA100954;4 Johnson Way;;-463.478.987;178.758.236;FALSE;abstemious;?;?;?;1988;none;hard-worker;?;;49-0241-0837141
+C156108;Emmerich Driscoll;;CA109470;7 Lyons Street;;454.141.891;116.948.097;TRUE;casual drinker;formal;public;single;1988;variety;thrifty-protector;student;;49-8225-1138913
+C179617;Fidela Longmate;;CA106594;09 Golf Junction;;46.737.224;-2.569.913;FALSE;abstemious;no preference;car owner;single;1988;technology;thrifty-protector;student;;49-9225-1334653
+C155754;Thomasine Antonognoli;;CA109974;1514 Sachtjen Lane;;500.231.437;172.312.846;FALSE;social drinker;no preference;car owner;single;1988;variety;hunter-ostentatious;student;;49-8252-8334787
+C157357;Luther O'Fearguise;;CA101500;68220 Duke Trail;;420.696.235;-681.942.711;FALSE;abstemious;no preference;public;single;1989;variety;thrifty-protector;student;;49-8260-3535613
+C105726;Sherri Cars;;CA100960;683 Springview Drive;;52.958.936;-82.464.998;FALSE;social drinker;informal;on foot;single;1989;none;hard-worker;student;;49-7207-3430642
+C140203;Benni Capeloff;;CA107635;3284 Cottonwood Plaza;;4.064.278;1.154.452.197;TRUE;casual drinker;informal;public;single;1989;variety;conformist;student;;49-1200-3238721
+C122862;Evania McCullagh;;CA100379;59948 Moland Hill;;-5.75;113.081.508;FALSE;social drinker;no preference;car owner;single;1989;variety;thrifty-protector;student;;49-3233-2531694
+C107569;Sinclair Wynne;;CA108945;66484 North Park;;416.865.621;8.352.656;FALSE;casual drinker;no preference;car owner;single;1989;eco-friendly;thrifty-protector;student;;49-3204-0138397
+C152980;Rosalind Bullick;;CA107928;3 Northport Park;;27.826.866;346.341.859;FALSE;abstemious;formal;public;single;1989;variety;thrifty-protector;?;;49-4291-0837327
+C144334;Towney Drakers;;CA107458;2 Cardinal Parkway;;454.585.439;162.294.755;TRUE;casual drinker;no preference;car owner;single;1989;variety;thrifty-protector;student;;49-4281-0437715
+C135110;Nelia Skarr;;CA101071;64 Arkansas Circle;;-42.221.443;-978.395.151;FALSE;abstemious;informal;public;single;1989;variety;thrifty-protector;student;;49-1293-5733474
+C178233;Wernher Kilty;;CA106844;57 Mayfield Alley;;599.026.039;33.243.615;FALSE;abstemious;formal;public;married;1989;variety;thrifty-protector;student;;49-4200-4831748
+C182421;Shaine De Haven;;CA103060;4289 Continental Junction;;34.534.829;995.729;FALSE;abstemious;formal;public;single;1989;eco-friendly;hard-worker;student;;49-4236-2534229
+C155666;Randal Van Vuuren;;CA107281;448 1st Crossing;;408.950.649;1.076.392.892;FALSE;abstemious;formal;public;single;1989;variety;hard-worker;student;;49-6230-8636826
+C133727;Maurene Sidebottom;;CA103516;7 Bay Terrace;;479.963.155;-93.79;FALSE;social drinker;formal;public;single;1989;none;thrifty-protector;student;;49-1295-6830475
+C188819;Galven Haxell;;CA102319;414 Heath Park;;158.507.092;-91.624.406;TRUE;social drinker;informal;public;single;1989;technology;conformist;student;;49-3225-3737868
+C120594;Kipper Larby;;CA101748;1 Schurz Terrace;;146.912.206;111.592.073;FALSE;casual drinker;formal;public;single;1989;eco-friendly;hard-worker;student;;49-9240-4133927
+C140471;Bard Deackes;;CA101556;2253 Menomonie Court;;26.644.279;6.970.245;FALSE;casual drinker;no preference;car owner;single;1989;eco-friendly;hunter-ostentatious;student;;49-9221-5836674
+C136134;Way Galle;;CA106228;05 Eliot Hill;;228.157.128;-523.693.218;FALSE;social drinker;no preference;on foot;single;1989;eco-friendly;conformist;student;;49-2206-2637844
+C105580;Wally Craft;;CA105783;2644 Daystar Trail;;2.315.998;113.778.639;FALSE;abstemious;formal;public;single;1989;technology;hard-worker;professional;;49-1294-0639336
+C115947;Tasha Sandwich;;CA106800;16 Hoard Center;;-84.855;113.751.799;TRUE;social drinker;no preference;car owner;single;1989;technology;hunter-ostentatious;student;;49-0267-6230101
+C139056;Raimondo Mc Elory;;CA103675;327 Schiller Place;;64.387.946;34.605.095;FALSE;social drinker;formal;public;single;1989;variety;hard-worker;student;;49-1253-3439368
+C123221;Burnard Manthorpe;;CA104345;9772 Stang Terrace;;453.725.657;1.108.910.556;FALSE;casual drinker;informal;car owner;single;1989;technology;hard-worker;professional;;49-1210-1434815
+C126423;Farley Powdrill;;CA104524;1066 Porter Drive;;11.406.883;70.821.162;FALSE;abstemious;no preference;car owner;single;1989;variety;hard-worker;?;;49-5202-4737386
+C189169;Kendrick Chavrin;;CA109409;4 Mosinee Junction;;454.699.386;70.605.998;FALSE;abstemious;informal;public;single;1989;technology;thrifty-protector;student;;49-9237-2931948
+C137897;Carlen Bickmore;;CA107171;403 Hauk Center;;417.748.554;-93.277.081;FALSE;abstemious;formal;public;single;1989;eco-friendly;thrifty-protector;student;;49-7234-3431470
+C145434;Ernaline Jewar;;CA107889;25 La Follette Crossing;;138.570.986;994.484.062;FALSE;abstemious;no preference;car owner;single;1989;variety;thrifty-protector;student;;49-2250-4633257
+C155140;Bald Prangle;;CA101706;37 Montana Crossing;;414.942.587;77.342.943;TRUE;casual drinker;formal;car owner;single;1989;none;hard-worker;student;;49-9247-3231266
+C158535;Leoline Clemenzi;;CA103946;80438 Marcy Hill;;329.086.366;1.014.230.264;TRUE;casual drinker;formal;car owner;single;1989;none;hard-worker;student;;49-9220-5831921
+C133887;Sella Shellshear;;CA101019;138 Clove Center;;296.793.128;142.930.813;FALSE;casual drinker;formal;public;single;1989;none;thrifty-protector;student;;49-7255-7430619
+C132561;Bianca Howman;;CA103209;35386 Fisk Crossing;;561.747.295;1.211.703.921;FALSE;abstemious;no preference;on foot;single;1989;variety;hard-worker;student;;49-2286-9533502
+C160432;Allys Caillou;;CA102655;4648 Truax Parkway;;543.886.617;1.054.771.084;TRUE;social drinker;elegant;public;single;1989;variety;hard-worker;student;;49-1246-3735700
+C113031;Jedd Trustrie;;CA100992;5877 Pierstorff Center;;-8.9;-421.644.994;FALSE;social drinker;formal;public;married;1989;technology;thrifty-protector;student;;49-1204-8034396
+C108145;Katie Murch;;CA105981;2584 2nd Court;;517.788.594;38.439.524;FALSE;abstemious;no preference;public;single;1989;technology;thrifty-protector;professional;;49-0204-6737850
+C115458;Alec Cassedy;;CA103802;00 Westend Pass;;403.802.589;244.345.055;TRUE;casual drinker;informal;public;single;1989;technology;thrifty-protector;student;;49-6232-4831761
+C154352;Rafa Syme;;CA104120;92866 Mosinee Pass;;594.634.763;120.965.215;FALSE;abstemious;formal;public;single;1989;eco-friendly;thrifty-protector;student;;49-0243-0436734
+C112430;Parnell Ollis;;CA104039;88690 Memorial Terrace;;-82.702.492;-7.542.997;FALSE;abstemious;informal;public;single;1989;variety;hard-worker;student;;49-2200-4932165
+C176887;Carena Bitchener;;CA100974;2 Prentice Alley;;-347.061.803;1.019.927.979;FALSE;social drinker;no preference;public;married;1989;variety;thrifty-protector;working-class;;49-4275-2435550
+C182524;Harri Danzey;;CA109127;138 Golf View Plaza;;575.437.143;-67.716.551;?;abstemious;?;?;?;1989;none;hard-worker;?;;49-9219-5330050
+C185280;Luce Dugald;;CA101119;9 Bashford Hill;;439.277.535;445.018.318;FALSE;abstemious;informal;?;single;1989;technology;hard-worker;student;;49-7267-1838465
+C145908;Maire Lelliott;;CA103482;080 Blue Bill Park Way;;522.248.754;1.210.169.462;FALSE;casual drinker;informal;public;single;1989;none;hard-worker;student;;49-1283-0439742
+C134246;Debera Aldwick;;CA105175;66792 Nancy Park;;21.422.245;145.829.648;FALSE;casual drinker;formal;public;single;1989;technology;hard-worker;student;;49-5218-9531374
+C172118;Aloysius Ricciardi;;CA102517;4751 Spenser Drive;;555.480.165;73.118.635;FALSE;casual drinker;formal;on foot;single;1989;technology;hard-worker;student;;49-1275-8239489
+C136477;Kevon Dawson;;CA102132;87 Grover Drive;;23.020.673;760.001.092;FALSE;abstemious;no preference;public;single;1989;variety;hard-worker;student;;49-5277-5339902
+C173876;Johan Godmar;;CA105899;429 Fuller Point;;319.799.036;3.860.174;FALSE;casual drinker;no preference;public;single;1989;variety;thrifty-protector;student;;49-1231-8239366
+C157865;Roderich Wiszniewski;;CA107717;45 Crescent Oaks Avenue;;419.950.451;36.164.764;FALSE;casual drinker;no preference;public;single;1989;variety;thrifty-protector;student;;49-1271-6638079
+C163705;Torey Broxap;;CA104362;2 Warner Pass;;498.073.475;1.099.094.336;?;abstemious;?;?;?;1989;none;hard-worker;?;;49-1239-8435784
+C158457;Janaye Stockell;;CA105529;14346 Maple Hill;;331.401.715;633.139.829;TRUE;social drinker;no preference;car owner;married;1989;eco-friendly;hard-worker;student;;49-0299-9236437
+C126312;Christean Francey;;CA102941;1934 Waywood Court;;145.679.608;3.119.593;FALSE;casual drinker;informal;public;single;1989;none;hard-worker;student;;49-9252-3032903
+C151506;Dalton McVrone;;CA101761;35 Morrow Terrace;;314.292.388;1.233.561.121;FALSE;abstemious;no preference;car owner;single;1989;none;hard-worker;student;;49-2273-7139359
+C129708;Ignazio Edson;;CA109197;3605 Schurz Court;;577.328.579;121.346.638;FALSE;casual drinker;no preference;public;single;1989;variety;hard-worker;student;;49-7207-2631804
+C186233;Shepherd Fradgley;;CA107959;46965 Melvin Road;;-68.272.076;206.303.821;FALSE;casual drinker;informal;on foot;single;1989;variety;hunter-ostentatious;student;;49-6239-1437315
+C162299;Willy Midgley;;CA105396;53712 Brentwood Point;;479.523.565;1.210.504.535;TRUE;social drinker;no preference;car owner;single;1989;retro;thrifty-protector;student;;49-8291-8533679
+C189123;Simeon Boshier;;CA106658;8 Sherman Lane;;0.4994734;161.813.069;FALSE;social drinker;formal;public;single;1989;eco-friendly;hard-worker;student;;49-2298-0835316
+C166424;Miles Maunders;;CA107364;9317 Darwin Park;;-74.694.177;116.408.772;FALSE;social drinker;formal;public;single;1989;variety;thrifty-protector;student;;49-9218-0132421
+C159039;Nicola Mohan;;CA103812;14413 Toban Court;;23.354.091;-477.243.139;FALSE;abstemious;informal;on foot;single;1989;variety;thrifty-protector;student;;49-9267-0030543
+C196038;Carolan Tilt;;CA102866;2 Ramsey Parkway;;35.057.659;112.029.752;FALSE;abstemious;informal;public;single;1989;technology;hunter-ostentatious;student;;49-1224-7030170
+C184058;Marcela Askam;;CA103271;967 Saint Paul Drive;;28.534.704;113.943.274;FALSE;social drinker;formal;public;single;1989;none;hard-worker;student;;49-2247-6436609
+C126220;Josy Tevlin;;CA107023;038 Kennedy Crossing;;31.558.356;108.247.886;FALSE;abstemious;informal;public;single;1989;variety;hard-worker;professional;;49-8231-0331418
+C115013;Jedediah McSorley;;CA106921;66249 Welch Parkway;;-6.551.202;303.196.385;FALSE;abstemious;no preference;public;single;1989;none;thrifty-protector;student;;49-1292-2536476
+C169248;Jorrie Lambertini;;CA104598;919 Cottonwood Road;;30.550.638;500.932.428;TRUE;social drinker;no preference;car owner;single;1989;variety;hard-worker;student;;49-9210-2430724
+C119444;Agathe Moberley;;CA108478;36 3rd Lane;;-8.135.667;414.475.479;FALSE;casual drinker;informal;public;single;1989;variety;thrifty-protector;student;;49-7200-0232639
+C152602;Ethelred Schwandermann;;CA108717;6 Rigney Parkway;;29.000.347;1.102.951.364;FALSE;social drinker;formal;public;single;1989;technology;hard-worker;student;;49-7287-3737047
+C196658;Bernadine Harrad;;CA104921;62502 Fair Oaks Plaza;;-71.477.523;18.852.108;FALSE;abstemious;formal;on foot;single;1989;variety;thrifty-protector;student;;49-5223-2632046
+C102440;Editha Milch;;CA103116;303 Warrior Avenue;;30.640.814;185.399.044;FALSE;social drinker;no preference;car owner;married;1989;technology;hard-worker;student;;49-6263-3834293
+C145467;Ramsey Cholmondeley;;CA106663;006 Novick Road;;486.768.262;1.062.650.297;FALSE;abstemious;no preference;public;single;1989;variety;hard-worker;student;;49-7210-8337246
+C186986;Herta Murtimer;;CA101339;613 Bluejay Junction;;25.489.999;112.671.469;FALSE;casual drinker;formal;public;single;1989;technology;hard-worker;student;;49-9227-3134557
+C190128;Farly Peeke-Vout;;CA104209;25293 Ohio Alley;;5.165.991;1.211.457.666;FALSE;abstemious;no preference;public;widow;1989;retro;thrifty-protector;professional;;49-5213-3934271
+C198817;Bibbye Warret;;CA108743;45131 Pankratz Crossing;;0.995919;18.666.796;FALSE;abstemious;?;public;single;1989;none;hard-worker;student;;49-9285-7533195
+C186207;Obidiah Tuffell;;CA100724;4 Maple Place;;-54.906.936;118.089.425;TRUE;social drinker;informal;public;single;1989;technology;thrifty-protector;student;;49-2227-9131473
+C193562;Pattin McKinty;;CA107652;85 Steensland Crossing;;-31.538.273;29.394.741;FALSE;casual drinker;informal;on foot;single;1989;eco-friendly;thrifty-protector;student;;49-3224-0834757
+C128445;Jonathon Torrans;;CA102012;8515 Lakewood Point;;490.261.841;108.207.518;FALSE;casual drinker;formal;public;single;1990;retro;hunter-ostentatious;professional;;49-7250-6632398
+C143171;Ced Whitchurch;;CA104356;131 Ramsey Circle;;-69.095.295;-516.392.076;TRUE;casual drinker;formal;public;single;1990;technology;thrifty-protector;student;;49-7286-2539009
+C152750;Kevan Allsopp;;CA101345;7603 Sunfield Road;;-87.176.937;58.978.018;FALSE;casual drinker;no preference;public;single;1990;variety;thrifty-protector;student;;49-0284-7531530
+C136496;Alonzo Narducci;;CA102607;661 Bultman Hill;;-71.568;-15.802.612;FALSE;abstemious;no preference;public;single;1990;technology;hard-worker;professional;;49-5270-2931584
+C103018;Sabra Solon;;CA109732;8 Evergreen Drive;;-333.077.816;175.341.531;FALSE;social drinker;no preference;car owner;single;1990;none;hard-worker;student;;49-6203-8135992
+C191971;Gaspar Radwell;;CA109370;723 Shasta Center;;43.55;1.967.676;FALSE;casual drinker;formal;car owner;single;1990;variety;hard-worker;student;;49-0201-3732010
+C135006;Arnaldo Barense;;CA102033;62971 7th Center;;-426.232.593;-808.460.822;FALSE;casual drinker;informal;car owner;single;1990;none;hard-worker;student;;49-5272-9130652
+C138495;Emmalee Dowsett;;CA109690;7397 Sycamore Parkway;;411.296.379;12.058.604;?;abstemious;?;?;?;1990;none;hard-worker;?;;49-9244-8930461
+C162680;Gordy Dobkin;;CA108292;7 Erie Drive;;542.048.528;-58.870.055;FALSE;social drinker;no preference;public;single;1990;none;thrifty-protector;student;;49-0250-8537608
+C168480;Corinna Whitchurch;;CA109349;68021 Reindahl Drive;;43.553.302;11.781.154;FALSE;abstemious;formal;public;single;1990;technology;hunter-ostentatious;student;;49-8201-9433620
+C105880;Gail Reims;;CA101205;31028 Barby Court;;2.312.468;153.710.047;TRUE;social drinker;no preference;public;single;1990;retro;thrifty-protector;student;;49-9243-8930025
+C161072;Jeramey Spencer;;CA109924;971 Rusk Junction;;261.288.392;22.753.461;FALSE;abstemious;no preference;public;single;1990;variety;hard-worker;student;;49-7256-1234278
+C157250;Velma Caush;;CA108063;61 Towne Alley;;503.172.235;0.3350126;TRUE;casual drinker;formal;public;single;1990;variety;conformist;student;;49-7204-6933462
+C195413;Lazar Omar;;CA101642;914 Buena Vista Drive;;235.989.926;-466.096.926;FALSE;casual drinker;formal;on foot;single;1990;eco-friendly;hard-worker;student;;49-7299-0937449
+C146848;Bil Campe;;CA107835;2958 Gerald Crossing;;71.335.511;953.286.078;FALSE;abstemious;informal;?;married;1990;none;hard-worker;unemployed;;49-8237-9537420
+C170230;Albertina Casellas;;CA104980;302 Linden Way;;-192.580.383;1.044.039.141;FALSE;abstemious;formal;public;single;1990;variety;hard-worker;student;;49-3240-1032747
+C109499;Etti Kearsley;;CA103134;2 Vidon Parkway;;196.478.178;1.042.366.983;FALSE;social drinker;no preference;on foot;single;1990;none;hard-worker;student;;49-7265-2138998
+C191321;Krystyna Hamsher;;CA103147;575 Fulton Alley;;-328.803.027;1.114.395.128;FALSE;casual drinker;informal;public;single;1990;technology;thrifty-protector;student;;49-1205-8335738
+C164993;Judas Flagg;;CA102944;1 Vera Court;;39.157.329;1.024.976;TRUE;casual drinker;no preference;car owner;single;1990;variety;hunter-ostentatious;student;;49-0243-3938433
+C172662;Falkner Dudgeon;;CA100532;2 Rieder Junction;;488.744.977;-84.835.185;FALSE;social drinker;informal;public;single;1990;none;hard-worker;student;;49-0229-4135916
+C159927;Welch Bramelt;;CA106227;13637 Lukken Lane;;67.645.757;1.189.112.031;FALSE;social drinker;no preference;public;single;1990;variety;thrifty-protector;student;;49-3227-6836205
+C182274;Belva Chislett;;CA102851;472 American Plaza;;179.410.217;1.201.821;TRUE;social drinker;no preference;public;single;1990;variety;thrifty-protector;student;;49-8275-9139984
+C115594;Thane Josling;;CA102448;3321 Golf Plaza;;257.784.224;150.737.321;FALSE;social drinker;no preference;?;single;1990;none;hard-worker;student;;49-3259-4135243
+C181423;Alvera Ranklin;;CA100801;28 Marquette Center;;32.187.849;1.087.231;FALSE;abstemious;no preference;public;single;1990;none;thrifty-protector;student;;49-7282-0336027
+C108047;Devin Robak;;CA103821;60 Eagle Crest Place;;-176.680.839;114.309.091;FALSE;abstemious;no preference;on foot;single;1990;eco-friendly;hunter-ostentatious;professional;;49-1255-2431970
+C156723;Darbie Halleybone;;CA107000;0051 Brickson Park Center;;127.166.672;1.227.995.493;FALSE;abstemious;no preference;car owner;single;1990;technology;thrifty-protector;student;;49-0266-6932327
+C127245;Ashli Dunsmore;;CA101912;539 Miller Place;;403.034.691;1.086.235.004;FALSE;abstemious;no preference;public;single;1990;technology;hard-worker;student;;49-9261-2335752
+C164764;Ginelle Buston;;CA107504;40960 Karstens Center;;54.827.405;-602.336.692;TRUE;social drinker;informal;car owner;married;1990;variety;thrifty-protector;professional;;49-9204-8837162
+C159898;Bibbie Geibel;;CA109364;4 Grover Parkway;;1.090.354;-76.302.454;FALSE;casual drinker;elegant;car owner;single;1990;technology;thrifty-protector;student;;49-8289-0132558
+C184368;Ingaberg Wenderott;;CA107948;466 Jenna Point;;377.451.853;1.065.112.712;FALSE;social drinker;no preference;car owner;single;1990;retro;hard-worker;student;;49-2208-3338365
+C126921;Zebadiah Kellog;;CA108067;63175 Lien Plaza;;14.526.832;355.630.426;FALSE;abstemious;no preference;public;single;1990;retro;thrifty-protector;student;;49-0227-6730202
+C110999;Pru O'Sheeryne;;CA100417;8 Dennis Terrace;;282.068.263;274.772.798;TRUE;casual drinker;no preference;public;single;1990;eco-friendly;thrifty-protector;student;;49-4207-9733902
+C108103;Reuben Champniss;;CA105808;55788 Parkside Circle;;54.519.499;-845.575.089;FALSE;casual drinker;informal;public;single;1990;none;hard-worker;student;;49-3255-9735338
+C115111;Leonore Jantet;;CA107270;9 Vera Hill;;457.608.815;-588.489.331;FALSE;social drinker;no preference;car owner;single;1990;variety;hard-worker;student;;49-0297-4436864
+C136184;Marietta Lynthal;;CA100540;1128 Gina Crossing;;567.706.744;1.266.828.801;FALSE;casual drinker;no preference;public;single;1990;variety;thrifty-protector;professional;;49-7247-9135425
+C131266;Davy But;;CA103607;9 Upham Road;;59.277.977;11.722.473;TRUE;social drinker;no preference;on foot;single;1990;none;conformist;student;;49-3257-6839882
+C147351;Murdoch Willishire;;CA103238;365 Waywood Point;;250.746.235;-91.065.809;FALSE;casual drinker;informal;public;single;1990;variety;thrifty-protector;student;;49-0218-7238113
+C123898;Thorstein Tinghill;;CA101175;916 Kinsman Court;;-66.664.588;1.137.989.815;FALSE;social drinker;formal;public;single;1990;technology;thrifty-protector;student;;49-1200-7031582
+C156550;Lucinda Duckels;;CA100293;16448 Prairieview Alley;;43.884.893;1.250.332.235;FALSE;abstemious;no preference;car owner;married;1990;none;hard-worker;professional;;49-4292-3930249
+C192682;Vin Eyam;;CA102932;0 Warbler Plaza;;-74.416.099;74.300.234;FALSE;social drinker;informal;on foot;single;1990;none;hard-worker;student;;49-7204-4331945
+C116479;Cathie Pilley;;CA104135;20 Cardinal Drive;;38.409.359;957.563.151;TRUE;casual drinker;formal;public;single;1990;technology;hunter-ostentatious;student;;49-0256-1439340
+C118273;Renata Driussi;;CA100288;77 Annamark Road;;44.721.794;117.151.796;FALSE;abstemious;formal;public;single;1990;variety;hard-worker;student;;49-3218-4435744
+C162049;Gretel Chilcott;;CA106241;7 Namekagon Trail;;397.912.709;4.024.099;FALSE;abstemious;formal;on foot;single;1990;technology;thrifty-protector;student;;49-0259-5633082
+C137382;Desirae Wesley;;CA106598;8532 Rockefeller Court;;513.305.246;289.205.449;FALSE;casual drinker;formal;public;single;1990;technology;thrifty-protector;student;;49-9234-3638847
+C141422;Hedy Janusik;;CA102867;274 Canary Alley;;645.843;421.175.494;FALSE;social drinker;no preference;car owner;single;1990;none;hard-worker;professional;;49-6207-3338870
+C107334;Hymie Halladay;;CA105889;84925 Corben Hill;;-19.156.561;-474.916.674;FALSE;casual drinker;informal;car owner;single;1990;variety;hard-worker;student;;49-1274-2233361
+C146554;Alyda Eneas;;CA101166;8478 Prairieview Trail;;46.946.681;284.244.728;FALSE;casual drinker;formal;public;single;1990;eco-friendly;conformist;student;;49-8201-6031660
+C116306;Ashby Zellner;;CA107305;5 Waubesa Court;;610.600.425;-526.787.852;FALSE;casual drinker;formal;public;single;1990;variety;hunter-ostentatious;student;;49-4224-3636354
+C134459;Phaedra Peirazzi;;CA104709;345 Park Meadow Lane;;31.364.042;586.199.937;FALSE;abstemious;formal;public;single;1990;technology;conformist;student;;49-2230-1138688
+C142203;Pincus Ambrose;;CA107136;7 Jenna Street;;18.714.928;1.238.363.399;FALSE;abstemious;informal;public;single;1990;technology;thrifty-protector;student;;49-3279-5035285
+C133366;Valry Rewbottom;;CA105202;666 Sommers Crossing;;140.228.518;1.205.823.532;FALSE;abstemious;no preference;public;single;1990;technology;thrifty-protector;student;;49-1273-9637068
+C160528;Sunny Grundell;;CA101920;600 Meadow Vale Trail;;40.078.872;116.454.574;FALSE;casual drinker;informal;public;single;1990;technology;thrifty-protector;student;;49-1235-8233950
+C174733;Anabal Streeting;;CA107010;98 Dixon Hill;;593.618.675;-499.375.873;FALSE;social drinker;no preference;public;single;1990;variety;thrifty-protector;professional;;49-6275-6134747
+C138155;Sherline Regenhardt;;CA103876;59 Hoepker Trail;;-110.171.949;-883.506.468;FALSE;casual drinker;informal;public;single;1990;variety;thrifty-protector;student;;49-8284-7336851
+C150365;Sher Laidlow;;CA102170;8678 Village Green Parkway;;537.117.479;1.179.041.296;FALSE;abstemious;formal;car owner;single;1990;none;hunter-ostentatious;student;;49-8265-8638955
+C170045;Bron Claremont;;CA107432;122 Sunbrook Park;;596.845.926;258.291.867;FALSE;casual drinker;no preference;public;single;1990;eco-friendly;thrifty-protector;student;;49-2257-3535517
+C112445;Marcia Skermer;;CA104416;74798 Carioca Park;;160.213.558;1.107.897.275;FALSE;abstemious;informal;car owner;widow;1990;none;hard-worker;unemployed;;49-3250-5036813
+C167700;Bonnie Wharrier;;CA106404;91 Merrick Terrace;;519.850.245;1.195.803.605;TRUE;casual drinker;no preference;car owner;single;1990;eco-friendly;hard-worker;professional;;49-2224-2032850
+C172608;Kizzie Yakunikov;;CA104451;624 Trailsway Lane;;523.716.937;-981.386.351;FALSE;casual drinker;informal;car owner;single;1990;technology;thrifty-protector;student;;49-8233-6830413
+C140657;Phillip Boxill;;CA108947;2 Sachtjen Trail;;83.976.116;116.293.767;FALSE;social drinker;elegant;public;married;1990;technology;thrifty-protector;student;;49-4224-9734595
+C122928;Clotilda MacCarter;;CA101493;8 Springs Road;;144.693.883;108.553.557;FALSE;social drinker;elegant;public;married;1990;technology;thrifty-protector;student;;49-4252-8031121
+C146533;Serene Christopherson;;CA102687;2 Mariners Cove Plaza;;24.326.292;121.507.445;TRUE;social drinker;informal;car owner;single;1990;variety;hard-worker;professional;;49-7215-0833976
+C143945;Chandra Devall;;CA105165;82 Village Green Hill;;-41.731.846;-530.866.941;FALSE;abstemious;formal;public;single;1990;technology;thrifty-protector;?;;49-1211-4231045
+C135331;Casie McCarle;;CA107983;59 Elka Drive;;52.052.959;60.166.299;TRUE;social drinker;formal;car owner;single;1990;variety;hard-worker;student;;49-0289-7238363
+C164819;Rivkah Crimp;;CA103547;51 Maple Trail;;415.359.304;1.005.326.139;FALSE;casual drinker;informal;public;single;1990;variety;hard-worker;student;;49-7224-0830253
+C162717;Ninnetta Sich;;CA106552;71487 Bay Court;;354.358.216;665.344.159;TRUE;abstemious;informal;public;single;1990;variety;hard-worker;student;;49-5201-4834756
+C143936;Miran Gleader;;CA106847;286 Oakridge Road;;38.705.449;7.950.014;FALSE;abstemious;?;?;?;1990;none;hard-worker;?;;49-2216-9733376
+C133944;Clary Ferriman;;CA109369;195 Orin Avenue;;315.140.575;-1.694.366.324;TRUE;casual drinker;formal;public;single;1990;variety;thrifty-protector;student;;49-7219-2931378
+C128124;Urbano Nelsen;;CA108870;75133 Dennis Plaza;;489.339.587;143.459.973;FALSE;abstemious;no preference;car owner;single;1991;technology;thrifty-protector;student;;49-1294-2035231
+C114580;Lydon Peter;;CA109550;71693 Almo Court;;-20.349.854;196.981.547;FALSE;social drinker;no preference;car owner;single;1991;variety;hunter-ostentatious;student;;49-6271-2530510

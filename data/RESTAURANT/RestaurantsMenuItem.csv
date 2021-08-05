@@ -1,0 +1,2481 @@
+﻿RESTID;CUISINE;ITEMNAME;ITEMID;CATEGORY;PRICE
+RE10100;Spanish;Virgin Mojito;IT1010001;Drink;9
+RE10100;Spanish;Chicken Parmesan;IT1010002;Main Course;15
+RE10100;Spanish;Enchiladas;IT1010003;Main Course;25
+RE10100;Spanish;Stuffed Fish Fillet;IT1010004;Main Course;11
+RE10100;Spanish;Marinated Pork Fillet;IT1010005;Main Course;16
+RE10101;Italian;Bruschetta;IT1010101;Starter;5
+RE10101;Italian;Pepperoni Pizza;IT1010102;Main Course;23
+RE10101;Italian;Bolognese Pasta;IT1010103;Main Course;28
+RE10101;Italian;Smoked Mushroom Soup;IT1010104;Starter;14
+RE10101;Italian;Tiramisu;IT1010105;Dessert;13
+RE10102;Latin_American;Chicken with Chilli Flakes;IT1010201;Main Course;28
+RE10102;Latin_American;Parillia Steak;IT1010202;Main Course;27
+RE10102;Latin_American;Tostades;IT1010203;Main Course;13
+RE10102;Latin_American;Soft Shell Tacos;IT1010204;Main Course;11
+RE10102;Latin_American;Chimichangas;IT1010205;Main Course;27
+RE10103;Mexican;Fire Burrito;IT1010301;Main Course;29
+RE10103;Mexican;Chilli Tacos;IT1010302;Main Course;27
+RE10103;Mexican;Chicken Quasedillas;IT1010303;Main Course;23
+RE10103;Mexican;Grilled Pork;IT1010304;Main Course;26
+RE10103;Mexican;Pork Burritos;IT1010305;Main Course;10
+RE10104;Fast_Food;Hot Dog with Fries;IT1010401;Main Course;11
+RE10104;Fast_Food;Chicken Burger;IT1010402;Main Course;20
+RE10104;Fast_Food;Hamburger;IT1010403;Main Course;15
+RE10104;Fast_Food;Beef Burger;IT1010404;Main Course;13
+RE10104;Fast_Food;Soda;IT1010405;Drink;5
+RE10105;Mexican;Fire Burrito;IT1010501;Main Course;29
+RE10105;Mexican;Chilli Tacos;IT1010502;Main Course;15
+RE10105;Mexican;Chicken Quasedillas;IT1010503;Main Course;28
+RE10105;Mexican;Grilled Pork;IT1010504;Main Course;28
+RE10105;Mexican;Pork Burritos;IT1010505;Main Course;11
+RE10106;Burgers;Chicken Burger;IT1010601;Main Course;16
+RE10106;Burgers;Hamburger;IT1010602;Main Course;16
+RE10106;Burgers;Beef Burger;IT1010603;Main Course;12
+RE10106;Burgers;Mixed Burger;IT1010604;Main Course;12
+RE10106;Burgers;Soda;IT1010605;Drink;9
+RE10107;Dessert-Ice_Cream;Strawberry;IT1010701;Main Course;10
+RE10107;Dessert-Ice_Cream;Chocolate;IT1010702;Main Course;20
+RE10107;Dessert-Ice_Cream;Mint;IT1010703;Main Course;25
+RE10107;Dessert-Ice_Cream;Vanilla;IT1010704;Main Course;20
+RE10107;Dessert-Ice_Cream;Lemon;IT1010705;Main Course;15
+RE10108;Fast_Food;Hot Dog with Fries;IT1010801;Main Course;11
+RE10108;Fast_Food;Chicken Burger;IT1010802;Main Course;11
+RE10108;Fast_Food;Hamburger;IT1010803;Main Course;12
+RE10108;Fast_Food;Beef Burger;IT1010804;Main Course;19
+RE10108;Fast_Food;Soda;IT1010805;Drink;7
+RE10109;Hot_Dogs;Chicago Genuine;IT1010901;Main Course;25
+RE10109;Hot_Dogs;Polish Hot Dog;IT1010902;Main Course;17
+RE10109;Hot_Dogs;Chili Dog;IT1010903;Main Course;19
+RE10109;Hot_Dogs;Hawaiian ;IT1010904;Main Course;26
+RE10109;Hot_Dogs;Bratwurst;IT1010905;Main Course;24
+RE10110;Latin_American;Chicken with Chilli Flakes;IT1011001;Main Course;24
+RE10110;Latin_American;Parillia Steak;IT1011002;Main Course;12
+RE10110;Latin_American;Tostades;IT1011003;Main Course;28
+RE10110;Latin_American;Soft Shell Tacos;IT1011004;Main Course;10
+RE10110;Latin_American;Chimichangas;IT1011005;Main Course;16
+RE10111;Mexican;Fire Burrito;IT1011101;Main Course;12
+RE10111;Mexican;Chilli Tacos;IT1011102;Main Course;12
+RE10111;Mexican;Chicken Quasedillas;IT1011103;Main Course;27
+RE10111;Mexican;Grilled Pork;IT1011104;Main Course;18
+RE10111;Mexican;Pork Burritos;IT1011105;Main Course;14
+RE10112;Steaks;Cheese Steak;IT1011201;Main Course;20
+RE10112;Steaks;Turkey Steak;IT1011202;Main Course;27
+RE10112;Steaks;Center Cut Sirloin;IT1011203;Main Course;29
+RE10112;Steaks;T Bone Steak;IT1011204;Main Course;12
+RE10112;Steaks;Soda;IT1011205;Drink;6
+RE10113;Mexican;Fire Burrito;IT1011301;Main Course;17
+RE10113;Mexican;Chilli Tacos;IT1011302;Main Course;27
+RE10113;Mexican;Chicken Quasedillas;IT1011303;Main Course;24
+RE10113;Mexican;Grilled Pork;IT1011304;Main Course;13
+RE10113;Mexican;Pork Burritos;IT1011305;Main Course;19
+RE10114;Steaks;Cheese Steak;IT1011401;Main Course;15
+RE10114;Steaks;Turkey Steak;IT1011402;Main Course;21
+RE10114;Steaks;Center Cut Sirloin;IT1011403;Main Course;24
+RE10114;Steaks;T Bone Steak;IT1011404;Main Course;14
+RE10114;Steaks;Soda;IT1011405;Drink;5
+RE10115;Mexican;Fire Burrito;IT1011501;Main Course;11
+RE10115;Mexican;Chilli Tacos;IT1011502;Main Course;18
+RE10115;Mexican;Chicken Quasedillas;IT1011503;Main Course;11
+RE10115;Mexican;Grilled Pork;IT1011504;Main Course;24
+RE10115;Mexican;Pork Burritos;IT1011505;Main Course;23
+RE10116;Steaks;Cheese Steak;IT1011601;Main Course;14
+RE10116;Steaks;Turkey Steak;IT1011602;Main Course;17
+RE10116;Steaks;Center Cut Sirloin;IT1011603;Main Course;15
+RE10116;Steaks;T Bone Steak;IT1011604;Main Course;14
+RE10116;Steaks;Soda;IT1011605;Drink;9
+RE10117;Asian;Udon Vegan;IT1011701;Main Course;26
+RE10117;Asian;Dim Sum Dumpings;IT1011702;Starter;11
+RE10117;Asian;Maki Ramen;IT1011703;Main Course;26
+RE10117;Asian;Shrimp Platter;IT1011704;Main Course;21
+RE10117;Asian;Special Drink;IT1011705;Drink;5
+RE10118;Dessert-Ice_Cream;Strawberry;IT1011801;Main Course;19
+RE10118;Dessert-Ice_Cream;Chocolate;IT1011802;Main Course;11
+RE10118;Dessert-Ice_Cream;Mint;IT1011803;Main Course;27
+RE10118;Dessert-Ice_Cream;Vanilla;IT1011804;Main Course;14
+RE10118;Dessert-Ice_Cream;Lemon;IT1011805;Main Course;28
+RE10119;International;Cheese Bread Sticks;IT1011901;Starter;11
+RE10119;International;Honey Glazed Chicken;IT1011902;Starter;14
+RE10119;International;Grande Salad;IT1011903;Main Course;13
+RE10119;International;Beef Steak;IT1011904;Main Course;26
+RE10119;International;Apple Drink;IT1011905;Drink;8
+RE10120;Mongolian;Szechuan Chicken;IT1012001;Main Course;12
+RE10120;Mongolian;Stir Fried Noodles;IT1012002;Main Course;25
+RE10120;Mongolian;Beef Teriyaki;IT1012003;Main Course;16
+RE10120;Mongolian;Fried Rice;IT1012004;Main Course;26
+RE10120;Mongolian;Veggie Roll;IT1012005;Starter;6
+RE10121;Steaks;Cheese Steak;IT1012101;Main Course;27
+RE10121;Steaks;Turkey Steak;IT1012102;Main Course;24
+RE10121;Steaks;Center Cut Sirloin;IT1012103;Main Course;25
+RE10121;Steaks;T Bone Steak;IT1012104;Main Course;13
+RE10121;Steaks;Soda;IT1012105;Drink;8
+RE10122;Vegetarian;Chickpea Salad;IT1012201;Starter;6
+RE10122;Vegetarian;Tortilla Espanola;IT1012202;Main Course;27
+RE10122;Vegetarian;Mashed Potatoes with Veggies;IT1012203;Main Course;11
+RE10122;Vegetarian;Strawberry Gelato;IT1012204;Dessert;11
+RE10122;Vegetarian;Virgin Mojito;IT1012205;Drink;5
+RE10123;Brazilian;Mesquita;IT1012301;Starter;7
+RE10123;Brazilian;Rio Steak;IT1012302;Main Course;29
+RE10123;Brazilian;Plain Cheesecake;IT1012303;Dessert;5
+RE10123;Brazilian;Tiramisu;IT1012304;Dessert;11
+RE10123;Brazilian;Pudim;IT1012305;Dessert;13
+RE10124;International;Cheese Bread Sticks;IT1012401;Starter;5
+RE10124;International;Honey Glazed Chicken;IT1012402;Starter;5
+RE10124;International;Grande Salad;IT1012403;Main Course;13
+RE10124;International;Beef Steak;IT1012404;Main Course;28
+RE10124;International;Apple Drink;IT1012405;Drink;8
+RE10125;Latin_American;Chicken with Chilli Flakes;IT1012501;Main Course;18
+RE10125;Latin_American;Parillia Steak;IT1012502;Main Course;27
+RE10125;Latin_American;Tostades;IT1012503;Main Course;22
+RE10125;Latin_American;Soft Shell Tacos;IT1012504;Main Course;26
+RE10125;Latin_American;Chimichangas;IT1012505;Main Course;25
+RE10126;Steaks;Cheese Steak;IT1012601;Main Course;29
+RE10126;Steaks;Turkey Steak;IT1012602;Main Course;10
+RE10126;Steaks;Center Cut Sirloin;IT1012603;Main Course;27
+RE10126;Steaks;T Bone Steak;IT1012604;Main Course;25
+RE10126;Steaks;Soda;IT1012605;Drink;5
+RE10127;Cafe-Coffee_Shop;Cappuccino;IT1012701;Drink;9
+RE10127;Cafe-Coffee_Shop;Glace;IT1012702;Drink;9
+RE10127;Cafe-Coffee_Shop;Latte;IT1012703;Drink;7
+RE10127;Cafe-Coffee_Shop;Cocoa;IT1012704;Drink;8
+RE10127;Cafe-Coffee_Shop;Mocha;IT1012705;Drink;8
+RE10128;Cafeteria;Popcorn Chicken;IT1012801;Starter;8
+RE10128;Cafeteria;Club Mix;IT1012802;Main Course;17
+RE10128;Cafeteria;Classic Cheese Pizza;IT1012803;Main Course;27
+RE10128;Cafeteria;Frozen Fruit Cup;IT1012804;Dessert;8
+RE10128;Cafeteria;Milkshake;IT1012805;Drink;5
+RE10129;Contemporary;Supreme Nachos;IT1012901;Starter;13
+RE10129;Contemporary;Boneless Wings;IT1012902;Starter;10
+RE10129;Contemporary;Fajita Wrao;IT1012903;Main Course;27
+RE10129;Contemporary;Veggie Delight;IT1012904;Main Course;21
+RE10129;Contemporary;Soda;IT1012905;Drink;8
+RE10130;Deli-Sandwiches;Chicken;IT1013001;Main Course;26
+RE10130;Deli-Sandwiches;Mutton;IT1013002;Main Course;23
+RE10130;Deli-Sandwiches;Beef;IT1013003;Main Course;25
+RE10130;Deli-Sandwiches;Turkey  ;IT1013004;Main Course;19
+RE10130;Deli-Sandwiches;Vegan;IT1013005;Main Course;28
+RE10131;Diner;Fried Eggs;IT1013101;Main Course;17
+RE10131;Diner;Milkshake;IT1013102;Drink;8
+RE10131;Diner;Chicken Pasta;IT1013103;Main Course;25
+RE10131;Diner;Pizza Rolls;IT1013104;Starter;5
+RE10131;Diner;Soda;IT1013105;Drink;5
+RE10132;Mexican;Fire Burrito;IT1013201;Main Course;22
+RE10132;Mexican;Chilli Tacos;IT1013202;Main Course;17
+RE10132;Mexican;Chicken Quasedillas;IT1013203;Main Course;10
+RE10132;Mexican;Grilled Pork;IT1013204;Main Course;29
+RE10132;Mexican;Pork Burritos;IT1013205;Main Course;28
+RE10133;Mexican;Fire Burrito;IT1013301;Main Course;19
+RE10133;Mexican;Chilli Tacos;IT1013302;Main Course;21
+RE10133;Mexican;Chicken Quasedillas;IT1013303;Main Course;28
+RE10133;Mexican;Grilled Pork;IT1013304;Main Course;25
+RE10133;Mexican;Pork Burritos;IT1013305;Main Course;19
+RE10134;Mexican;Fire Burrito;IT1013401;Main Course;20
+RE10134;Mexican;Chilli Tacos;IT1013402;Main Course;23
+RE10134;Mexican;Chicken Quasedillas;IT1013403;Main Course;19
+RE10134;Mexican;Grilled Pork;IT1013404;Main Course;13
+RE10134;Mexican;Pork Burritos;IT1013405;Main Course;28
+RE10135;Cafeteria;Popcorn Chicken;IT1013501;Starter;12
+RE10135;Cafeteria;Club Mix;IT1013502;Main Course;29
+RE10135;Cafeteria;Classic Cheese Pizza;IT1013503;Main Course;14
+RE10135;Cafeteria;Frozen Fruit Cup;IT1013504;Dessert;11
+RE10135;Cafeteria;Milkshake;IT1013505;Drink;6
+RE10136;Mexican;Fire Burrito;IT1013601;Main Course;19
+RE10136;Mexican;Chilli Tacos;IT1013602;Main Course;15
+RE10136;Mexican;Chicken Quasedillas;IT1013603;Main Course;18
+RE10136;Mexican;Grilled Pork;IT1013604;Main Course;20
+RE10136;Mexican;Pork Burritos;IT1013605;Main Course;11
+RE10137;Japanese;Chukka Salad;IT1013701;Starter;9
+RE10137;Japanese;Takitori;IT1013702;Starter;14
+RE10137;Japanese;Pork Teriyaki;IT1013703;Main Course;22
+RE10137;Japanese;Gunkan With Cucumber;IT1013704;Main Course;17
+RE10137;Japanese;Roll with Walnuts;IT1013705;Starter;12
+RE10138;Sushi;Salmon Futomaki;IT1013801;Main Course;19
+RE10138;Sushi;Tuna Futomaki;IT1013802;Main Course;16
+RE10138;Sushi;Ikura Futomaki;IT1013803;Main Course;27
+RE10138;Sushi;Maki Roll Set;IT1013804;Main Course;29
+RE10138;Sushi;Nigiri Set;IT1013805;Main Course;10
+RE10139;Mexican;Fire Burrito;IT1013901;Main Course;13
+RE10139;Mexican;Chilli Tacos;IT1013902;Main Course;28
+RE10139;Mexican;Chicken Quasedillas;IT1013903;Main Course;11
+RE10139;Mexican;Grilled Pork;IT1013904;Main Course;10
+RE10139;Mexican;Pork Burritos;IT1013905;Main Course;27
+RE10140;Seafood;Crab Masala;IT1014001;Main Course;16
+RE10140;Seafood;Tandoori Fish;IT1014002;Main Course;22
+RE10140;Seafood;Salmon Sikandari;IT1014003;Main Course;11
+RE10140;Seafood;Chilli Prawn Brochettes;IT1014004;Main Course;25
+RE10140;Seafood;Lobster Salad;IT1014005;Starter;10
+RE10141;Cafeteria;Popcorn Chicken;IT1014101;Starter;13
+RE10141;Cafeteria;Club Mix;IT1014102;Main Course;14
+RE10141;Cafeteria;Classic Cheese Pizza;IT1014103;Main Course;22
+RE10141;Cafeteria;Frozen Fruit Cup;IT1014104;Dessert;6
+RE10141;Cafeteria;Milkshake;IT1014105;Drink;6
+RE10142;Burgers;Chicken Burger;IT1014201;Main Course;11
+RE10142;Burgers;Hamburger;IT1014202;Main Course;12
+RE10142;Burgers;Beef Burger;IT1014203;Main Course;24
+RE10142;Burgers;Mixed Burger;IT1014204;Main Course;24
+RE10142;Burgers;Soda;IT1014205;Drink;7
+RE10143;Fast_Food;Hot Dog with Fries;IT1014301;Main Course;24
+RE10143;Fast_Food;Chicken Burger;IT1014302;Main Course;26
+RE10143;Fast_Food;Hamburger;IT1014303;Main Course;26
+RE10143;Fast_Food;Beef Burger;IT1014304;Main Course;14
+RE10143;Fast_Food;Soda;IT1014305;Drink;5
+RE10144;Fast_Food;Hot Dog with Fries;IT1014401;Main Course;13
+RE10144;Fast_Food;Chicken Burger;IT1014402;Main Course;19
+RE10144;Fast_Food;Hamburger;IT1014403;Main Course;20
+RE10144;Fast_Food;Beef Burger;IT1014404;Main Course;10
+RE10144;Fast_Food;Soda;IT1014405;Drink;6
+RE10145;Chinese;Lobster Cantonese;IT1014501;Main Course;15
+RE10145;Chinese;Pork Chow Mein;IT1014502;Main Course;24
+RE10145;Chinese;Chicken Chop Suey;IT1014503;Starter;8
+RE10145;Chinese;Egg Flower Soup;IT1014504;Starter;10
+RE10145;Chinese;Fried Shrimp;IT1014505;Starter;7
+RE10146;Seafood;Crab Masala;IT1014601;Main Course;22
+RE10146;Seafood;Tandoori Fish;IT1014602;Main Course;13
+RE10146;Seafood;Salmon Sikandari;IT1014603;Main Course;29
+RE10146;Seafood;Chilli Prawn Brochettes;IT1014604;Main Course;26
+RE10146;Seafood;Lobster Salad;IT1014605;Starter;10
+RE10147;Contemporary;Supreme Nachos;IT1014701;Starter;12
+RE10147;Contemporary;Boneless Wings;IT1014702;Starter;7
+RE10147;Contemporary;Fajita Wrao;IT1014703;Main Course;25
+RE10147;Contemporary;Veggie Delight;IT1014704;Main Course;10
+RE10147;Contemporary;Soda;IT1014705;Drink;5
+RE10148;Bar;Strawberry Daiquiri;IT1014801;Drink;6
+RE10148;Bar;Tequila Sunrise;IT1014802;Drink;5
+RE10148;Bar;Beer;IT1014803;Drink;5
+RE10148;Bar;Red Wine;IT1014804;Drink;6
+RE10148;Bar;White Wine;IT1014805;Drink;6
+RE10149;Bar_Pub_Brewery;Draft beer;IT1014901;Drink;9
+RE10149;Bar_Pub_Brewery;Special Beer;IT1014902;Drink;6
+RE10149;Bar_Pub_Brewery;Bottled Beer;IT1014903;Drink;5
+RE10149;Bar_Pub_Brewery;Imported Beer;IT1014904;Drink;5
+RE10149;Bar_Pub_Brewery;Family Pack;IT1014905;Drink;9
+RE10150;Japanese;Chukka Salad;IT1015001;Starter;11
+RE10150;Japanese;Takitori;IT1015002;Starter;10
+RE10150;Japanese;Pork Teriyaki;IT1015003;Main Course;22
+RE10150;Japanese;Gunkan With Cucumber;IT1015004;Main Course;17
+RE10150;Japanese;Roll with Walnuts;IT1015005;Starter;11
+RE10151;Bar;Strawberry Daiquiri;IT1015101;Drink;9
+RE10151;Bar;Tequila Sunrise;IT1015102;Drink;8
+RE10151;Bar;Beer;IT1015103;Drink;9
+RE10151;Bar;Red Wine;IT1015104;Drink;9
+RE10151;Bar;White Wine;IT1015105;Drink;5
+RE10152;Bar_Pub_Brewery;Draft beer;IT1015201;Drink;6
+RE10152;Bar_Pub_Brewery;Special Beer;IT1015202;Drink;7
+RE10152;Bar_Pub_Brewery;Bottled Beer;IT1015203;Drink;8
+RE10152;Bar_Pub_Brewery;Imported Beer;IT1015204;Drink;5
+RE10152;Bar_Pub_Brewery;Family Pack;IT1015205;Drink;8
+RE10153;Bar;Strawberry Daiquiri;IT1015301;Drink;9
+RE10153;Bar;Tequila Sunrise;IT1015302;Drink;8
+RE10153;Bar;Beer;IT1015303;Drink;7
+RE10153;Bar;Red Wine;IT1015304;Drink;9
+RE10153;Bar;White Wine;IT1015305;Drink;9
+RE10154;Contemporary;Supreme Nachos;IT1015401;Starter;7
+RE10154;Contemporary;Boneless Wings;IT1015402;Starter;13
+RE10154;Contemporary;Fajita Wrao;IT1015403;Main Course;14
+RE10154;Contemporary;Veggie Delight;IT1015404;Main Course;28
+RE10154;Contemporary;Soda;IT1015405;Drink;8
+RE10155;Seafood;Crab Masala;IT1015501;Main Course;14
+RE10155;Seafood;Tandoori Fish;IT1015502;Main Course;22
+RE10155;Seafood;Salmon Sikandari;IT1015503;Main Course;25
+RE10155;Seafood;Chilli Prawn Brochettes;IT1015504;Main Course;11
+RE10155;Seafood;Lobster Salad;IT1015505;Starter;13
+RE10156;Bar;Strawberry Daiquiri;IT1015601;Drink;9
+RE10156;Bar;Tequila Sunrise;IT1015602;Drink;9
+RE10156;Bar;Beer;IT1015603;Drink;9
+RE10156;Bar;Red Wine;IT1015604;Drink;8
+RE10156;Bar;White Wine;IT1015605;Drink;6
+RE10157;Pizzeria;Margherita;IT1015701;Main Course;24
+RE10157;Pizzeria;Fungi;IT1015702;Main Course;12
+RE10157;Pizzeria;Salami;IT1015703;Main Course;25
+RE10157;Pizzeria;Mexican;IT1015704;Main Course;18
+RE10157;Pizzeria;Vegetarian;IT1015705;Main Course;13
+RE10158;Bar;Strawberry Daiquiri;IT1015801;Drink;6
+RE10158;Bar;Tequila Sunrise;IT1015802;Drink;9
+RE10158;Bar;Beer;IT1015803;Drink;8
+RE10158;Bar;Red Wine;IT1015804;Drink;9
+RE10158;Bar;White Wine;IT1015805;Drink;9
+RE10159;Bar;Strawberry Daiquiri;IT1015901;Drink;6
+RE10159;Bar;Tequila Sunrise;IT1015902;Drink;6
+RE10159;Bar;Beer;IT1015903;Drink;5
+RE10159;Bar;Red Wine;IT1015904;Drink;7
+RE10159;Bar;White Wine;IT1015905;Drink;7
+RE10160;Mexican;Fire Burrito;IT1016001;Main Course;16
+RE10160;Mexican;Chilli Tacos;IT1016002;Main Course;12
+RE10160;Mexican;Chicken Quasedillas;IT1016003;Main Course;23
+RE10160;Mexican;Grilled Pork;IT1016004;Main Course;28
+RE10160;Mexican;Pork Burritos;IT1016005;Main Course;26
+RE10161;Seafood;Crab Masala;IT1016101;Main Course;12
+RE10161;Seafood;Tandoori Fish;IT1016102;Main Course;12
+RE10161;Seafood;Salmon Sikandari;IT1016103;Main Course;14
+RE10161;Seafood;Chilli Prawn Brochettes;IT1016104;Main Course;14
+RE10161;Seafood;Lobster Salad;IT1016105;Starter;9
+RE10162;Cafeteria;Popcorn Chicken;IT1016201;Starter;6
+RE10162;Cafeteria;Club Mix;IT1016202;Main Course;16
+RE10162;Cafeteria;Classic Cheese Pizza;IT1016203;Main Course;25
+RE10162;Cafeteria;Frozen Fruit Cup;IT1016204;Dessert;8
+RE10162;Cafeteria;Milkshake;IT1016205;Drink;5
+RE10163;Fast_Food;Hot Dog with Fries;IT1016301;Main Course;18
+RE10163;Fast_Food;Chicken Burger;IT1016302;Main Course;11
+RE10163;Fast_Food;Hamburger;IT1016303;Main Course;16
+RE10163;Fast_Food;Beef Burger;IT1016304;Main Course;21
+RE10163;Fast_Food;Soda;IT1016305;Drink;6
+RE10164;Pizzeria;Margherita;IT1016401;Main Course;19
+RE10164;Pizzeria;Fungi;IT1016402;Main Course;28
+RE10164;Pizzeria;Salami;IT1016403;Main Course;14
+RE10164;Pizzeria;Mexican;IT1016404;Main Course;20
+RE10164;Pizzeria;Vegetarian;IT1016405;Main Course;11
+RE10165;Bar;Strawberry Daiquiri;IT1016501;Drink;5
+RE10165;Bar;Tequila Sunrise;IT1016502;Drink;5
+RE10165;Bar;Beer;IT1016503;Drink;9
+RE10165;Bar;Red Wine;IT1016504;Drink;9
+RE10165;Bar;White Wine;IT1016505;Drink;8
+RE10166;Bar_Pub_Brewery;Draft beer;IT1016601;Drink;8
+RE10166;Bar_Pub_Brewery;Special Beer;IT1016602;Drink;8
+RE10166;Bar_Pub_Brewery;Bottled Beer;IT1016603;Drink;9
+RE10166;Bar_Pub_Brewery;Imported Beer;IT1016604;Drink;5
+RE10166;Bar_Pub_Brewery;Family Pack;IT1016605;Drink;7
+RE10167;Seafood;Crab Masala;IT1016701;Main Course;25
+RE10167;Seafood;Tandoori Fish;IT1016702;Main Course;27
+RE10167;Seafood;Salmon Sikandari;IT1016703;Main Course;17
+RE10167;Seafood;Chilli Prawn Brochettes;IT1016704;Main Course;14
+RE10167;Seafood;Lobster Salad;IT1016705;Starter;13
+RE10168;Bar;Strawberry Daiquiri;IT1016801;Drink;7
+RE10168;Bar;Tequila Sunrise;IT1016802;Drink;7
+RE10168;Bar;Beer;IT1016803;Drink;8
+RE10168;Bar;Red Wine;IT1016804;Drink;7
+RE10168;Bar;White Wine;IT1016805;Drink;9
+RE10169;Fast_Food;Hot Dog with Fries;IT1016901;Main Course;25
+RE10169;Fast_Food;Chicken Burger;IT1016902;Main Course;13
+RE10169;Fast_Food;Hamburger;IT1016903;Main Course;14
+RE10169;Fast_Food;Beef Burger;IT1016904;Main Course;16
+RE10169;Fast_Food;Soda;IT1016905;Drink;7
+RE10170;Chinese;Lobster Cantonese;IT1017001;Main Course;27
+RE10170;Chinese;Pork Chow Mein;IT1017002;Main Course;19
+RE10170;Chinese;Chicken Chop Suey;IT1017003;Starter;8
+RE10170;Chinese;Egg Flower Soup;IT1017004;Starter;12
+RE10170;Chinese;Fried Shrimp;IT1017005;Starter;14
+RE10171;Fast_Food;Hot Dog with Fries;IT1017101;Main Course;24
+RE10171;Fast_Food;Chicken Burger;IT1017102;Main Course;19
+RE10171;Fast_Food;Hamburger;IT1017103;Main Course;18
+RE10171;Fast_Food;Beef Burger;IT1017104;Main Course;17
+RE10171;Fast_Food;Soda;IT1017105;Drink;6
+RE10172;Pizzeria;Margherita;IT1017201;Main Course;23
+RE10172;Pizzeria;Fungi;IT1017202;Main Course;11
+RE10172;Pizzeria;Salami;IT1017203;Main Course;28
+RE10172;Pizzeria;Mexican;IT1017204;Main Course;22
+RE10172;Pizzeria;Vegetarian;IT1017205;Main Course;23
+RE10173;Chinese;Lobster Cantonese;IT1017301;Main Course;20
+RE10173;Chinese;Pork Chow Mein;IT1017302;Main Course;17
+RE10173;Chinese;Chicken Chop Suey;IT1017303;Starter;6
+RE10173;Chinese;Egg Flower Soup;IT1017304;Starter;9
+RE10173;Chinese;Fried Shrimp;IT1017305;Starter;12
+RE10174;Bar;Strawberry Daiquiri;IT1017401;Drink;8
+RE10174;Bar;Tequila Sunrise;IT1017402;Drink;9
+RE10174;Bar;Beer;IT1017403;Drink;7
+RE10174;Bar;Red Wine;IT1017404;Drink;9
+RE10174;Bar;White Wine;IT1017405;Drink;5
+RE10175;Cafeteria;Popcorn Chicken;IT1017501;Starter;10
+RE10175;Cafeteria;Club Mix;IT1017502;Main Course;19
+RE10175;Cafeteria;Classic Cheese Pizza;IT1017503;Main Course;23
+RE10175;Cafeteria;Frozen Fruit Cup;IT1017504;Dessert;6
+RE10175;Cafeteria;Milkshake;IT1017505;Drink;6
+RE10176;Seafood;Crab Masala;IT1017601;Main Course;25
+RE10176;Seafood;Tandoori Fish;IT1017602;Main Course;26
+RE10176;Seafood;Salmon Sikandari;IT1017603;Main Course;28
+RE10176;Seafood;Chilli Prawn Brochettes;IT1017604;Main Course;20
+RE10176;Seafood;Lobster Salad;IT1017605;Starter;9
+RE10177;Mexican;Fire Burrito;IT1017701;Main Course;29
+RE10177;Mexican;Chilli Tacos;IT1017702;Main Course;17
+RE10177;Mexican;Chicken Quasedillas;IT1017703;Main Course;17
+RE10177;Mexican;Grilled Pork;IT1017704;Main Course;23
+RE10177;Mexican;Pork Burritos;IT1017705;Main Course;22
+RE10178;Bar;Strawberry Daiquiri;IT1017801;Drink;8
+RE10178;Bar;Tequila Sunrise;IT1017802;Drink;7
+RE10178;Bar;Beer;IT1017803;Drink;6
+RE10178;Bar;Red Wine;IT1017804;Drink;7
+RE10178;Bar;White Wine;IT1017805;Drink;7
+RE10179;Italian;Bruschetta;IT1017901;Starter;5
+RE10179;Italian;Pepperoni Pizza;IT1017902;Main Course;21
+RE10179;Italian;Bolognese Pasta;IT1017903;Main Course;16
+RE10179;Italian;Smoked Mushroom Soup;IT1017904;Starter;13
+RE10179;Italian;Tiramisu;IT1017905;Dessert;10
+RE10180;Japanese;Chukka Salad;IT1018001;Starter;8
+RE10180;Japanese;Takitori;IT1018002;Starter;10
+RE10180;Japanese;Pork Teriyaki;IT1018003;Main Course;24
+RE10180;Japanese;Gunkan With Cucumber;IT1018004;Main Course;25
+RE10180;Japanese;Roll with Walnuts;IT1018005;Starter;13
+RE10181;Cafeteria;Popcorn Chicken;IT1018101;Starter;13
+RE10181;Cafeteria;Club Mix;IT1018102;Main Course;23
+RE10181;Cafeteria;Classic Cheese Pizza;IT1018103;Main Course;20
+RE10181;Cafeteria;Frozen Fruit Cup;IT1018104;Dessert;9
+RE10181;Cafeteria;Milkshake;IT1018105;Drink;8
+RE10182;Contemporary;Supreme Nachos;IT1018201;Starter;7
+RE10182;Contemporary;Boneless Wings;IT1018202;Starter;5
+RE10182;Contemporary;Fajita Wrao;IT1018203;Main Course;20
+RE10182;Contemporary;Veggie Delight;IT1018204;Main Course;18
+RE10182;Contemporary;Soda;IT1018205;Drink;6
+RE10183;Seafood;Crab Masala;IT1018301;Main Course;29
+RE10183;Seafood;Tandoori Fish;IT1018302;Main Course;21
+RE10183;Seafood;Salmon Sikandari;IT1018303;Main Course;11
+RE10183;Seafood;Chilli Prawn Brochettes;IT1018304;Main Course;19
+RE10183;Seafood;Lobster Salad;IT1018305;Starter;10
+RE10184;Cafe-Coffee_Shop;Cappuccino;IT1018401;Drink;9
+RE10184;Cafe-Coffee_Shop;Glace;IT1018402;Drink;5
+RE10184;Cafe-Coffee_Shop;Latte;IT1018403;Drink;9
+RE10184;Cafe-Coffee_Shop;Cocoa;IT1018404;Drink;8
+RE10184;Cafe-Coffee_Shop;Mocha;IT1018405;Drink;9
+RE10185;Cafeteria;Popcorn Chicken;IT1018501;Starter;8
+RE10185;Cafeteria;Club Mix;IT1018502;Main Course;18
+RE10185;Cafeteria;Classic Cheese Pizza;IT1018503;Main Course;21
+RE10185;Cafeteria;Frozen Fruit Cup;IT1018504;Dessert;11
+RE10185;Cafeteria;Milkshake;IT1018505;Drink;6
+RE10186;Bar;Strawberry Daiquiri;IT1018601;Drink;7
+RE10186;Bar;Tequila Sunrise;IT1018602;Drink;8
+RE10186;Bar;Beer;IT1018603;Drink;5
+RE10186;Bar;Red Wine;IT1018604;Drink;9
+RE10186;Bar;White Wine;IT1018605;Drink;9
+RE10187;Bar_Pub_Brewery;Draft beer;IT1018701;Drink;5
+RE10187;Bar_Pub_Brewery;Special Beer;IT1018702;Drink;8
+RE10187;Bar_Pub_Brewery;Bottled Beer;IT1018703;Drink;8
+RE10187;Bar_Pub_Brewery;Imported Beer;IT1018704;Drink;8
+RE10187;Bar_Pub_Brewery;Family Pack;IT1018705;Drink;5
+RE10188;Mexican;Fire Burrito;IT1018801;Main Course;25
+RE10188;Mexican;Chilli Tacos;IT1018802;Main Course;26
+RE10188;Mexican;Chicken Quasedillas;IT1018803;Main Course;10
+RE10188;Mexican;Grilled Pork;IT1018804;Main Course;13
+RE10188;Mexican;Pork Burritos;IT1018805;Main Course;20
+RE10189;Mexican;Fire Burrito;IT1018901;Main Course;12
+RE10189;Mexican;Chilli Tacos;IT1018902;Main Course;16
+RE10189;Mexican;Chicken Quasedillas;IT1018903;Main Course;22
+RE10189;Mexican;Grilled Pork;IT1018904;Main Course;11
+RE10189;Mexican;Pork Burritos;IT1018905;Main Course;12
+RE10190;Bar;Strawberry Daiquiri;IT1019001;Drink;7
+RE10190;Bar;Tequila Sunrise;IT1019002;Drink;9
+RE10190;Bar;Beer;IT1019003;Drink;8
+RE10190;Bar;Red Wine;IT1019004;Drink;7
+RE10190;Bar;White Wine;IT1019005;Drink;8
+RE10191;Bar_Pub_Brewery;Draft beer;IT1019101;Drink;9
+RE10191;Bar_Pub_Brewery;Special Beer;IT1019102;Drink;9
+RE10191;Bar_Pub_Brewery;Bottled Beer;IT1019103;Drink;5
+RE10191;Bar_Pub_Brewery;Imported Beer;IT1019104;Drink;8
+RE10191;Bar_Pub_Brewery;Family Pack;IT1019105;Drink;7
+RE10192;Mexican;Fire Burrito;IT1019201;Main Course;17
+RE10192;Mexican;Chilli Tacos;IT1019202;Main Course;13
+RE10192;Mexican;Chicken Quasedillas;IT1019203;Main Course;13
+RE10192;Mexican;Grilled Pork;IT1019204;Main Course;23
+RE10192;Mexican;Pork Burritos;IT1019205;Main Course;12
+RE10193;Mexican;Fire Burrito;IT1019301;Main Course;23
+RE10193;Mexican;Chilli Tacos;IT1019302;Main Course;18
+RE10193;Mexican;Chicken Quasedillas;IT1019303;Main Course;18
+RE10193;Mexican;Grilled Pork;IT1019304;Main Course;26
+RE10193;Mexican;Pork Burritos;IT1019305;Main Course;25
+RE10194;Fast_Food;Hot Dog with Fries;IT1019401;Main Course;16
+RE10194;Fast_Food;Chicken Burger;IT1019402;Main Course;13
+RE10194;Fast_Food;Hamburger;IT1019403;Main Course;20
+RE10194;Fast_Food;Beef Burger;IT1019404;Main Course;21
+RE10194;Fast_Food;Soda;IT1019405;Drink;7
+RE10195;Bar;Strawberry Daiquiri;IT1019501;Drink;7
+RE10195;Bar;Tequila Sunrise;IT1019502;Drink;5
+RE10195;Bar;Beer;IT1019503;Drink;9
+RE10195;Bar;Red Wine;IT1019504;Drink;9
+RE10195;Bar;White Wine;IT1019505;Drink;9
+RE10196;Mexican;Fire Burrito;IT1019601;Main Course;19
+RE10196;Mexican;Chilli Tacos;IT1019602;Main Course;27
+RE10196;Mexican;Chicken Quasedillas;IT1019603;Main Course;20
+RE10196;Mexican;Grilled Pork;IT1019604;Main Course;22
+RE10196;Mexican;Pork Burritos;IT1019605;Main Course;12
+RE10197;Bar;Strawberry Daiquiri;IT1019701;Drink;8
+RE10197;Bar;Tequila Sunrise;IT1019702;Drink;6
+RE10197;Bar;Beer;IT1019703;Drink;7
+RE10197;Bar;Red Wine;IT1019704;Drink;6
+RE10197;Bar;White Wine;IT1019705;Drink;6
+RE10198;Mexican;Fire Burrito;IT1019801;Main Course;29
+RE10198;Mexican;Chilli Tacos;IT1019802;Main Course;10
+RE10198;Mexican;Chicken Quasedillas;IT1019803;Main Course;19
+RE10198;Mexican;Grilled Pork;IT1019804;Main Course;20
+RE10198;Mexican;Pork Burritos;IT1019805;Main Course;22
+RE10199;Contemporary;Supreme Nachos;IT1019901;Starter;7
+RE10199;Contemporary;Boneless Wings;IT1019902;Starter;12
+RE10199;Contemporary;Fajita Wrao;IT1019903;Main Course;21
+RE10199;Contemporary;Veggie Delight;IT1019904;Main Course;16
+RE10199;Contemporary;Soda;IT1019905;Drink;6
+RE10200;Bar;Strawberry Daiquiri;IT1020001;Drink;5
+RE10200;Bar;Tequila Sunrise;IT1020002;Drink;6
+RE10200;Bar;Beer;IT1020003;Drink;9
+RE10200;Bar;Red Wine;IT1020004;Drink;9
+RE10200;Bar;White Wine;IT1020005;Drink;9
+RE10201;Bar_Pub_Brewery;Draft beer;IT1020101;Drink;9
+RE10201;Bar_Pub_Brewery;Special Beer;IT1020102;Drink;5
+RE10201;Bar_Pub_Brewery;Bottled Beer;IT1020103;Drink;5
+RE10201;Bar_Pub_Brewery;Imported Beer;IT1020104;Drink;5
+RE10201;Bar_Pub_Brewery;Family Pack;IT1020105;Drink;9
+RE10202;Mexican;Fire Burrito;IT1020201;Main Course;16
+RE10202;Mexican;Chilli Tacos;IT1020202;Main Course;15
+RE10202;Mexican;Chicken Quasedillas;IT1020203;Main Course;11
+RE10202;Mexican;Grilled Pork;IT1020204;Main Course;13
+RE10202;Mexican;Pork Burritos;IT1020205;Main Course;24
+RE10203;Mexican;Fire Burrito;IT1020301;Main Course;22
+RE10203;Mexican;Chilli Tacos;IT1020302;Main Course;19
+RE10203;Mexican;Chicken Quasedillas;IT1020303;Main Course;23
+RE10203;Mexican;Grilled Pork;IT1020304;Main Course;20
+RE10203;Mexican;Pork Burritos;IT1020305;Main Course;17
+RE10204;Bar;Strawberry Daiquiri;IT1020401;Drink;7
+RE10204;Bar;Tequila Sunrise;IT1020402;Drink;5
+RE10204;Bar;Beer;IT1020403;Drink;7
+RE10204;Bar;Red Wine;IT1020404;Drink;7
+RE10204;Bar;White Wine;IT1020405;Drink;5
+RE10205;Bar_Pub_Brewery;Draft beer;IT1020501;Drink;7
+RE10205;Bar_Pub_Brewery;Special Beer;IT1020502;Drink;8
+RE10205;Bar_Pub_Brewery;Bottled Beer;IT1020503;Drink;6
+RE10205;Bar_Pub_Brewery;Imported Beer;IT1020504;Drink;7
+RE10205;Bar_Pub_Brewery;Family Pack;IT1020505;Drink;6
+RE10206;Chinese;Lobster Cantonese;IT1020601;Main Course;10
+RE10206;Chinese;Pork Chow Mein;IT1020602;Main Course;15
+RE10206;Chinese;Chicken Chop Suey;IT1020603;Starter;7
+RE10206;Chinese;Egg Flower Soup;IT1020604;Starter;6
+RE10206;Chinese;Fried Shrimp;IT1020605;Starter;8
+RE10207;Mexican;Fire Burrito;IT1020701;Main Course;20
+RE10207;Mexican;Chilli Tacos;IT1020702;Main Course;22
+RE10207;Mexican;Chicken Quasedillas;IT1020703;Main Course;24
+RE10207;Mexican;Grilled Pork;IT1020704;Main Course;27
+RE10207;Mexican;Pork Burritos;IT1020705;Main Course;17
+RE10208;Japanese;Chukka Salad;IT1020801;Starter;7
+RE10208;Japanese;Takitori;IT1020802;Starter;9
+RE10208;Japanese;Pork Teriyaki;IT1020803;Main Course;11
+RE10208;Japanese;Gunkan With Cucumber;IT1020804;Main Course;11
+RE10208;Japanese;Roll with Walnuts;IT1020805;Starter;10
+RE10209;Bar;Strawberry Daiquiri;IT1020901;Drink;9
+RE10209;Bar;Tequila Sunrise;IT1020902;Drink;6
+RE10209;Bar;Beer;IT1020903;Drink;5
+RE10209;Bar;Red Wine;IT1020904;Drink;8
+RE10209;Bar;White Wine;IT1020905;Drink;5
+RE10210;Cafe-Coffee_Shop;Cappuccino;IT1021001;Drink;6
+RE10210;Cafe-Coffee_Shop;Glace;IT1021002;Drink;8
+RE10210;Cafe-Coffee_Shop;Latte;IT1021003;Drink;6
+RE10210;Cafe-Coffee_Shop;Cocoa;IT1021004;Drink;8
+RE10210;Cafe-Coffee_Shop;Mocha;IT1021005;Drink;8
+RE10211;Cafeteria;Popcorn Chicken;IT1021101;Starter;5
+RE10211;Cafeteria;Club Mix;IT1021102;Main Course;25
+RE10211;Cafeteria;Classic Cheese Pizza;IT1021103;Main Course;23
+RE10211;Cafeteria;Frozen Fruit Cup;IT1021104;Dessert;13
+RE10211;Cafeteria;Milkshake;IT1021105;Drink;5
+RE10212;Bar;Strawberry Daiquiri;IT1021201;Drink;6
+RE10212;Bar;Tequila Sunrise;IT1021202;Drink;9
+RE10212;Bar;Beer;IT1021203;Drink;9
+RE10212;Bar;Red Wine;IT1021204;Drink;8
+RE10212;Bar;White Wine;IT1021205;Drink;5
+RE10213;Bar_Pub_Brewery;Draft beer;IT1021301;Drink;8
+RE10213;Bar_Pub_Brewery;Special Beer;IT1021302;Drink;6
+RE10213;Bar_Pub_Brewery;Bottled Beer;IT1021303;Drink;9
+RE10213;Bar_Pub_Brewery;Imported Beer;IT1021304;Drink;6
+RE10213;Bar_Pub_Brewery;Family Pack;IT1021305;Drink;9
+RE10214;Mexican;Fire Burrito;IT1021401;Main Course;29
+RE10214;Mexican;Chilli Tacos;IT1021402;Main Course;16
+RE10214;Mexican;Chicken Quasedillas;IT1021403;Main Course;22
+RE10214;Mexican;Grilled Pork;IT1021404;Main Course;24
+RE10214;Mexican;Pork Burritos;IT1021405;Main Course;21
+RE10215;Mediterranean;Chicken Salad;IT1021501;Starter;7
+RE10215;Mediterranean;Tabouleh;IT1021502;Starter;11
+RE10215;Mediterranean;Lamb Shawarma;IT1021503;Main Course;28
+RE10215;Mediterranean;Kefta Kebab;IT1021504;Main Course;21
+RE10215;Mediterranean;Soda;IT1021505;Drink;5
+RE10216;International;Cheese Bread Sticks;IT1021601;Starter;6
+RE10216;International;Honey Glazed Chicken;IT1021602;Starter;14
+RE10216;International;Grande Salad;IT1021603;Main Course;11
+RE10216;International;Beef Steak;IT1021604;Main Course;12
+RE10216;International;Apple Drink;IT1021605;Drink;9
+RE10217;Mexican;Fire Burrito;IT1021701;Main Course;26
+RE10217;Mexican;Chilli Tacos;IT1021702;Main Course;11
+RE10217;Mexican;Chicken Quasedillas;IT1021703;Main Course;26
+RE10217;Mexican;Grilled Pork;IT1021704;Main Course;25
+RE10217;Mexican;Pork Burritos;IT1021705;Main Course;25
+RE10218;Italian;Bruschetta;IT1021801;Starter;8
+RE10218;Italian;Pepperoni Pizza;IT1021802;Main Course;20
+RE10218;Italian;Bolognese Pasta;IT1021803;Main Course;21
+RE10218;Italian;Smoked Mushroom Soup;IT1021804;Starter;13
+RE10218;Italian;Tiramisu;IT1021805;Dessert;9
+RE10219;Bar;Strawberry Daiquiri;IT1021901;Drink;9
+RE10219;Bar;Tequila Sunrise;IT1021902;Drink;9
+RE10219;Bar;Beer;IT1021903;Drink;5
+RE10219;Bar;Red Wine;IT1021904;Drink;9
+RE10219;Bar;White Wine;IT1021905;Drink;7
+RE10220;Bar_Pub_Brewery;Draft beer;IT1022001;Drink;8
+RE10220;Bar_Pub_Brewery;Special Beer;IT1022002;Drink;9
+RE10220;Bar_Pub_Brewery;Bottled Beer;IT1022003;Drink;8
+RE10220;Bar_Pub_Brewery;Imported Beer;IT1022004;Drink;9
+RE10220;Bar_Pub_Brewery;Family Pack;IT1022005;Drink;9
+RE10221;Bar;Strawberry Daiquiri;IT1022101;Drink;9
+RE10221;Bar;Tequila Sunrise;IT1022102;Drink;7
+RE10221;Bar;Beer;IT1022103;Drink;8
+RE10221;Bar;Red Wine;IT1022104;Drink;6
+RE10221;Bar;White Wine;IT1022105;Drink;5
+RE10222;Bar_Pub_Brewery;Draft beer;IT1022201;Drink;5
+RE10222;Bar_Pub_Brewery;Special Beer;IT1022202;Drink;7
+RE10222;Bar_Pub_Brewery;Bottled Beer;IT1022203;Drink;7
+RE10222;Bar_Pub_Brewery;Imported Beer;IT1022204;Drink;8
+RE10222;Bar_Pub_Brewery;Family Pack;IT1022205;Drink;5
+RE10223;Italian;Bruschetta;IT1022301;Starter;9
+RE10223;Italian;Pepperoni Pizza;IT1022302;Main Course;29
+RE10223;Italian;Bolognese Pasta;IT1022303;Main Course;24
+RE10223;Italian;Smoked Mushroom Soup;IT1022304;Starter;11
+RE10223;Italian;Tiramisu;IT1022305;Dessert;6
+RE10224;Seafood;Crab Masala;IT1022401;Main Course;19
+RE10224;Seafood;Tandoori Fish;IT1022402;Main Course;11
+RE10224;Seafood;Salmon Sikandari;IT1022403;Main Course;28
+RE10224;Seafood;Chilli Prawn Brochettes;IT1022404;Main Course;12
+RE10224;Seafood;Lobster Salad;IT1022405;Starter;6
+RE10225;Mexican;Fire Burrito;IT1022501;Main Course;20
+RE10225;Mexican;Chilli Tacos;IT1022502;Main Course;19
+RE10225;Mexican;Chicken Quasedillas;IT1022503;Main Course;20
+RE10225;Mexican;Grilled Pork;IT1022504;Main Course;11
+RE10225;Mexican;Pork Burritos;IT1022505;Main Course;16
+RE10226;Mediterranean;Chicken Salad;IT1022601;Starter;7
+RE10226;Mediterranean;Tabouleh;IT1022602;Starter;14
+RE10226;Mediterranean;Lamb Shawarma;IT1022603;Main Course;23
+RE10226;Mediterranean;Kefta Kebab;IT1022604;Main Course;25
+RE10226;Mediterranean;Soda;IT1022605;Drink;9
+RE10227;Burgers;Chicken Burger;IT1022701;Main Course;11
+RE10227;Burgers;Hamburger;IT1022702;Main Course;18
+RE10227;Burgers;Beef Burger;IT1022703;Main Course;13
+RE10227;Burgers;Mixed Burger;IT1022704;Main Course;27
+RE10227;Burgers;Soda;IT1022705;Drink;9
+RE10228;Mexican;Fire Burrito;IT1022801;Main Course;14
+RE10228;Mexican;Chilli Tacos;IT1022802;Main Course;16
+RE10228;Mexican;Chicken Quasedillas;IT1022803;Main Course;28
+RE10228;Mexican;Grilled Pork;IT1022804;Main Course;19
+RE10228;Mexican;Pork Burritos;IT1022805;Main Course;18
+RE10229;Cafe-Coffee_Shop;Cappuccino;IT1022901;Drink;6
+RE10229;Cafe-Coffee_Shop;Glace;IT1022902;Drink;6
+RE10229;Cafe-Coffee_Shop;Latte;IT1022903;Drink;6
+RE10229;Cafe-Coffee_Shop;Cocoa;IT1022904;Drink;5
+RE10229;Cafe-Coffee_Shop;Mocha;IT1022905;Drink;7
+RE10230;Cafeteria;Popcorn Chicken;IT1023001;Starter;14
+RE10230;Cafeteria;Club Mix;IT1023002;Main Course;20
+RE10230;Cafeteria;Classic Cheese Pizza;IT1023003;Main Course;14
+RE10230;Cafeteria;Frozen Fruit Cup;IT1023004;Dessert;6
+RE10230;Cafeteria;Milkshake;IT1023005;Drink;6
+RE10231;Mexican;Fire Burrito;IT1023101;Main Course;11
+RE10231;Mexican;Chilli Tacos;IT1023102;Main Course;20
+RE10231;Mexican;Chicken Quasedillas;IT1023103;Main Course;25
+RE10231;Mexican;Grilled Pork;IT1023104;Main Course;10
+RE10231;Mexican;Pork Burritos;IT1023105;Main Course;23
+RE10232;Latin_American;Chicken with Chilli Flakes;IT1023201;Main Course;20
+RE10232;Latin_American;Parillia Steak;IT1023202;Main Course;14
+RE10232;Latin_American;Tostades;IT1023203;Main Course;29
+RE10232;Latin_American;Soft Shell Tacos;IT1023204;Main Course;18
+RE10232;Latin_American;Chimichangas;IT1023205;Main Course;14
+RE10233;Mexican;Fire Burrito;IT1023301;Main Course;16
+RE10233;Mexican;Chilli Tacos;IT1023302;Main Course;11
+RE10233;Mexican;Chicken Quasedillas;IT1023303;Main Course;24
+RE10233;Mexican;Grilled Pork;IT1023304;Main Course;22
+RE10233;Mexican;Pork Burritos;IT1023305;Main Course;10
+RE10234;American;Artichoke Salad;IT1023401;Starter;12
+RE10234;American;Cobb Salad;IT1023402;Starter;10
+RE10234;American;Grilled Salmon;IT1023403;Main Course;26
+RE10234;American;New York Steak;IT1023404;Main Course;19
+RE10234;American;Turkey Sandwich;IT1023405;Main Course;12
+RE10235;International;Cheese Bread Sticks;IT1023501;Starter;7
+RE10235;International;Honey Glazed Chicken;IT1023502;Starter;12
+RE10235;International;Grande Salad;IT1023503;Main Course;11
+RE10235;International;Beef Steak;IT1023504;Main Course;25
+RE10235;International;Apple Drink;IT1023505;Drink;9
+RE10236;Family;Stuffed Breadsticks;IT1023601;Starter;12
+RE10236;Family;Garlic Bread;IT1023602;Starter;13
+RE10236;Family;Sweet Corn Soup;IT1023603;Starter;14
+RE10236;Family;Beef Burger;IT1023604;Main Course;20
+RE10236;Family;Soda;IT1023605;Drink;6
+RE10237;Cafeteria;Popcorn Chicken;IT1023701;Starter;11
+RE10237;Cafeteria;Club Mix;IT1023702;Main Course;23
+RE10237;Cafeteria;Classic Cheese Pizza;IT1023703;Main Course;19
+RE10237;Cafeteria;Frozen Fruit Cup;IT1023704;Dessert;5
+RE10237;Cafeteria;Milkshake;IT1023705;Drink;6
+RE10238;Mexican;Fire Burrito;IT1023801;Main Course;10
+RE10238;Mexican;Chilli Tacos;IT1023802;Main Course;29
+RE10238;Mexican;Chicken Quasedillas;IT1023803;Main Course;25
+RE10238;Mexican;Grilled Pork;IT1023804;Main Course;10
+RE10238;Mexican;Pork Burritos;IT1023805;Main Course;29
+RE10239;Family;Stuffed Breadsticks;IT1023901;Starter;6
+RE10239;Family;Garlic Bread;IT1023902;Starter;14
+RE10239;Family;Sweet Corn Soup;IT1023903;Starter;12
+RE10239;Family;Beef Burger;IT1023904;Main Course;11
+RE10239;Family;Soda;IT1023905;Drink;6
+RE10240;Caribbean;Sweet Potato Crisps;IT1024001;Starter;7
+RE10240;Caribbean;Ackee with Fried Dumplings;IT1024002;Main Course;28
+RE10240;Caribbean;Curry Goat with Rice and Peas;IT1024003;Main Course;20
+RE10240;Caribbean;Ginger Cake;IT1024004;Dessert;5
+RE10240;Caribbean;Jamaican Rum;IT1024005;Drink;7
+RE10241;Mexican;Fire Burrito;IT1024101;Main Course;18
+RE10241;Mexican;Chilli Tacos;IT1024102;Main Course;20
+RE10241;Mexican;Chicken Quasedillas;IT1024103;Main Course;12
+RE10241;Mexican;Grilled Pork;IT1024104;Main Course;26
+RE10241;Mexican;Pork Burritos;IT1024105;Main Course;21
+RE10242;American;Artichoke Salad;IT1024201;Starter;13
+RE10242;American;Cobb Salad;IT1024202;Starter;8
+RE10242;American;Grilled Salmon;IT1024203;Main Course;29
+RE10242;American;New York Steak;IT1024204;Main Course;13
+RE10242;American;Turkey Sandwich;IT1024205;Main Course;12
+RE10243;Mexican;Fire Burrito;IT1024301;Main Course;11
+RE10243;Mexican;Chilli Tacos;IT1024302;Main Course;14
+RE10243;Mexican;Chicken Quasedillas;IT1024303;Main Course;27
+RE10243;Mexican;Grilled Pork;IT1024304;Main Course;16
+RE10243;Mexican;Pork Burritos;IT1024305;Main Course;19
+RE10244;Mexican;Fire Burrito;IT1024401;Main Course;27
+RE10244;Mexican;Chilli Tacos;IT1024402;Main Course;17
+RE10244;Mexican;Chicken Quasedillas;IT1024403;Main Course;24
+RE10244;Mexican;Grilled Pork;IT1024404;Main Course;10
+RE10244;Mexican;Pork Burritos;IT1024405;Main Course;14
+RE10245;Family;Stuffed Breadsticks;IT1024501;Starter;9
+RE10245;Family;Garlic Bread;IT1024502;Starter;13
+RE10245;Family;Sweet Corn Soup;IT1024503;Starter;7
+RE10245;Family;Beef Burger;IT1024504;Main Course;20
+RE10245;Family;Soda;IT1024505;Drink;6
+RE10246;Bar;Strawberry Daiquiri;IT1024601;Drink;7
+RE10246;Bar;Tequila Sunrise;IT1024602;Drink;5
+RE10246;Bar;Beer;IT1024603;Drink;5
+RE10246;Bar;Red Wine;IT1024604;Drink;6
+RE10246;Bar;White Wine;IT1024605;Drink;7
+RE10247;Mexican;Fire Burrito;IT1024701;Main Course;23
+RE10247;Mexican;Chilli Tacos;IT1024702;Main Course;23
+RE10247;Mexican;Chicken Quasedillas;IT1024703;Main Course;20
+RE10247;Mexican;Grilled Pork;IT1024704;Main Course;16
+RE10247;Mexican;Pork Burritos;IT1024705;Main Course;26
+RE10248;Cafeteria;Popcorn Chicken;IT1024801;Starter;13
+RE10248;Cafeteria;Club Mix;IT1024802;Main Course;29
+RE10248;Cafeteria;Classic Cheese Pizza;IT1024803;Main Course;21
+RE10248;Cafeteria;Frozen Fruit Cup;IT1024804;Dessert;9
+RE10248;Cafeteria;Milkshake;IT1024805;Drink;8
+RE10249;Family;Stuffed Breadsticks;IT1024901;Starter;10
+RE10249;Family;Garlic Bread;IT1024902;Starter;6
+RE10249;Family;Sweet Corn Soup;IT1024903;Starter;14
+RE10249;Family;Beef Burger;IT1024904;Main Course;20
+RE10249;Family;Soda;IT1024905;Drink;6
+RE10250;American;Artichoke Salad;IT1025001;Starter;8
+RE10250;American;Cobb Salad;IT1025002;Starter;12
+RE10250;American;Grilled Salmon;IT1025003;Main Course;12
+RE10250;American;New York Steak;IT1025004;Main Course;10
+RE10250;American;Turkey Sandwich;IT1025005;Main Course;22
+RE10251;Contemporary;Supreme Nachos;IT1025101;Starter;10
+RE10251;Contemporary;Boneless Wings;IT1025102;Starter;7
+RE10251;Contemporary;Fajita Wrao;IT1025103;Main Course;17
+RE10251;Contemporary;Veggie Delight;IT1025104;Main Course;19
+RE10251;Contemporary;Soda;IT1025105;Drink;8
+RE10252;Italian;Bruschetta;IT1025201;Starter;10
+RE10252;Italian;Pepperoni Pizza;IT1025202;Main Course;12
+RE10252;Italian;Bolognese Pasta;IT1025203;Main Course;26
+RE10252;Italian;Smoked Mushroom Soup;IT1025204;Starter;13
+RE10252;Italian;Tiramisu;IT1025205;Dessert;8
+RE10253;American;Artichoke Salad;IT1025301;Starter;10
+RE10253;American;Cobb Salad;IT1025302;Starter;13
+RE10253;American;Grilled Salmon;IT1025303;Main Course;15
+RE10253;American;New York Steak;IT1025304;Main Course;28
+RE10253;American;Turkey Sandwich;IT1025305;Main Course;21
+RE10254;American;Artichoke Salad;IT1025401;Starter;14
+RE10254;American;Cobb Salad;IT1025402;Starter;12
+RE10254;American;Grilled Salmon;IT1025403;Main Course;23
+RE10254;American;New York Steak;IT1025404;Main Course;26
+RE10254;American;Turkey Sandwich;IT1025405;Main Course;21
+RE10255;American;Artichoke Salad;IT1025501;Starter;13
+RE10255;American;Cobb Salad;IT1025502;Starter;9
+RE10255;American;Grilled Salmon;IT1025503;Main Course;27
+RE10255;American;New York Steak;IT1025504;Main Course;14
+RE10255;American;Turkey Sandwich;IT1025505;Main Course;27
+RE10256;Family;Stuffed Breadsticks;IT1025601;Starter;11
+RE10256;Family;Garlic Bread;IT1025602;Starter;10
+RE10256;Family;Sweet Corn Soup;IT1025603;Starter;13
+RE10256;Family;Beef Burger;IT1025604;Main Course;21
+RE10256;Family;Soda;IT1025605;Drink;9
+RE10257;Mexican;Fire Burrito;IT1025701;Main Course;11
+RE10257;Mexican;Chilli Tacos;IT1025702;Main Course;20
+RE10257;Mexican;Chicken Quasedillas;IT1025703;Main Course;29
+RE10257;Mexican;Grilled Pork;IT1025704;Main Course;11
+RE10257;Mexican;Pork Burritos;IT1025705;Main Course;27
+RE10258;American;Artichoke Salad;IT1025801;Starter;11
+RE10258;American;Cobb Salad;IT1025802;Starter;10
+RE10258;American;Grilled Salmon;IT1025803;Main Course;29
+RE10258;American;New York Steak;IT1025804;Main Course;26
+RE10258;American;Turkey Sandwich;IT1025805;Main Course;28
+RE10259;American;Artichoke Salad;IT1025901;Starter;9
+RE10259;American;Cobb Salad;IT1025902;Starter;7
+RE10259;American;Grilled Salmon;IT1025903;Main Course;29
+RE10259;American;New York Steak;IT1025904;Main Course;27
+RE10259;American;Turkey Sandwich;IT1025905;Main Course;15
+RE10260;Mexican;Fire Burrito;IT1026001;Main Course;14
+RE10260;Mexican;Chilli Tacos;IT1026002;Main Course;13
+RE10260;Mexican;Chicken Quasedillas;IT1026003;Main Course;20
+RE10260;Mexican;Grilled Pork;IT1026004;Main Course;22
+RE10260;Mexican;Pork Burritos;IT1026005;Main Course;27
+RE10261;American;Artichoke Salad;IT1026101;Starter;6
+RE10261;American;Cobb Salad;IT1026102;Starter;8
+RE10261;American;Grilled Salmon;IT1026103;Main Course;16
+RE10261;American;New York Steak;IT1026104;Main Course;21
+RE10261;American;Turkey Sandwich;IT1026105;Main Course;19
+RE10262;Mexican;Fire Burrito;IT1026201;Main Course;26
+RE10262;Mexican;Chilli Tacos;IT1026202;Main Course;18
+RE10262;Mexican;Chicken Quasedillas;IT1026203;Main Course;18
+RE10262;Mexican;Grilled Pork;IT1026204;Main Course;23
+RE10262;Mexican;Pork Burritos;IT1026205;Main Course;21
+RE10263;Mexican;Fire Burrito;IT1026301;Main Course;18
+RE10263;Mexican;Chilli Tacos;IT1026302;Main Course;29
+RE10263;Mexican;Chicken Quasedillas;IT1026303;Main Course;18
+RE10263;Mexican;Grilled Pork;IT1026304;Main Course;15
+RE10263;Mexican;Pork Burritos;IT1026305;Main Course;26
+RE10264;Mexican;Fire Burrito;IT1026401;Main Course;25
+RE10264;Mexican;Chilli Tacos;IT1026402;Main Course;25
+RE10264;Mexican;Chicken Quasedillas;IT1026403;Main Course;23
+RE10264;Mexican;Grilled Pork;IT1026404;Main Course;26
+RE10264;Mexican;Pork Burritos;IT1026405;Main Course;13
+RE10265;Mexican;Fire Burrito;IT1026501;Main Course;12
+RE10265;Mexican;Chilli Tacos;IT1026502;Main Course;21
+RE10265;Mexican;Chicken Quasedillas;IT1026503;Main Course;20
+RE10265;Mexican;Grilled Pork;IT1026504;Main Course;19
+RE10265;Mexican;Pork Burritos;IT1026505;Main Course;24
+RE10266;Mexican;Fire Burrito;IT1026601;Main Course;19
+RE10266;Mexican;Chilli Tacos;IT1026602;Main Course;21
+RE10266;Mexican;Chicken Quasedillas;IT1026603;Main Course;22
+RE10266;Mexican;Grilled Pork;IT1026604;Main Course;21
+RE10266;Mexican;Pork Burritos;IT1026605;Main Course;25
+RE10267;Mexican;Fire Burrito;IT1026701;Main Course;22
+RE10267;Mexican;Chilli Tacos;IT1026702;Main Course;21
+RE10267;Mexican;Chicken Quasedillas;IT1026703;Main Course;23
+RE10267;Mexican;Grilled Pork;IT1026704;Main Course;11
+RE10267;Mexican;Pork Burritos;IT1026705;Main Course;22
+RE10268;American;Artichoke Salad;IT1026801;Starter;10
+RE10268;American;Cobb Salad;IT1026802;Starter;6
+RE10268;American;Grilled Salmon;IT1026803;Main Course;14
+RE10268;American;New York Steak;IT1026804;Main Course;22
+RE10268;American;Turkey Sandwich;IT1026805;Main Course;19
+RE10269;Bar;Strawberry Daiquiri;IT1026901;Drink;6
+RE10269;Bar;Tequila Sunrise;IT1026902;Drink;9
+RE10269;Bar;Beer;IT1026903;Drink;6
+RE10269;Bar;Red Wine;IT1026904;Drink;9
+RE10269;Bar;White Wine;IT1026905;Drink;8
+RE10270;Bar;Strawberry Daiquiri;IT1027001;Drink;6
+RE10270;Bar;Tequila Sunrise;IT1027002;Drink;5
+RE10270;Bar;Beer;IT1027003;Drink;9
+RE10270;Bar;Red Wine;IT1027004;Drink;8
+RE10270;Bar;White Wine;IT1027005;Drink;6
+RE10271;Bar;Strawberry Daiquiri;IT1027101;Drink;7
+RE10271;Bar;Tequila Sunrise;IT1027102;Drink;9
+RE10271;Bar;Beer;IT1027103;Drink;8
+RE10271;Bar;Red Wine;IT1027104;Drink;9
+RE10271;Bar;White Wine;IT1027105;Drink;9
+RE10272;Bar;Strawberry Daiquiri;IT1027201;Drink;6
+RE10272;Bar;Tequila Sunrise;IT1027202;Drink;5
+RE10272;Bar;Beer;IT1027203;Drink;6
+RE10272;Bar;Red Wine;IT1027204;Drink;7
+RE10272;Bar;White Wine;IT1027205;Drink;5
+RE10273;Bar;Strawberry Daiquiri;IT1027301;Drink;5
+RE10273;Bar;Tequila Sunrise;IT1027302;Drink;5
+RE10273;Bar;Beer;IT1027303;Drink;8
+RE10273;Bar;Red Wine;IT1027304;Drink;7
+RE10273;Bar;White Wine;IT1027305;Drink;9
+RE10274;Bar;Strawberry Daiquiri;IT1027401;Drink;8
+RE10274;Bar;Tequila Sunrise;IT1027402;Drink;5
+RE10274;Bar;Beer;IT1027403;Drink;8
+RE10274;Bar;Red Wine;IT1027404;Drink;8
+RE10274;Bar;White Wine;IT1027405;Drink;8
+RE10275;Mexican;Fire Burrito;IT1027501;Main Course;21
+RE10275;Mexican;Chilli Tacos;IT1027502;Main Course;11
+RE10275;Mexican;Chicken Quasedillas;IT1027503;Main Course;29
+RE10275;Mexican;Grilled Pork;IT1027504;Main Course;28
+RE10275;Mexican;Pork Burritos;IT1027505;Main Course;23
+RE10276;Burgers;Chicken Burger;IT1027601;Main Course;12
+RE10276;Burgers;Hamburger;IT1027602;Main Course;29
+RE10276;Burgers;Beef Burger;IT1027603;Main Course;18
+RE10276;Burgers;Mixed Burger;IT1027604;Main Course;13
+RE10276;Burgers;Soda;IT1027605;Drink;5
+RE10277;Hot_Dogs;Chicago Genuine;IT1027701;Main Course;17
+RE10277;Hot_Dogs;Polish Hot Dog;IT1027702;Main Course;13
+RE10277;Hot_Dogs;Chili Dog;IT1027703;Main Course;11
+RE10277;Hot_Dogs;Hawaiian ;IT1027704;Main Course;10
+RE10277;Hot_Dogs;Bratwurst;IT1027705;Main Course;19
+RE10278;Mexican;Fire Burrito;IT1027801;Main Course;28
+RE10278;Mexican;Chilli Tacos;IT1027802;Main Course;22
+RE10278;Mexican;Chicken Quasedillas;IT1027803;Main Course;20
+RE10278;Mexican;Grilled Pork;IT1027804;Main Course;14
+RE10278;Mexican;Pork Burritos;IT1027805;Main Course;10
+RE10279;Mexican;Fire Burrito;IT1027901;Main Course;16
+RE10279;Mexican;Chilli Tacos;IT1027902;Main Course;19
+RE10279;Mexican;Chicken Quasedillas;IT1027903;Main Course;25
+RE10279;Mexican;Grilled Pork;IT1027904;Main Course;29
+RE10279;Mexican;Pork Burritos;IT1027905;Main Course;10
+RE10280;Mexican;Fire Burrito;IT1028001;Main Course;24
+RE10280;Mexican;Chilli Tacos;IT1028002;Main Course;21
+RE10280;Mexican;Chicken Quasedillas;IT1028003;Main Course;29
+RE10280;Mexican;Grilled Pork;IT1028004;Main Course;15
+RE10280;Mexican;Pork Burritos;IT1028005;Main Course;21
+RE10281;American;Artichoke Salad;IT1028101;Starter;11
+RE10281;American;Cobb Salad;IT1028102;Starter;11
+RE10281;American;Grilled Salmon;IT1028103;Main Course;25
+RE10281;American;New York Steak;IT1028104;Main Course;22
+RE10281;American;Turkey Sandwich;IT1028105;Main Course;19
+RE10282;American;Artichoke Salad;IT1028201;Starter;7
+RE10282;American;Cobb Salad;IT1028202;Starter;5
+RE10282;American;Grilled Salmon;IT1028203;Main Course;19
+RE10282;American;New York Steak;IT1028204;Main Course;21
+RE10282;American;Turkey Sandwich;IT1028205;Main Course;16
+RE10283;African;Beef Tenderloin Tips;IT1028301;Main Course;15
+RE10283;African;South African Bobotie;IT1028302;Main Course;28
+RE10283;African;Braai;IT1028303;Main Course;24
+RE10283;African;Tiramisu;IT1028304;Dessert;12
+RE10283;African;Soda;IT1028305;Drink;6
+RE10284;Bar_Pub_Brewery;Draft beer;IT1028401;Drink;5
+RE10284;Bar_Pub_Brewery;Special Beer;IT1028402;Drink;9
+RE10284;Bar_Pub_Brewery;Bottled Beer;IT1028403;Drink;5
+RE10284;Bar_Pub_Brewery;Imported Beer;IT1028404;Drink;6
+RE10284;Bar_Pub_Brewery;Family Pack;IT1028405;Drink;9
+RE10285;Breakfast-Brunch;English Breakfast;IT1028501;Main Course;19
+RE10285;Breakfast-Brunch;Continental Breakfast;IT1028502;Main Course;21
+RE10285;Breakfast-Brunch;Farm Fresh Breakfast;IT1028503;Main Course;27
+RE10285;Breakfast-Brunch;Double Espresso;IT1028504;Drink;5
+RE10285;Breakfast-Brunch;Strawberry Smoothie;IT1028505;Drink;5
+RE10286;Mexican;Fire Burrito;IT1028601;Main Course;24
+RE10286;Mexican;Chilli Tacos;IT1028602;Main Course;26
+RE10286;Mexican;Chicken Quasedillas;IT1028603;Main Course;20
+RE10286;Mexican;Grilled Pork;IT1028604;Main Course;21
+RE10286;Mexican;Pork Burritos;IT1028605;Main Course;16
+RE10287;American;Artichoke Salad;IT1028701;Starter;11
+RE10287;American;Cobb Salad;IT1028702;Starter;14
+RE10287;American;Grilled Salmon;IT1028703;Main Course;20
+RE10287;American;New York Steak;IT1028704;Main Course;13
+RE10287;American;Turkey Sandwich;IT1028705;Main Course;24
+RE10288;Mexican;Fire Burrito;IT1028801;Main Course;11
+RE10288;Mexican;Chilli Tacos;IT1028802;Main Course;13
+RE10288;Mexican;Chicken Quasedillas;IT1028803;Main Course;15
+RE10288;Mexican;Grilled Pork;IT1028804;Main Course;16
+RE10288;Mexican;Pork Burritos;IT1028805;Main Course;25
+RE10289;Mexican;Fire Burrito;IT1028901;Main Course;21
+RE10289;Mexican;Chilli Tacos;IT1028902;Main Course;13
+RE10289;Mexican;Chicken Quasedillas;IT1028903;Main Course;19
+RE10289;Mexican;Grilled Pork;IT1028904;Main Course;19
+RE10289;Mexican;Pork Burritos;IT1028905;Main Course;10
+RE10290;Mexican;Fire Burrito;IT1029001;Main Course;21
+RE10290;Mexican;Chilli Tacos;IT1029002;Main Course;23
+RE10290;Mexican;Chicken Quasedillas;IT1029003;Main Course;17
+RE10290;Mexican;Grilled Pork;IT1029004;Main Course;23
+RE10290;Mexican;Pork Burritos;IT1029005;Main Course;20
+RE10291;Mexican;Fire Burrito;IT1029101;Main Course;10
+RE10291;Mexican;Chilli Tacos;IT1029102;Main Course;22
+RE10291;Mexican;Chicken Quasedillas;IT1029103;Main Course;24
+RE10291;Mexican;Grilled Pork;IT1029104;Main Course;15
+RE10291;Mexican;Pork Burritos;IT1029105;Main Course;23
+RE10292;Mexican;Fire Burrito;IT1029201;Main Course;26
+RE10292;Mexican;Chilli Tacos;IT1029202;Main Course;23
+RE10292;Mexican;Chicken Quasedillas;IT1029203;Main Course;29
+RE10292;Mexican;Grilled Pork;IT1029204;Main Course;25
+RE10292;Mexican;Pork Burritos;IT1029205;Main Course;17
+RE10293;Mexican;Fire Burrito;IT1029301;Main Course;17
+RE10293;Mexican;Chilli Tacos;IT1029302;Main Course;23
+RE10293;Mexican;Chicken Quasedillas;IT1029303;Main Course;28
+RE10293;Mexican;Grilled Pork;IT1029304;Main Course;29
+RE10293;Mexican;Pork Burritos;IT1029305;Main Course;25
+RE10294;Mexican;Fire Burrito;IT1029401;Main Course;15
+RE10294;Mexican;Chilli Tacos;IT1029402;Main Course;26
+RE10294;Mexican;Chicken Quasedillas;IT1029403;Main Course;20
+RE10294;Mexican;Grilled Pork;IT1029404;Main Course;28
+RE10294;Mexican;Pork Burritos;IT1029405;Main Course;23
+RE10295;Mexican;Fire Burrito;IT1029501;Main Course;22
+RE10295;Mexican;Chilli Tacos;IT1029502;Main Course;27
+RE10295;Mexican;Chicken Quasedillas;IT1029503;Main Course;11
+RE10295;Mexican;Grilled Pork;IT1029504;Main Course;14
+RE10295;Mexican;Pork Burritos;IT1029505;Main Course;13
+RE10296;Burgers;Chicken Burger;IT1029601;Main Course;16
+RE10296;Burgers;Hamburger;IT1029602;Main Course;13
+RE10296;Burgers;Beef Burger;IT1029603;Main Course;14
+RE10296;Burgers;Mixed Burger;IT1029604;Main Course;15
+RE10296;Burgers;Soda;IT1029605;Drink;6
+RE10297;Mexican;Fire Burrito;IT1029701;Main Course;14
+RE10297;Mexican;Chilli Tacos;IT1029702;Main Course;15
+RE10297;Mexican;Chicken Quasedillas;IT1029703;Main Course;27
+RE10297;Mexican;Grilled Pork;IT1029704;Main Course;24
+RE10297;Mexican;Pork Burritos;IT1029705;Main Course;11
+RE10298;Mexican;Fire Burrito;IT1029801;Main Course;19
+RE10298;Mexican;Chilli Tacos;IT1029802;Main Course;19
+RE10298;Mexican;Chicken Quasedillas;IT1029803;Main Course;24
+RE10298;Mexican;Grilled Pork;IT1029804;Main Course;22
+RE10298;Mexican;Pork Burritos;IT1029805;Main Course;18
+RE10299;Bar;Strawberry Daiquiri;IT1029901;Drink;7
+RE10299;Bar;Tequila Sunrise;IT1029902;Drink;6
+RE10299;Bar;Beer;IT1029903;Drink;5
+RE10299;Bar;Red Wine;IT1029904;Drink;6
+RE10299;Bar;White Wine;IT1029905;Drink;5
+RE10300;Mexican;Fire Burrito;IT1030001;Main Course;17
+RE10300;Mexican;Chilli Tacos;IT1030002;Main Course;27
+RE10300;Mexican;Chicken Quasedillas;IT1030003;Main Course;20
+RE10300;Mexican;Grilled Pork;IT1030004;Main Course;25
+RE10300;Mexican;Pork Burritos;IT1030005;Main Course;26
+RE10301;Mexican;Fire Burrito;IT1030101;Main Course;15
+RE10301;Mexican;Chilli Tacos;IT1030102;Main Course;27
+RE10301;Mexican;Chicken Quasedillas;IT1030103;Main Course;10
+RE10301;Mexican;Grilled Pork;IT1030104;Main Course;15
+RE10301;Mexican;Pork Burritos;IT1030105;Main Course;24
+RE10302;Mexican;Fire Burrito;IT1030201;Main Course;14
+RE10302;Mexican;Chilli Tacos;IT1030202;Main Course;13
+RE10302;Mexican;Chicken Quasedillas;IT1030203;Main Course;13
+RE10302;Mexican;Grilled Pork;IT1030204;Main Course;22
+RE10302;Mexican;Pork Burritos;IT1030205;Main Course;27
+RE10303;American;Artichoke Salad;IT1030301;Starter;10
+RE10303;American;Cobb Salad;IT1030302;Starter;12
+RE10303;American;Grilled Salmon;IT1030303;Main Course;15
+RE10303;American;New York Steak;IT1030304;Main Course;14
+RE10303;American;Turkey Sandwich;IT1030305;Main Course;21
+RE10304;Mexican;Fire Burrito;IT1030401;Main Course;26
+RE10304;Mexican;Chilli Tacos;IT1030402;Main Course;19
+RE10304;Mexican;Chicken Quasedillas;IT1030403;Main Course;13
+RE10304;Mexican;Grilled Pork;IT1030404;Main Course;20
+RE10304;Mexican;Pork Burritos;IT1030405;Main Course;12
+RE10305;Mexican;Fire Burrito;IT1030501;Main Course;29
+RE10305;Mexican;Chilli Tacos;IT1030502;Main Course;12
+RE10305;Mexican;Chicken Quasedillas;IT1030503;Main Course;27
+RE10305;Mexican;Grilled Pork;IT1030504;Main Course;10
+RE10305;Mexican;Pork Burritos;IT1030505;Main Course;20
+RE10306;Mexican;Fire Burrito;IT1030601;Main Course;28
+RE10306;Mexican;Chilli Tacos;IT1030602;Main Course;29
+RE10306;Mexican;Chicken Quasedillas;IT1030603;Main Course;10
+RE10306;Mexican;Grilled Pork;IT1030604;Main Course;22
+RE10306;Mexican;Pork Burritos;IT1030605;Main Course;28
+RE10307;Mexican;Fire Burrito;IT1030701;Main Course;25
+RE10307;Mexican;Chilli Tacos;IT1030702;Main Course;20
+RE10307;Mexican;Chicken Quasedillas;IT1030703;Main Course;20
+RE10307;Mexican;Grilled Pork;IT1030704;Main Course;15
+RE10307;Mexican;Pork Burritos;IT1030705;Main Course;16
+RE10308;Mexican;Fire Burrito;IT1030801;Main Course;18
+RE10308;Mexican;Chilli Tacos;IT1030802;Main Course;17
+RE10308;Mexican;Chicken Quasedillas;IT1030803;Main Course;12
+RE10308;Mexican;Grilled Pork;IT1030804;Main Course;22
+RE10308;Mexican;Pork Burritos;IT1030805;Main Course;26
+RE10309;Mexican;Fire Burrito;IT1030901;Main Course;10
+RE10309;Mexican;Chilli Tacos;IT1030902;Main Course;17
+RE10309;Mexican;Chicken Quasedillas;IT1030903;Main Course;15
+RE10309;Mexican;Grilled Pork;IT1030904;Main Course;18
+RE10309;Mexican;Pork Burritos;IT1030905;Main Course;24
+RE10310;Mexican;Fire Burrito;IT1031001;Main Course;16
+RE10310;Mexican;Chilli Tacos;IT1031002;Main Course;10
+RE10310;Mexican;Chicken Quasedillas;IT1031003;Main Course;22
+RE10310;Mexican;Grilled Pork;IT1031004;Main Course;15
+RE10310;Mexican;Pork Burritos;IT1031005;Main Course;23
+RE10311;Pizzeria;Margherita;IT1031101;Main Course;13
+RE10311;Pizzeria;Fungi;IT1031102;Main Course;14
+RE10311;Pizzeria;Salami;IT1031103;Main Course;12
+RE10311;Pizzeria;Mexican;IT1031104;Main Course;28
+RE10311;Pizzeria;Vegetarian;IT1031105;Main Course;11
+RE10312;Family;Stuffed Breadsticks;IT1031201;Starter;12
+RE10312;Family;Garlic Bread;IT1031202;Starter;14
+RE10312;Family;Sweet Corn Soup;IT1031203;Starter;9
+RE10312;Family;Beef Burger;IT1031204;Main Course;14
+RE10312;Family;Soda;IT1031205;Drink;6
+RE10313;Cafeteria;Popcorn Chicken;IT1031301;Starter;9
+RE10313;Cafeteria;Club Mix;IT1031302;Main Course;27
+RE10313;Cafeteria;Classic Cheese Pizza;IT1031303;Main Course;29
+RE10313;Cafeteria;Frozen Fruit Cup;IT1031304;Dessert;6
+RE10313;Cafeteria;Milkshake;IT1031305;Drink;5
+RE10314;Bar;Strawberry Daiquiri;IT1031401;Drink;7
+RE10314;Bar;Tequila Sunrise;IT1031402;Drink;6
+RE10314;Bar;Beer;IT1031403;Drink;5
+RE10314;Bar;Red Wine;IT1031404;Drink;6
+RE10314;Bar;White Wine;IT1031405;Drink;8
+RE10315;Mexican;Fire Burrito;IT1031501;Main Course;28
+RE10315;Mexican;Chilli Tacos;IT1031502;Main Course;11
+RE10315;Mexican;Chicken Quasedillas;IT1031503;Main Course;23
+RE10315;Mexican;Grilled Pork;IT1031504;Main Course;25
+RE10315;Mexican;Pork Burritos;IT1031505;Main Course;14
+RE10316;Mexican;Fire Burrito;IT1031601;Main Course;11
+RE10316;Mexican;Chilli Tacos;IT1031602;Main Course;16
+RE10316;Mexican;Chicken Quasedillas;IT1031603;Main Course;14
+RE10316;Mexican;Grilled Pork;IT1031604;Main Course;18
+RE10316;Mexican;Pork Burritos;IT1031605;Main Course;22
+RE10317;Mexican;Fire Burrito;IT1031701;Main Course;27
+RE10317;Mexican;Chilli Tacos;IT1031702;Main Course;14
+RE10317;Mexican;Chicken Quasedillas;IT1031703;Main Course;10
+RE10317;Mexican;Grilled Pork;IT1031704;Main Course;11
+RE10317;Mexican;Pork Burritos;IT1031705;Main Course;11
+RE10318;American;Artichoke Salad;IT1031801;Starter;14
+RE10318;American;Cobb Salad;IT1031802;Starter;10
+RE10318;American;Grilled Salmon;IT1031803;Main Course;22
+RE10318;American;New York Steak;IT1031804;Main Course;24
+RE10318;American;Turkey Sandwich;IT1031805;Main Course;12
+RE10319;Mexican;Fire Burrito;IT1031901;Main Course;18
+RE10319;Mexican;Chilli Tacos;IT1031902;Main Course;19
+RE10319;Mexican;Chicken Quasedillas;IT1031903;Main Course;13
+RE10319;Mexican;Grilled Pork;IT1031904;Main Course;25
+RE10319;Mexican;Pork Burritos;IT1031905;Main Course;27
+RE10320;American;Artichoke Salad;IT1032001;Starter;8
+RE10320;American;Cobb Salad;IT1032002;Starter;11
+RE10320;American;Grilled Salmon;IT1032003;Main Course;29
+RE10320;American;New York Steak;IT1032004;Main Course;20
+RE10320;American;Turkey Sandwich;IT1032005;Main Course;23
+RE10321;Mexican;Fire Burrito;IT1032101;Main Course;17
+RE10321;Mexican;Chilli Tacos;IT1032102;Main Course;28
+RE10321;Mexican;Chicken Quasedillas;IT1032103;Main Course;19
+RE10321;Mexican;Grilled Pork;IT1032104;Main Course;14
+RE10321;Mexican;Pork Burritos;IT1032105;Main Course;11
+RE10322;Mexican;Fire Burrito;IT1032201;Main Course;20
+RE10322;Mexican;Chilli Tacos;IT1032202;Main Course;15
+RE10322;Mexican;Chicken Quasedillas;IT1032203;Main Course;18
+RE10322;Mexican;Grilled Pork;IT1032204;Main Course;17
+RE10322;Mexican;Pork Burritos;IT1032205;Main Course;13
+RE10323;Mexican;Fire Burrito;IT1032301;Main Course;26
+RE10323;Mexican;Chilli Tacos;IT1032302;Main Course;18
+RE10323;Mexican;Chicken Quasedillas;IT1032303;Main Course;16
+RE10323;Mexican;Grilled Pork;IT1032304;Main Course;11
+RE10323;Mexican;Pork Burritos;IT1032305;Main Course;17
+RE10324;Mexican;Fire Burrito;IT1032401;Main Course;13
+RE10324;Mexican;Chilli Tacos;IT1032402;Main Course;12
+RE10324;Mexican;Chicken Quasedillas;IT1032403;Main Course;17
+RE10324;Mexican;Grilled Pork;IT1032404;Main Course;28
+RE10324;Mexican;Pork Burritos;IT1032405;Main Course;28
+RE10325;Mexican;Fire Burrito;IT1032501;Main Course;21
+RE10325;Mexican;Chilli Tacos;IT1032502;Main Course;16
+RE10325;Mexican;Chicken Quasedillas;IT1032503;Main Course;11
+RE10325;Mexican;Grilled Pork;IT1032504;Main Course;12
+RE10325;Mexican;Pork Burritos;IT1032505;Main Course;10
+RE10326;Mexican;Fire Burrito;IT1032601;Main Course;14
+RE10326;Mexican;Chilli Tacos;IT1032602;Main Course;17
+RE10326;Mexican;Chicken Quasedillas;IT1032603;Main Course;18
+RE10326;Mexican;Grilled Pork;IT1032604;Main Course;10
+RE10326;Mexican;Pork Burritos;IT1032605;Main Course;24
+RE10327;Mexican;Fire Burrito;IT1032701;Main Course;27
+RE10327;Mexican;Chilli Tacos;IT1032702;Main Course;14
+RE10327;Mexican;Chicken Quasedillas;IT1032703;Main Course;26
+RE10327;Mexican;Grilled Pork;IT1032704;Main Course;27
+RE10327;Mexican;Pork Burritos;IT1032705;Main Course;15
+RE10328;Mexican;Fire Burrito;IT1032801;Main Course;21
+RE10328;Mexican;Chilli Tacos;IT1032802;Main Course;17
+RE10328;Mexican;Chicken Quasedillas;IT1032803;Main Course;29
+RE10328;Mexican;Grilled Pork;IT1032804;Main Course;10
+RE10328;Mexican;Pork Burritos;IT1032805;Main Course;11
+RE10329;Mexican;Fire Burrito;IT1032901;Main Course;10
+RE10329;Mexican;Chilli Tacos;IT1032902;Main Course;21
+RE10329;Mexican;Chicken Quasedillas;IT1032903;Main Course;15
+RE10329;Mexican;Grilled Pork;IT1032904;Main Course;26
+RE10329;Mexican;Pork Burritos;IT1032905;Main Course;28
+RE10330;Mexican;Fire Burrito;IT1033001;Main Course;25
+RE10330;Mexican;Chilli Tacos;IT1033002;Main Course;24
+RE10330;Mexican;Chicken Quasedillas;IT1033003;Main Course;18
+RE10330;Mexican;Grilled Pork;IT1033004;Main Course;14
+RE10330;Mexican;Pork Burritos;IT1033005;Main Course;24
+RE10331;Mexican;Fire Burrito;IT1033101;Main Course;10
+RE10331;Mexican;Chilli Tacos;IT1033102;Main Course;25
+RE10331;Mexican;Chicken Quasedillas;IT1033103;Main Course;26
+RE10331;Mexican;Grilled Pork;IT1033104;Main Course;29
+RE10331;Mexican;Pork Burritos;IT1033105;Main Course;23
+RE10332;Mexican;Fire Burrito;IT1033201;Main Course;28
+RE10332;Mexican;Chilli Tacos;IT1033202;Main Course;17
+RE10332;Mexican;Chicken Quasedillas;IT1033203;Main Course;21
+RE10332;Mexican;Grilled Pork;IT1033204;Main Course;18
+RE10332;Mexican;Pork Burritos;IT1033205;Main Course;28
+RE10333;Mexican;Fire Burrito;IT1033301;Main Course;22
+RE10333;Mexican;Chilli Tacos;IT1033302;Main Course;25
+RE10333;Mexican;Chicken Quasedillas;IT1033303;Main Course;12
+RE10333;Mexican;Grilled Pork;IT1033304;Main Course;14
+RE10333;Mexican;Pork Burritos;IT1033305;Main Course;14
+RE10335;Mexican;Fire Burrito;IT1033501;Main Course;23
+RE10335;Mexican;Chilli Tacos;IT1033502;Main Course;14
+RE10335;Mexican;Chicken Quasedillas;IT1033503;Main Course;19
+RE10335;Mexican;Grilled Pork;IT1033504;Main Course;14
+RE10335;Mexican;Pork Burritos;IT1033505;Main Course;18
+RE10336;Mexican;Fire Burrito;IT1033601;Main Course;29
+RE10336;Mexican;Chilli Tacos;IT1033602;Main Course;10
+RE10336;Mexican;Chicken Quasedillas;IT1033603;Main Course;25
+RE10336;Mexican;Grilled Pork;IT1033604;Main Course;20
+RE10336;Mexican;Pork Burritos;IT1033605;Main Course;20
+RE10337;Mexican;Fire Burrito;IT1033701;Main Course;22
+RE10337;Mexican;Chilli Tacos;IT1033702;Main Course;24
+RE10337;Mexican;Chicken Quasedillas;IT1033703;Main Course;12
+RE10337;Mexican;Grilled Pork;IT1033704;Main Course;17
+RE10337;Mexican;Pork Burritos;IT1033705;Main Course;27
+RE10338;Mexican;Fire Burrito;IT1033801;Main Course;11
+RE10338;Mexican;Chilli Tacos;IT1033802;Main Course;10
+RE10338;Mexican;Chicken Quasedillas;IT1033803;Main Course;21
+RE10338;Mexican;Grilled Pork;IT1033804;Main Course;18
+RE10338;Mexican;Pork Burritos;IT1033805;Main Course;24
+RE10339;Mexican;Fire Burrito;IT1033901;Main Course;14
+RE10339;Mexican;Chilli Tacos;IT1033902;Main Course;23
+RE10339;Mexican;Chicken Quasedillas;IT1033903;Main Course;27
+RE10339;Mexican;Grilled Pork;IT1033904;Main Course;18
+RE10339;Mexican;Pork Burritos;IT1033905;Main Course;26
+RE10340;Mexican;Fire Burrito;IT1034001;Main Course;13
+RE10340;Mexican;Chilli Tacos;IT1034002;Main Course;13
+RE10340;Mexican;Chicken Quasedillas;IT1034003;Main Course;26
+RE10340;Mexican;Grilled Pork;IT1034004;Main Course;21
+RE10340;Mexican;Pork Burritos;IT1034005;Main Course;13
+RE10341;Mexican;Fire Burrito;IT1034101;Main Course;16
+RE10341;Mexican;Chilli Tacos;IT1034102;Main Course;28
+RE10341;Mexican;Chicken Quasedillas;IT1034103;Main Course;10
+RE10341;Mexican;Grilled Pork;IT1034104;Main Course;16
+RE10341;Mexican;Pork Burritos;IT1034105;Main Course;16
+RE10342;Chinese;Lobster Cantonese;IT1034201;Main Course;18
+RE10342;Chinese;Pork Chow Mein;IT1034202;Main Course;27
+RE10342;Chinese;Chicken Chop Suey;IT1034203;Starter;9
+RE10342;Chinese;Egg Flower Soup;IT1034204;Starter;7
+RE10342;Chinese;Fried Shrimp;IT1034205;Starter;10
+RE10343;Mexican;Fire Burrito;IT1034301;Main Course;24
+RE10343;Mexican;Chilli Tacos;IT1034302;Main Course;28
+RE10343;Mexican;Chicken Quasedillas;IT1034303;Main Course;12
+RE10343;Mexican;Grilled Pork;IT1034304;Main Course;19
+RE10343;Mexican;Pork Burritos;IT1034305;Main Course;22
+RE10344;Mexican;Fire Burrito;IT1034401;Main Course;10
+RE10344;Mexican;Chilli Tacos;IT1034402;Main Course;15
+RE10344;Mexican;Chicken Quasedillas;IT1034403;Main Course;14
+RE10344;Mexican;Grilled Pork;IT1034404;Main Course;24
+RE10344;Mexican;Pork Burritos;IT1034405;Main Course;11
+RE10345;Mexican;Fire Burrito;IT1034501;Main Course;17
+RE10345;Mexican;Chilli Tacos;IT1034502;Main Course;13
+RE10345;Mexican;Chicken Quasedillas;IT1034503;Main Course;24
+RE10345;Mexican;Grilled Pork;IT1034504;Main Course;27
+RE10345;Mexican;Pork Burritos;IT1034505;Main Course;13
+RE10346;Afghan;Ghabuli with Shamie Kebab;IT1034601;Main Course;24
+RE10346;Afghan;Lamb Stew;IT1034602;Main Course;18
+RE10346;Afghan;Chicken mandi;IT1034603;Main Course;27
+RE10346;Afghan;Mento;IT1034604;Main Course;10
+RE10346;Afghan;Soda;IT1034605;Drink;5
+RE10347;Italian;Bruschetta;IT1034701;Starter;6
+RE10347;Italian;Pepperoni Pizza;IT1034702;Main Course;19
+RE10347;Italian;Bolognese Pasta;IT1034703;Main Course;15
+RE10347;Italian;Smoked Mushroom Soup;IT1034704;Starter;9
+RE10347;Italian;Tiramisu;IT1034705;Dessert;9
+RE10348;American;Artichoke Salad;IT1034801;Starter;10
+RE10348;American;Cobb Salad;IT1034802;Starter;9
+RE10348;American;Grilled Salmon;IT1034803;Main Course;22
+RE10348;American;New York Steak;IT1034804;Main Course;10
+RE10348;American;Turkey Sandwich;IT1034805;Main Course;28
+RE10349;Cafeteria;Popcorn Chicken;IT1034901;Starter;6
+RE10349;Cafeteria;Club Mix;IT1034902;Main Course;22
+RE10349;Cafeteria;Classic Cheese Pizza;IT1034903;Main Course;18
+RE10349;Cafeteria;Frozen Fruit Cup;IT1034904;Dessert;5
+RE10349;Cafeteria;Milkshake;IT1034905;Drink;5
+RE10350;Japanese;Chukka Salad;IT1035001;Starter;12
+RE10350;Japanese;Takitori;IT1035002;Starter;5
+RE10350;Japanese;Pork Teriyaki;IT1035003;Main Course;21
+RE10350;Japanese;Gunkan With Cucumber;IT1035004;Main Course;28
+RE10350;Japanese;Roll with Walnuts;IT1035005;Starter;11
+RE10351;American;Artichoke Salad;IT1035101;Starter;8
+RE10351;American;Cobb Salad;IT1035102;Starter;14
+RE10351;American;Grilled Salmon;IT1035103;Main Course;16
+RE10351;American;New York Steak;IT1035104;Main Course;27
+RE10351;American;Turkey Sandwich;IT1035105;Main Course;14
+RE10352;American;Artichoke Salad;IT1035201;Starter;9
+RE10352;American;Cobb Salad;IT1035202;Starter;9
+RE10352;American;Grilled Salmon;IT1035203;Main Course;20
+RE10352;American;New York Steak;IT1035204;Main Course;21
+RE10352;American;Turkey Sandwich;IT1035205;Main Course;15
+RE10353;Mexican;Fire Burrito;IT1035301;Main Course;24
+RE10353;Mexican;Chilli Tacos;IT1035302;Main Course;26
+RE10353;Mexican;Chicken Quasedillas;IT1035303;Main Course;11
+RE10353;Mexican;Grilled Pork;IT1035304;Main Course;13
+RE10353;Mexican;Pork Burritos;IT1035305;Main Course;21
+RE10354;Burgers;Chicken Burger;IT1035401;Main Course;17
+RE10354;Burgers;Hamburger;IT1035402;Main Course;11
+RE10354;Burgers;Beef Burger;IT1035403;Main Course;22
+RE10354;Burgers;Mixed Burger;IT1035404;Main Course;29
+RE10354;Burgers;Soda;IT1035405;Drink;6
+RE10355;Pizzeria;Margherita;IT1035501;Main Course;23
+RE10355;Pizzeria;Fungi;IT1035502;Main Course;18
+RE10355;Pizzeria;Salami;IT1035503;Main Course;24
+RE10355;Pizzeria;Mexican;IT1035504;Main Course;21
+RE10355;Pizzeria;Vegetarian;IT1035505;Main Course;10
+RE10356;Mexican;Fire Burrito;IT1035601;Main Course;20
+RE10356;Mexican;Chilli Tacos;IT1035602;Main Course;12
+RE10356;Mexican;Chicken Quasedillas;IT1035603;Main Course;29
+RE10356;Mexican;Grilled Pork;IT1035604;Main Course;14
+RE10356;Mexican;Pork Burritos;IT1035605;Main Course;23
+RE10357;Bar;Strawberry Daiquiri;IT1035701;Drink;9
+RE10357;Bar;Tequila Sunrise;IT1035702;Drink;7
+RE10357;Bar;Beer;IT1035703;Drink;9
+RE10357;Bar;Red Wine;IT1035704;Drink;8
+RE10357;Bar;White Wine;IT1035705;Drink;9
+RE10358;Mexican;Fire Burrito;IT1035801;Main Course;20
+RE10358;Mexican;Chilli Tacos;IT1035802;Main Course;10
+RE10358;Mexican;Chicken Quasedillas;IT1035803;Main Course;13
+RE10358;Mexican;Grilled Pork;IT1035804;Main Course;15
+RE10358;Mexican;Pork Burritos;IT1035805;Main Course;20
+RE10360;Cafeteria;Popcorn Chicken;IT1036001;Starter;11
+RE10360;Cafeteria;Club Mix;IT1036002;Main Course;27
+RE10360;Cafeteria;Classic Cheese Pizza;IT1036003;Main Course;12
+RE10360;Cafeteria;Frozen Fruit Cup;IT1036004;Dessert;9
+RE10360;Cafeteria;Milkshake;IT1036005;Drink;6
+RE10361;Mexican;Fire Burrito;IT1036101;Main Course;22
+RE10361;Mexican;Chilli Tacos;IT1036102;Main Course;15
+RE10361;Mexican;Chicken Quasedillas;IT1036103;Main Course;14
+RE10361;Mexican;Grilled Pork;IT1036104;Main Course;18
+RE10361;Mexican;Pork Burritos;IT1036105;Main Course;26
+RE10362;Mexican;Fire Burrito;IT1036201;Main Course;11
+RE10362;Mexican;Chilli Tacos;IT1036202;Main Course;28
+RE10362;Mexican;Chicken Quasedillas;IT1036203;Main Course;27
+RE10362;Mexican;Grilled Pork;IT1036204;Main Course;26
+RE10362;Mexican;Pork Burritos;IT1036205;Main Course;19
+RE10363;International;Cheese Bread Sticks;IT1036301;Starter;6
+RE10363;International;Honey Glazed Chicken;IT1036302;Starter;5
+RE10363;International;Grande Salad;IT1036303;Main Course;27
+RE10363;International;Beef Steak;IT1036304;Main Course;12
+RE10363;International;Apple Drink;IT1036305;Drink;7
+RE10364;International;Cheese Bread Sticks;IT1036401;Starter;6
+RE10364;International;Honey Glazed Chicken;IT1036402;Starter;11
+RE10364;International;Grande Salad;IT1036403;Main Course;15
+RE10364;International;Beef Steak;IT1036404;Main Course;19
+RE10364;International;Apple Drink;IT1036405;Drink;5
+RE10365;Burgers;Chicken Burger;IT1036501;Main Course;29
+RE10365;Burgers;Hamburger;IT1036502;Main Course;23
+RE10365;Burgers;Beef Burger;IT1036503;Main Course;19
+RE10365;Burgers;Mixed Burger;IT1036504;Main Course;26
+RE10365;Burgers;Soda;IT1036505;Drink;7
+RE10366;International;Cheese Bread Sticks;IT1036601;Starter;5
+RE10366;International;Honey Glazed Chicken;IT1036602;Starter;9
+RE10366;International;Grande Salad;IT1036603;Main Course;12
+RE10366;International;Beef Steak;IT1036604;Main Course;12
+RE10366;International;Apple Drink;IT1036605;Drink;9
+RE10367;International;Cheese Bread Sticks;IT1036701;Starter;10
+RE10367;International;Honey Glazed Chicken;IT1036702;Starter;7
+RE10367;International;Grande Salad;IT1036703;Main Course;13
+RE10367;International;Beef Steak;IT1036704;Main Course;17
+RE10367;International;Apple Drink;IT1036705;Drink;5
+RE10368;Burgers;Chicken Burger;IT1036801;Main Course;25
+RE10368;Burgers;Hamburger;IT1036802;Main Course;19
+RE10368;Burgers;Beef Burger;IT1036803;Main Course;27
+RE10368;Burgers;Mixed Burger;IT1036804;Main Course;10
+RE10368;Burgers;Soda;IT1036805;Drink;9
+RE10369;International;Cheese Bread Sticks;IT1036901;Starter;8
+RE10369;International;Honey Glazed Chicken;IT1036902;Starter;13
+RE10369;International;Grande Salad;IT1036903;Main Course;16
+RE10369;International;Beef Steak;IT1036904;Main Course;25
+RE10369;International;Apple Drink;IT1036905;Drink;9
+RE10370;Italian;Bruschetta;IT1037001;Starter;14
+RE10370;Italian;Pepperoni Pizza;IT1037002;Main Course;21
+RE10370;Italian;Bolognese Pasta;IT1037003;Main Course;29
+RE10370;Italian;Smoked Mushroom Soup;IT1037004;Starter;6
+RE10370;Italian;Tiramisu;IT1037005;Dessert;8
+RE10371;Mexican;Fire Burrito;IT1037101;Main Course;29
+RE10371;Mexican;Chilli Tacos;IT1037102;Main Course;24
+RE10371;Mexican;Chicken Quasedillas;IT1037103;Main Course;16
+RE10371;Mexican;Grilled Pork;IT1037104;Main Course;21
+RE10371;Mexican;Pork Burritos;IT1037105;Main Course;24
+RE10372;International;Cheese Bread Sticks;IT1037201;Starter;9
+RE10372;International;Honey Glazed Chicken;IT1037202;Starter;8
+RE10372;International;Grande Salad;IT1037203;Main Course;29
+RE10372;International;Beef Steak;IT1037204;Main Course;28
+RE10372;International;Apple Drink;IT1037205;Drink;7
+RE10373;Fast_Food;Hot Dog with Fries;IT1037301;Main Course;15
+RE10373;Fast_Food;Chicken Burger;IT1037302;Main Course;22
+RE10373;Fast_Food;Hamburger;IT1037303;Main Course;29
+RE10373;Fast_Food;Beef Burger;IT1037304;Main Course;12
+RE10373;Fast_Food;Soda;IT1037305;Drink;8
+RE10374;Latin_American;Chicken with Chilli Flakes;IT1037401;Main Course;16
+RE10374;Latin_American;Parillia Steak;IT1037402;Main Course;26
+RE10374;Latin_American;Tostades;IT1037403;Main Course;11
+RE10374;Latin_American;Soft Shell Tacos;IT1037404;Main Course;17
+RE10374;Latin_American;Chimichangas;IT1037405;Main Course;25
+RE10375;Mexican;Fire Burrito;IT1037501;Main Course;27
+RE10375;Mexican;Chilli Tacos;IT1037502;Main Course;27
+RE10375;Mexican;Chicken Quasedillas;IT1037503;Main Course;14
+RE10375;Mexican;Grilled Pork;IT1037504;Main Course;26
+RE10375;Mexican;Pork Burritos;IT1037505;Main Course;22
+RE10376;American;Artichoke Salad;IT1037601;Starter;14
+RE10376;American;Cobb Salad;IT1037602;Starter;13
+RE10376;American;Grilled Salmon;IT1037603;Main Course;10
+RE10376;American;New York Steak;IT1037604;Main Course;17
+RE10376;American;Turkey Sandwich;IT1037605;Main Course;10
+RE10377;Game;Veal ;IT1037701;Main Course;24
+RE10377;Game;Lamb;IT1037702;Main Course;13
+RE10377;Game;Rabbit Stew;IT1037703;Main Course;27
+RE10377;Game;Sirloin Steak;IT1037704;Main Course;26
+RE10377;Game;Soda;IT1037705;Drink;7
+RE10378;International;Cheese Bread Sticks;IT1037801;Starter;7
+RE10378;International;Honey Glazed Chicken;IT1037802;Starter;6
+RE10378;International;Grande Salad;IT1037803;Main Course;29
+RE10378;International;Beef Steak;IT1037804;Main Course;29
+RE10378;International;Apple Drink;IT1037805;Drink;7
+RE10379;Mexican;Fire Burrito;IT1037901;Main Course;10
+RE10379;Mexican;Chilli Tacos;IT1037902;Main Course;21
+RE10379;Mexican;Chicken Quasedillas;IT1037903;Main Course;28
+RE10379;Mexican;Grilled Pork;IT1037904;Main Course;24
+RE10379;Mexican;Pork Burritos;IT1037905;Main Course;27
+RE10380;Mexican;Fire Burrito;IT1038001;Main Course;17
+RE10380;Mexican;Chilli Tacos;IT1038002;Main Course;15
+RE10380;Mexican;Chicken Quasedillas;IT1038003;Main Course;27
+RE10380;Mexican;Grilled Pork;IT1038004;Main Course;22
+RE10380;Mexican;Pork Burritos;IT1038005;Main Course;18
+RE10381;Mexican;Fire Burrito;IT1038101;Main Course;18
+RE10381;Mexican;Chilli Tacos;IT1038102;Main Course;10
+RE10381;Mexican;Chicken Quasedillas;IT1038103;Main Course;18
+RE10381;Mexican;Grilled Pork;IT1038104;Main Course;18
+RE10381;Mexican;Pork Burritos;IT1038105;Main Course;21
+RE10382;Mexican;Fire Burrito;IT1038201;Main Course;28
+RE10382;Mexican;Chilli Tacos;IT1038202;Main Course;11
+RE10382;Mexican;Chicken Quasedillas;IT1038203;Main Course;17
+RE10382;Mexican;Grilled Pork;IT1038204;Main Course;12
+RE10382;Mexican;Pork Burritos;IT1038205;Main Course;28
+RE10383;Mexican;Fire Burrito;IT1038301;Main Course;15
+RE10383;Mexican;Chilli Tacos;IT1038302;Main Course;12
+RE10383;Mexican;Chicken Quasedillas;IT1038303;Main Course;23
+RE10383;Mexican;Grilled Pork;IT1038304;Main Course;26
+RE10383;Mexican;Pork Burritos;IT1038305;Main Course;17
+RE10384;Mexican;Fire Burrito;IT1038401;Main Course;10
+RE10384;Mexican;Chilli Tacos;IT1038402;Main Course;18
+RE10384;Mexican;Chicken Quasedillas;IT1038403;Main Course;18
+RE10384;Mexican;Grilled Pork;IT1038404;Main Course;18
+RE10384;Mexican;Pork Burritos;IT1038405;Main Course;24
+RE10385;Mexican;Fire Burrito;IT1038501;Main Course;12
+RE10385;Mexican;Chilli Tacos;IT1038502;Main Course;16
+RE10385;Mexican;Chicken Quasedillas;IT1038503;Main Course;21
+RE10385;Mexican;Grilled Pork;IT1038504;Main Course;21
+RE10385;Mexican;Pork Burritos;IT1038505;Main Course;11
+RE10386;Mexican;Fire Burrito;IT1038601;Main Course;25
+RE10386;Mexican;Chilli Tacos;IT1038602;Main Course;19
+RE10386;Mexican;Chicken Quasedillas;IT1038603;Main Course;17
+RE10386;Mexican;Grilled Pork;IT1038604;Main Course;18
+RE10386;Mexican;Pork Burritos;IT1038605;Main Course;26
+RE10387;Mexican;Fire Burrito;IT1038701;Main Course;20
+RE10387;Mexican;Chilli Tacos;IT1038702;Main Course;14
+RE10387;Mexican;Chicken Quasedillas;IT1038703;Main Course;12
+RE10387;Mexican;Grilled Pork;IT1038704;Main Course;18
+RE10387;Mexican;Pork Burritos;IT1038705;Main Course;13
+RE10388;Mexican;Fire Burrito;IT1038801;Main Course;25
+RE10388;Mexican;Chilli Tacos;IT1038802;Main Course;14
+RE10388;Mexican;Chicken Quasedillas;IT1038803;Main Course;26
+RE10388;Mexican;Grilled Pork;IT1038804;Main Course;19
+RE10388;Mexican;Pork Burritos;IT1038805;Main Course;17
+RE10389;Mexican;Fire Burrito;IT1038901;Main Course;27
+RE10389;Mexican;Chilli Tacos;IT1038902;Main Course;23
+RE10389;Mexican;Chicken Quasedillas;IT1038903;Main Course;15
+RE10389;Mexican;Grilled Pork;IT1038904;Main Course;24
+RE10389;Mexican;Pork Burritos;IT1038905;Main Course;26
+RE10390;Mexican;Fire Burrito;IT1039001;Main Course;19
+RE10390;Mexican;Chilli Tacos;IT1039002;Main Course;25
+RE10390;Mexican;Chicken Quasedillas;IT1039003;Main Course;21
+RE10390;Mexican;Grilled Pork;IT1039004;Main Course;22
+RE10390;Mexican;Pork Burritos;IT1039005;Main Course;17
+RE10391;Mexican;Fire Burrito;IT1039101;Main Course;21
+RE10391;Mexican;Chilli Tacos;IT1039102;Main Course;24
+RE10391;Mexican;Chicken Quasedillas;IT1039103;Main Course;23
+RE10391;Mexican;Grilled Pork;IT1039104;Main Course;17
+RE10391;Mexican;Pork Burritos;IT1039105;Main Course;16
+RE10392;Mexican;Fire Burrito;IT1039201;Main Course;11
+RE10392;Mexican;Chilli Tacos;IT1039202;Main Course;29
+RE10392;Mexican;Chicken Quasedillas;IT1039203;Main Course;22
+RE10392;Mexican;Grilled Pork;IT1039204;Main Course;24
+RE10392;Mexican;Pork Burritos;IT1039205;Main Course;24
+RE10393;Mexican;Fire Burrito;IT1039301;Main Course;10
+RE10393;Mexican;Chilli Tacos;IT1039302;Main Course;23
+RE10393;Mexican;Chicken Quasedillas;IT1039303;Main Course;18
+RE10393;Mexican;Grilled Pork;IT1039304;Main Course;16
+RE10393;Mexican;Pork Burritos;IT1039305;Main Course;17
+RE10394;Mexican;Fire Burrito;IT1039401;Main Course;19
+RE10394;Mexican;Chilli Tacos;IT1039402;Main Course;29
+RE10394;Mexican;Chicken Quasedillas;IT1039403;Main Course;28
+RE10394;Mexican;Grilled Pork;IT1039404;Main Course;15
+RE10394;Mexican;Pork Burritos;IT1039405;Main Course;25
+RE10395;International;Cheese Bread Sticks;IT1039501;Starter;7
+RE10395;International;Honey Glazed Chicken;IT1039502;Starter;5
+RE10395;International;Grande Salad;IT1039503;Main Course;21
+RE10395;International;Beef Steak;IT1039504;Main Course;13
+RE10395;International;Apple Drink;IT1039505;Drink;9
+RE10396;Vegetarian;Chickpea Salad;IT1039601;Starter;7
+RE10396;Vegetarian;Tortilla Espanola;IT1039602;Main Course;18
+RE10396;Vegetarian;Mashed Potatoes with Veggies;IT1039603;Main Course;25
+RE10396;Vegetarian;Strawberry Gelato;IT1039604;Dessert;8
+RE10396;Vegetarian;Virgin Mojito;IT1039605;Drink;7
+RE10397;Cafeteria;Popcorn Chicken;IT1039701;Starter;11
+RE10397;Cafeteria;Club Mix;IT1039702;Main Course;17
+RE10397;Cafeteria;Classic Cheese Pizza;IT1039703;Main Course;13
+RE10397;Cafeteria;Frozen Fruit Cup;IT1039704;Dessert;14
+RE10397;Cafeteria;Milkshake;IT1039705;Drink;8
+RE10398;Mexican;Fire Burrito;IT1039801;Main Course;29
+RE10398;Mexican;Chilli Tacos;IT1039802;Main Course;19
+RE10398;Mexican;Chicken Quasedillas;IT1039803;Main Course;24
+RE10398;Mexican;Grilled Pork;IT1039804;Main Course;21
+RE10398;Mexican;Pork Burritos;IT1039805;Main Course;28
+RE10399;Mexican;Fire Burrito;IT1039901;Main Course;10
+RE10399;Mexican;Chilli Tacos;IT1039902;Main Course;17
+RE10399;Mexican;Chicken Quasedillas;IT1039903;Main Course;16
+RE10399;Mexican;Grilled Pork;IT1039904;Main Course;19
+RE10399;Mexican;Pork Burritos;IT1039905;Main Course;13
+RE10400;Bar;Strawberry Daiquiri;IT1040001;Drink;6
+RE10400;Bar;Tequila Sunrise;IT1040002;Drink;5
+RE10400;Bar;Beer;IT1040003;Drink;7
+RE10400;Bar;Red Wine;IT1040004;Drink;5
+RE10400;Bar;White Wine;IT1040005;Drink;9
+RE10401;Chinese;Lobster Cantonese;IT1040101;Main Course;21
+RE10401;Chinese;Pork Chow Mein;IT1040102;Main Course;15
+RE10401;Chinese;Chicken Chop Suey;IT1040103;Starter;11
+RE10401;Chinese;Egg Flower Soup;IT1040104;Starter;13
+RE10401;Chinese;Fried Shrimp;IT1040105;Starter;11
+RE10402;Chinese;Lobster Cantonese;IT1040201;Main Course;19
+RE10402;Chinese;Pork Chow Mein;IT1040202;Main Course;29
+RE10402;Chinese;Chicken Chop Suey;IT1040203;Starter;13
+RE10402;Chinese;Egg Flower Soup;IT1040204;Starter;7
+RE10402;Chinese;Fried Shrimp;IT1040205;Starter;8
+RE10403;Mexican;Fire Burrito;IT1040301;Main Course;17
+RE10403;Mexican;Chilli Tacos;IT1040302;Main Course;11
+RE10403;Mexican;Chicken Quasedillas;IT1040303;Main Course;23
+RE10403;Mexican;Grilled Pork;IT1040304;Main Course;20
+RE10403;Mexican;Pork Burritos;IT1040305;Main Course;18
+RE10404;Armenian;Smoked Pork Fillet;IT1040401;Main Course;11
+RE10404;Armenian;Fish Assortment;IT1040402;Main Course;21
+RE10404;Armenian;Cheese Platter;IT1040403;Main Course;11
+RE10404;Armenian;Meat Platter;IT1040404;Main Course;26
+RE10404;Armenian;Milkshake;IT1040405;Drink;7
+RE10405;Mexican;Fire Burrito;IT1040501;Main Course;19
+RE10405;Mexican;Chilli Tacos;IT1040502;Main Course;15
+RE10405;Mexican;Chicken Quasedillas;IT1040503;Main Course;10
+RE10405;Mexican;Grilled Pork;IT1040504;Main Course;28
+RE10405;Mexican;Pork Burritos;IT1040505;Main Course;29
+RE10406;Cafeteria;Popcorn Chicken;IT1040601;Starter;12
+RE10406;Cafeteria;Club Mix;IT1040602;Main Course;26
+RE10406;Cafeteria;Classic Cheese Pizza;IT1040603;Main Course;27
+RE10406;Cafeteria;Frozen Fruit Cup;IT1040604;Dessert;14
+RE10406;Cafeteria;Milkshake;IT1040605;Drink;5
+RE10407;American;Artichoke Salad;IT1040701;Starter;14
+RE10407;American;Cobb Salad;IT1040702;Starter;14
+RE10407;American;Grilled Salmon;IT1040703;Main Course;24
+RE10407;American;New York Steak;IT1040704;Main Course;17
+RE10407;American;Turkey Sandwich;IT1040705;Main Course;26
+RE10408;American;Artichoke Salad;IT1040801;Starter;9
+RE10408;American;Cobb Salad;IT1040802;Starter;9
+RE10408;American;Grilled Salmon;IT1040803;Main Course;10
+RE10408;American;New York Steak;IT1040804;Main Course;27
+RE10408;American;Turkey Sandwich;IT1040805;Main Course;23
+RE10409;Vegetarian;Chickpea Salad;IT1040901;Starter;8
+RE10409;Vegetarian;Tortilla Espanola;IT1040902;Main Course;13
+RE10409;Vegetarian;Mashed Potatoes with Veggies;IT1040903;Main Course;17
+RE10409;Vegetarian;Strawberry Gelato;IT1040904;Dessert;10
+RE10409;Vegetarian;Virgin Mojito;IT1040905;Drink;8
+RE10410;Mexican;Fire Burrito;IT1041001;Main Course;18
+RE10410;Mexican;Chilli Tacos;IT1041002;Main Course;27
+RE10410;Mexican;Chicken Quasedillas;IT1041003;Main Course;11
+RE10410;Mexican;Grilled Pork;IT1041004;Main Course;27
+RE10410;Mexican;Pork Burritos;IT1041005;Main Course;20
+RE10411;International;Cheese Bread Sticks;IT1041101;Starter;11
+RE10411;International;Honey Glazed Chicken;IT1041102;Starter;7
+RE10411;International;Grande Salad;IT1041103;Main Course;16
+RE10411;International;Beef Steak;IT1041104;Main Course;23
+RE10411;International;Apple Drink;IT1041105;Drink;8
+RE10412;Mexican;Fire Burrito;IT1041201;Main Course;22
+RE10412;Mexican;Chilli Tacos;IT1041202;Main Course;24
+RE10412;Mexican;Chicken Quasedillas;IT1041203;Main Course;23
+RE10412;Mexican;Grilled Pork;IT1041204;Main Course;23
+RE10412;Mexican;Pork Burritos;IT1041205;Main Course;29
+RE10413;International;Cheese Bread Sticks;IT1041301;Starter;13
+RE10413;International;Honey Glazed Chicken;IT1041302;Starter;13
+RE10413;International;Grande Salad;IT1041303;Main Course;13
+RE10413;International;Beef Steak;IT1041304;Main Course;11
+RE10413;International;Apple Drink;IT1041305;Drink;8
+RE10414;Mexican;Fire Burrito;IT1041401;Main Course;19
+RE10414;Mexican;Chilli Tacos;IT1041402;Main Course;15
+RE10414;Mexican;Chicken Quasedillas;IT1041403;Main Course;12
+RE10414;Mexican;Grilled Pork;IT1041404;Main Course;11
+RE10414;Mexican;Pork Burritos;IT1041405;Main Course;28
+RE10415;American;Artichoke Salad;IT1041501;Starter;5
+RE10415;American;Cobb Salad;IT1041502;Starter;12
+RE10415;American;Grilled Salmon;IT1041503;Main Course;28
+RE10415;American;New York Steak;IT1041504;Main Course;28
+RE10415;American;Turkey Sandwich;IT1041505;Main Course;20
+RE10416;International;Cheese Bread Sticks;IT1041601;Starter;6
+RE10416;International;Honey Glazed Chicken;IT1041602;Starter;12
+RE10416;International;Grande Salad;IT1041603;Main Course;28
+RE10416;International;Beef Steak;IT1041604;Main Course;26
+RE10416;International;Apple Drink;IT1041605;Drink;9
+RE10417;International;Cheese Bread Sticks;IT1041701;Starter;8
+RE10417;International;Honey Glazed Chicken;IT1041702;Starter;7
+RE10417;International;Grande Salad;IT1041703;Main Course;20
+RE10417;International;Beef Steak;IT1041704;Main Course;10
+RE10417;International;Apple Drink;IT1041705;Drink;9
+RE10418;Mexican;Fire Burrito;IT1041801;Main Course;29
+RE10418;Mexican;Chilli Tacos;IT1041802;Main Course;10
+RE10418;Mexican;Chicken Quasedillas;IT1041803;Main Course;22
+RE10418;Mexican;Grilled Pork;IT1041804;Main Course;29
+RE10418;Mexican;Pork Burritos;IT1041805;Main Course;16
+RE10419;Italian;Bruschetta;IT1041901;Starter;12
+RE10419;Italian;Pepperoni Pizza;IT1041902;Main Course;19
+RE10419;Italian;Bolognese Pasta;IT1041903;Main Course;12
+RE10419;Italian;Smoked Mushroom Soup;IT1041904;Starter;7
+RE10419;Italian;Tiramisu;IT1041905;Dessert;6
+RE10420;International;Cheese Bread Sticks;IT1042001;Starter;11
+RE10420;International;Honey Glazed Chicken;IT1042002;Starter;7
+RE10420;International;Grande Salad;IT1042003;Main Course;10
+RE10420;International;Beef Steak;IT1042004;Main Course;19
+RE10420;International;Apple Drink;IT1042005;Drink;6
+RE10421;Family;Stuffed Breadsticks;IT1042101;Starter;7
+RE10421;Family;Garlic Bread;IT1042102;Starter;13
+RE10421;Family;Sweet Corn Soup;IT1042103;Starter;11
+RE10421;Family;Beef Burger;IT1042104;Main Course;14
+RE10421;Family;Soda;IT1042105;Drink;9
+RE10422;Mexican;Fire Burrito;IT1042201;Main Course;15
+RE10422;Mexican;Chilli Tacos;IT1042202;Main Course;24
+RE10422;Mexican;Chicken Quasedillas;IT1042203;Main Course;11
+RE10422;Mexican;Grilled Pork;IT1042204;Main Course;20
+RE10422;Mexican;Pork Burritos;IT1042205;Main Course;13
+RE10423;Mexican;Fire Burrito;IT1042301;Main Course;24
+RE10423;Mexican;Chilli Tacos;IT1042302;Main Course;28
+RE10423;Mexican;Chicken Quasedillas;IT1042303;Main Course;19
+RE10423;Mexican;Grilled Pork;IT1042304;Main Course;22
+RE10423;Mexican;Pork Burritos;IT1042305;Main Course;13
+RE10424;Mexican;Fire Burrito;IT1042401;Main Course;23
+RE10424;Mexican;Chilli Tacos;IT1042402;Main Course;29
+RE10424;Mexican;Chicken Quasedillas;IT1042403;Main Course;10
+RE10424;Mexican;Grilled Pork;IT1042404;Main Course;13
+RE10424;Mexican;Pork Burritos;IT1042405;Main Course;15
+RE10425;Mexican;Fire Burrito;IT1042501;Main Course;12
+RE10425;Mexican;Chilli Tacos;IT1042502;Main Course;21
+RE10425;Mexican;Chicken Quasedillas;IT1042503;Main Course;29
+RE10425;Mexican;Grilled Pork;IT1042504;Main Course;13
+RE10425;Mexican;Pork Burritos;IT1042505;Main Course;25
+RE10426;Mexican;Fire Burrito;IT1042601;Main Course;14
+RE10426;Mexican;Chilli Tacos;IT1042602;Main Course;29
+RE10426;Mexican;Chicken Quasedillas;IT1042603;Main Course;23
+RE10426;Mexican;Grilled Pork;IT1042604;Main Course;25
+RE10426;Mexican;Pork Burritos;IT1042605;Main Course;15
+RE10427;Mexican;Fire Burrito;IT1042701;Main Course;15
+RE10427;Mexican;Chilli Tacos;IT1042702;Main Course;22
+RE10427;Mexican;Chicken Quasedillas;IT1042703;Main Course;12
+RE10427;Mexican;Grilled Pork;IT1042704;Main Course;20
+RE10427;Mexican;Pork Burritos;IT1042705;Main Course;12
+RE10428;American;Artichoke Salad;IT1042801;Starter;7
+RE10428;American;Cobb Salad;IT1042802;Starter;12
+RE10428;American;Grilled Salmon;IT1042803;Main Course;29
+RE10428;American;New York Steak;IT1042804;Main Course;29
+RE10428;American;Turkey Sandwich;IT1042805;Main Course;21
+RE10430;Breakfast-Brunch;English Breakfast;IT1043001;Main Course;14
+RE10430;Breakfast-Brunch;Continental Breakfast;IT1043002;Main Course;26
+RE10430;Breakfast-Brunch;Farm Fresh Breakfast;IT1043003;Main Course;12
+RE10430;Breakfast-Brunch;Double Espresso;IT1043004;Drink;7
+RE10430;Breakfast-Brunch;Strawberry Smoothie;IT1043005;Drink;5
+RE10431;Burgers;Chicken Burger;IT1043101;Main Course;26
+RE10431;Burgers;Hamburger;IT1043102;Main Course;24
+RE10431;Burgers;Beef Burger;IT1043103;Main Course;16
+RE10431;Burgers;Mixed Burger;IT1043104;Main Course;27
+RE10431;Burgers;Soda;IT1043105;Drink;9
+RE10432;Cafe-Coffee_Shop;Cappuccino;IT1043201;Drink;6
+RE10432;Cafe-Coffee_Shop;Glace;IT1043202;Drink;9
+RE10432;Cafe-Coffee_Shop;Latte;IT1043203;Drink;9
+RE10432;Cafe-Coffee_Shop;Cocoa;IT1043204;Drink;9
+RE10432;Cafe-Coffee_Shop;Mocha;IT1043205;Drink;7
+RE10433;Cafeteria;Popcorn Chicken;IT1043301;Starter;7
+RE10433;Cafeteria;Club Mix;IT1043302;Main Course;19
+RE10433;Cafeteria;Classic Cheese Pizza;IT1043303;Main Course;17
+RE10433;Cafeteria;Frozen Fruit Cup;IT1043304;Dessert;11
+RE10433;Cafeteria;Milkshake;IT1043305;Drink;5
+RE10434;Diner;Fried Eggs;IT1043401;Main Course;29
+RE10434;Diner;Milkshake;IT1043402;Drink;8
+RE10434;Diner;Chicken Pasta;IT1043403;Main Course;20
+RE10434;Diner;Pizza Rolls;IT1043404;Starter;5
+RE10434;Diner;Soda;IT1043405;Drink;9
+RE10435;Family;Stuffed Breadsticks;IT1043501;Starter;7
+RE10435;Family;Garlic Bread;IT1043502;Starter;7
+RE10435;Family;Sweet Corn Soup;IT1043503;Starter;8
+RE10435;Family;Beef Burger;IT1043504;Main Course;22
+RE10435;Family;Soda;IT1043505;Drink;9
+RE10436;Mexican;Fire Burrito;IT1043601;Main Course;17
+RE10436;Mexican;Chilli Tacos;IT1043602;Main Course;25
+RE10436;Mexican;Chicken Quasedillas;IT1043603;Main Course;10
+RE10436;Mexican;Grilled Pork;IT1043604;Main Course;22
+RE10436;Mexican;Pork Burritos;IT1043605;Main Course;27
+RE10437;Family;Stuffed Breadsticks;IT1043701;Starter;14
+RE10437;Family;Garlic Bread;IT1043702;Starter;8
+RE10437;Family;Sweet Corn Soup;IT1043703;Starter;5
+RE10437;Family;Beef Burger;IT1043704;Main Course;13
+RE10437;Family;Soda;IT1043705;Drink;6
+RE10438;Mexican;Fire Burrito;IT1043801;Main Course;21
+RE10438;Mexican;Chilli Tacos;IT1043802;Main Course;16
+RE10438;Mexican;Chicken Quasedillas;IT1043803;Main Course;13
+RE10438;Mexican;Grilled Pork;IT1043804;Main Course;11
+RE10438;Mexican;Pork Burritos;IT1043805;Main Course;24
+RE10439;Mexican;Fire Burrito;IT1043901;Main Course;24
+RE10439;Mexican;Chilli Tacos;IT1043902;Main Course;17
+RE10439;Mexican;Chicken Quasedillas;IT1043903;Main Course;12
+RE10439;Mexican;Grilled Pork;IT1043904;Main Course;18
+RE10439;Mexican;Pork Burritos;IT1043905;Main Course;12
+RE10440;Japanese;Chukka Salad;IT1044001;Starter;14
+RE10440;Japanese;Takitori;IT1044002;Starter;13
+RE10440;Japanese;Pork Teriyaki;IT1044003;Main Course;22
+RE10440;Japanese;Gunkan With Cucumber;IT1044004;Main Course;15
+RE10440;Japanese;Roll with Walnuts;IT1044005;Starter;8
+RE10441;Spanish;Virgin Mojito;IT1044101;Drink;9
+RE10441;Spanish;Chicken Parmesan;IT1044102;Main Course;23
+RE10441;Spanish;Enchiladas;IT1044103;Main Course;18
+RE10441;Spanish;Stuffed Fish Fillet;IT1044104;Main Course;15
+RE10441;Spanish;Marinated Pork Fillet;IT1044105;Main Course;21
+RE10442;Mexican;Fire Burrito;IT1044201;Main Course;13
+RE10442;Mexican;Chilli Tacos;IT1044202;Main Course;20
+RE10442;Mexican;Chicken Quasedillas;IT1044203;Main Course;21
+RE10442;Mexican;Grilled Pork;IT1044204;Main Course;18
+RE10442;Mexican;Pork Burritos;IT1044205;Main Course;28
+RE10443;Family;Stuffed Breadsticks;IT1044301;Starter;7
+RE10443;Family;Garlic Bread;IT1044302;Starter;5
+RE10443;Family;Sweet Corn Soup;IT1044303;Starter;5
+RE10443;Family;Beef Burger;IT1044304;Main Course;27
+RE10443;Family;Soda;IT1044305;Drink;8
+RE10444;Vietnamese;Pho Nam;IT1044401;Main Course;23
+RE10444;Vietnamese;Hu Tieu Kho;IT1044402;Main Course;10
+RE10444;Vietnamese;Hu Tieu Tom;IT1044403;Starter;6
+RE10444;Vietnamese;Soda;IT1044404;Drink;7
+RE10444;Vietnamese;Beef Noodles;IT1044405;Main Course;14
+RE10445;Japanese;Chukka Salad;IT1044501;Starter;11
+RE10445;Japanese;Takitori;IT1044502;Starter;12
+RE10445;Japanese;Pork Teriyaki;IT1044503;Main Course;22
+RE10445;Japanese;Gunkan With Cucumber;IT1044504;Main Course;21
+RE10445;Japanese;Roll with Walnuts;IT1044505;Starter;8
+RE10446;Mexican;Fire Burrito;IT1044601;Main Course;27
+RE10446;Mexican;Chilli Tacos;IT1044602;Main Course;11
+RE10446;Mexican;Chicken Quasedillas;IT1044603;Main Course;23
+RE10446;Mexican;Grilled Pork;IT1044604;Main Course;19
+RE10446;Mexican;Pork Burritos;IT1044605;Main Course;25
+RE10447;Mexican;Fire Burrito;IT1044701;Main Course;10
+RE10447;Mexican;Chilli Tacos;IT1044702;Main Course;10
+RE10447;Mexican;Chicken Quasedillas;IT1044703;Main Course;21
+RE10447;Mexican;Grilled Pork;IT1044704;Main Course;28
+RE10447;Mexican;Pork Burritos;IT1044705;Main Course;29
+RE10448;Mexican;Fire Burrito;IT1044801;Main Course;13
+RE10448;Mexican;Chilli Tacos;IT1044802;Main Course;14
+RE10448;Mexican;Chicken Quasedillas;IT1044803;Main Course;24
+RE10448;Mexican;Grilled Pork;IT1044804;Main Course;22
+RE10448;Mexican;Pork Burritos;IT1044805;Main Course;25
+RE10449;Mexican;Fire Burrito;IT1044901;Main Course;19
+RE10449;Mexican;Chilli Tacos;IT1044902;Main Course;29
+RE10449;Mexican;Chicken Quasedillas;IT1044903;Main Course;27
+RE10449;Mexican;Grilled Pork;IT1044904;Main Course;18
+RE10449;Mexican;Pork Burritos;IT1044905;Main Course;25
+RE10450;Mexican;Fire Burrito;IT1045001;Main Course;20
+RE10450;Mexican;Chilli Tacos;IT1045002;Main Course;21
+RE10450;Mexican;Chicken Quasedillas;IT1045003;Main Course;11
+RE10450;Mexican;Grilled Pork;IT1045004;Main Course;17
+RE10450;Mexican;Pork Burritos;IT1045005;Main Course;22
+RE10451;Mexican;Fire Burrito;IT1045101;Main Course;18
+RE10451;Mexican;Chilli Tacos;IT1045102;Main Course;16
+RE10451;Mexican;Chicken Quasedillas;IT1045103;Main Course;22
+RE10451;Mexican;Grilled Pork;IT1045104;Main Course;16
+RE10451;Mexican;Pork Burritos;IT1045105;Main Course;16
+RE10452;Mexican;Fire Burrito;IT1045201;Main Course;13
+RE10452;Mexican;Chilli Tacos;IT1045202;Main Course;27
+RE10452;Mexican;Chicken Quasedillas;IT1045203;Main Course;15
+RE10452;Mexican;Grilled Pork;IT1045204;Main Course;28
+RE10452;Mexican;Pork Burritos;IT1045205;Main Course;15
+RE10453;Italian;Bruschetta;IT1045301;Starter;13
+RE10453;Italian;Pepperoni Pizza;IT1045302;Main Course;14
+RE10453;Italian;Bolognese Pasta;IT1045303;Main Course;19
+RE10453;Italian;Smoked Mushroom Soup;IT1045304;Starter;8
+RE10453;Italian;Tiramisu;IT1045305;Dessert;7
+RE10454;Mexican;Fire Burrito;IT1045401;Main Course;13
+RE10454;Mexican;Chilli Tacos;IT1045402;Main Course;26
+RE10454;Mexican;Chicken Quasedillas;IT1045403;Main Course;27
+RE10454;Mexican;Grilled Pork;IT1045404;Main Course;13
+RE10454;Mexican;Pork Burritos;IT1045405;Main Course;13
+RE10455;Mexican;Fire Burrito;IT1045501;Main Course;15
+RE10455;Mexican;Chilli Tacos;IT1045502;Main Course;25
+RE10455;Mexican;Chicken Quasedillas;IT1045503;Main Course;15
+RE10455;Mexican;Grilled Pork;IT1045504;Main Course;15
+RE10455;Mexican;Pork Burritos;IT1045505;Main Course;23
+RE10456;Mexican;Fire Burrito;IT1045601;Main Course;20
+RE10456;Mexican;Chilli Tacos;IT1045602;Main Course;22
+RE10456;Mexican;Chicken Quasedillas;IT1045603;Main Course;20
+RE10456;Mexican;Grilled Pork;IT1045604;Main Course;10
+RE10456;Mexican;Pork Burritos;IT1045605;Main Course;13
+RE10457;Cafeteria;Popcorn Chicken;IT1045701;Starter;11
+RE10457;Cafeteria;Club Mix;IT1045702;Main Course;10
+RE10457;Cafeteria;Classic Cheese Pizza;IT1045703;Main Course;19
+RE10457;Cafeteria;Frozen Fruit Cup;IT1045704;Dessert;12
+RE10457;Cafeteria;Milkshake;IT1045705;Drink;7
+RE10458;Burgers;Chicken Burger;IT1045801;Main Course;10
+RE10458;Burgers;Hamburger;IT1045802;Main Course;12
+RE10458;Burgers;Beef Burger;IT1045803;Main Course;15
+RE10458;Burgers;Mixed Burger;IT1045804;Main Course;20
+RE10458;Burgers;Soda;IT1045805;Drink;5
+RE10459;Burgers;Chicken Burger;IT1045901;Main Course;25
+RE10459;Burgers;Hamburger;IT1045902;Main Course;26
+RE10459;Burgers;Beef Burger;IT1045903;Main Course;15
+RE10459;Burgers;Mixed Burger;IT1045904;Main Course;22
+RE10459;Burgers;Soda;IT1045905;Drink;5
+RE10460;Mexican;Fire Burrito;IT1046001;Main Course;27
+RE10460;Mexican;Chilli Tacos;IT1046002;Main Course;20
+RE10460;Mexican;Chicken Quasedillas;IT1046003;Main Course;18
+RE10460;Mexican;Grilled Pork;IT1046004;Main Course;11
+RE10460;Mexican;Pork Burritos;IT1046005;Main Course;24
+RE10461;Mexican;Fire Burrito;IT1046101;Main Course;13
+RE10461;Mexican;Chilli Tacos;IT1046102;Main Course;12
+RE10461;Mexican;Chicken Quasedillas;IT1046103;Main Course;27
+RE10461;Mexican;Grilled Pork;IT1046104;Main Course;24
+RE10461;Mexican;Pork Burritos;IT1046105;Main Course;21
+RE10462;Chinese;Lobster Cantonese;IT1046201;Main Course;11
+RE10462;Chinese;Pork Chow Mein;IT1046202;Main Course;22
+RE10462;Chinese;Chicken Chop Suey;IT1046203;Starter;7
+RE10462;Chinese;Egg Flower Soup;IT1046204;Starter;5
+RE10462;Chinese;Fried Shrimp;IT1046205;Starter;13
+RE10463;Mexican;Fire Burrito;IT1046301;Main Course;22
+RE10463;Mexican;Chilli Tacos;IT1046302;Main Course;29
+RE10463;Mexican;Chicken Quasedillas;IT1046303;Main Course;20
+RE10463;Mexican;Grilled Pork;IT1046304;Main Course;18
+RE10463;Mexican;Pork Burritos;IT1046305;Main Course;29
+RE10464;American;Artichoke Salad;IT1046401;Starter;8
+RE10464;American;Cobb Salad;IT1046402;Starter;13
+RE10464;American;Grilled Salmon;IT1046403;Main Course;17
+RE10464;American;New York Steak;IT1046404;Main Course;17
+RE10464;American;Turkey Sandwich;IT1046405;Main Course;12
+RE10465;Mexican;Fire Burrito;IT1046501;Main Course;19
+RE10465;Mexican;Chilli Tacos;IT1046502;Main Course;26
+RE10465;Mexican;Chicken Quasedillas;IT1046503;Main Course;15
+RE10465;Mexican;Grilled Pork;IT1046504;Main Course;12
+RE10465;Mexican;Pork Burritos;IT1046505;Main Course;21
+RE10466;Mexican;Fire Burrito;IT1046601;Main Course;14
+RE10466;Mexican;Chilli Tacos;IT1046602;Main Course;28
+RE10466;Mexican;Chicken Quasedillas;IT1046603;Main Course;22
+RE10466;Mexican;Grilled Pork;IT1046604;Main Course;17
+RE10466;Mexican;Pork Burritos;IT1046605;Main Course;21
+RE10467;Mexican;Fire Burrito;IT1046701;Main Course;11
+RE10467;Mexican;Chilli Tacos;IT1046702;Main Course;13
+RE10467;Mexican;Chicken Quasedillas;IT1046703;Main Course;26
+RE10467;Mexican;Grilled Pork;IT1046704;Main Course;28
+RE10467;Mexican;Pork Burritos;IT1046705;Main Course;24
+RE10468;Mexican;Fire Burrito;IT1046801;Main Course;15
+RE10468;Mexican;Chilli Tacos;IT1046802;Main Course;29
+RE10468;Mexican;Chicken Quasedillas;IT1046803;Main Course;16
+RE10468;Mexican;Grilled Pork;IT1046804;Main Course;11
+RE10468;Mexican;Pork Burritos;IT1046805;Main Course;29
+RE10469;Mexican;Fire Burrito;IT1046901;Main Course;14
+RE10469;Mexican;Chilli Tacos;IT1046902;Main Course;27
+RE10469;Mexican;Chicken Quasedillas;IT1046903;Main Course;19
+RE10469;Mexican;Grilled Pork;IT1046904;Main Course;24
+RE10469;Mexican;Pork Burritos;IT1046905;Main Course;20
+RE10470;Mexican;Fire Burrito;IT1047001;Main Course;13
+RE10470;Mexican;Chilli Tacos;IT1047002;Main Course;17
+RE10470;Mexican;Chicken Quasedillas;IT1047003;Main Course;19
+RE10470;Mexican;Grilled Pork;IT1047004;Main Course;29
+RE10470;Mexican;Pork Burritos;IT1047005;Main Course;25
+RE10471;Hot_Dogs;Chicago Genuine;IT1047101;Main Course;16
+RE10471;Hot_Dogs;Polish Hot Dog;IT1047102;Main Course;13
+RE10471;Hot_Dogs;Chili Dog;IT1047103;Main Course;29
+RE10471;Hot_Dogs;Hawaiian ;IT1047104;Main Course;10
+RE10471;Hot_Dogs;Bratwurst;IT1047105;Main Course;13
+RE10472;Mexican;Fire Burrito;IT1047201;Main Course;23
+RE10472;Mexican;Chilli Tacos;IT1047202;Main Course;29
+RE10472;Mexican;Chicken Quasedillas;IT1047203;Main Course;17
+RE10472;Mexican;Grilled Pork;IT1047204;Main Course;25
+RE10472;Mexican;Pork Burritos;IT1047205;Main Course;19
+RE10473;Korean;Pancakes with Green Onions;IT1047301;Main Course;28
+RE10473;Korean;Pulgogs with Garlic;IT1047302;Main Course;25
+RE10473;Korean;Kimchi Stew with Pork;IT1047303;Main Course;13
+RE10473;Korean;Majjaccva;IT1047304;Starter;5
+RE10473;Korean;Soda;IT1047305;Drink;5
+RE10474;Mexican;Fire Burrito;IT1047401;Main Course;27
+RE10474;Mexican;Chilli Tacos;IT1047402;Main Course;23
+RE10474;Mexican;Chicken Quasedillas;IT1047403;Main Course;29
+RE10474;Mexican;Grilled Pork;IT1047404;Main Course;27
+RE10474;Mexican;Pork Burritos;IT1047405;Main Course;18
+RE10475;Pizzeria;Margherita;IT1047501;Main Course;25
+RE10475;Pizzeria;Fungi;IT1047502;Main Course;17
+RE10475;Pizzeria;Salami;IT1047503;Main Course;22
+RE10475;Pizzeria;Mexican;IT1047504;Main Course;24
+RE10475;Pizzeria;Vegetarian;IT1047505;Main Course;18
+RE10476;Pizzeria;Margherita;IT1047601;Main Course;20
+RE10476;Pizzeria;Fungi;IT1047602;Main Course;12
+RE10476;Pizzeria;Salami;IT1047603;Main Course;10
+RE10476;Pizzeria;Mexican;IT1047604;Main Course;11
+RE10476;Pizzeria;Vegetarian;IT1047605;Main Course;19
+RE10477;Mexican;Fire Burrito;IT1047701;Main Course;26
+RE10477;Mexican;Chilli Tacos;IT1047702;Main Course;23
+RE10477;Mexican;Chicken Quasedillas;IT1047703;Main Course;13
+RE10477;Mexican;Grilled Pork;IT1047704;Main Course;16
+RE10477;Mexican;Pork Burritos;IT1047705;Main Course;26
+RE10478;Fast_Food;Hot Dog with Fries;IT1047801;Main Course;26
+RE10478;Fast_Food;Chicken Burger;IT1047802;Main Course;12
+RE10478;Fast_Food;Hamburger;IT1047803;Main Course;11
+RE10478;Fast_Food;Beef Burger;IT1047804;Main Course;11
+RE10478;Fast_Food;Soda;IT1047805;Drink;6
+RE10479;American;Artichoke Salad;IT1047901;Starter;6
+RE10479;American;Cobb Salad;IT1047902;Starter;13
+RE10479;American;Grilled Salmon;IT1047903;Main Course;13
+RE10479;American;New York Steak;IT1047904;Main Course;11
+RE10479;American;Turkey Sandwich;IT1047905;Main Course;21
+RE10480;Mexican;Fire Burrito;IT1048001;Main Course;27
+RE10480;Mexican;Chilli Tacos;IT1048002;Main Course;16
+RE10480;Mexican;Chicken Quasedillas;IT1048003;Main Course;21
+RE10480;Mexican;Grilled Pork;IT1048004;Main Course;10
+RE10480;Mexican;Pork Burritos;IT1048005;Main Course;29
+RE10481;Hot_Dogs;Chicago Genuine;IT1048101;Main Course;15
+RE10481;Hot_Dogs;Polish Hot Dog;IT1048102;Main Course;27
+RE10481;Hot_Dogs;Chili Dog;IT1048103;Main Course;12
+RE10481;Hot_Dogs;Hawaiian ;IT1048104;Main Course;27
+RE10481;Hot_Dogs;Bratwurst;IT1048105;Main Course;21
+RE10482;Hot_Dogs;Chicago Genuine;IT1048201;Main Course;28
+RE10482;Hot_Dogs;Polish Hot Dog;IT1048202;Main Course;29
+RE10482;Hot_Dogs;Chili Dog;IT1048203;Main Course;24
+RE10482;Hot_Dogs;Hawaiian ;IT1048204;Main Course;18
+RE10482;Hot_Dogs;Bratwurst;IT1048205;Main Course;10
+RE10483;Fast_Food;Hot Dog with Fries;IT1048301;Main Course;26
+RE10483;Fast_Food;Chicken Burger;IT1048302;Main Course;21
+RE10483;Fast_Food;Hamburger;IT1048303;Main Course;19
+RE10483;Fast_Food;Beef Burger;IT1048304;Main Course;17
+RE10483;Fast_Food;Soda;IT1048305;Drink;9
+RE10484;Mexican;Fire Burrito;IT1048401;Main Course;13
+RE10484;Mexican;Chilli Tacos;IT1048402;Main Course;22
+RE10484;Mexican;Chicken Quasedillas;IT1048403;Main Course;14
+RE10484;Mexican;Grilled Pork;IT1048404;Main Course;28
+RE10484;Mexican;Pork Burritos;IT1048405;Main Course;27
+RE10485;Mexican;Fire Burrito;IT1048501;Main Course;10
+RE10485;Mexican;Chilli Tacos;IT1048502;Main Course;18
+RE10485;Mexican;Chicken Quasedillas;IT1048503;Main Course;24
+RE10485;Mexican;Grilled Pork;IT1048504;Main Course;28
+RE10485;Mexican;Pork Burritos;IT1048505;Main Course;24
+RE10486;American;Artichoke Salad;IT1048601;Starter;12
+RE10486;American;Cobb Salad;IT1048602;Starter;11
+RE10486;American;Grilled Salmon;IT1048603;Main Course;23
+RE10486;American;New York Steak;IT1048604;Main Course;13
+RE10486;American;Turkey Sandwich;IT1048605;Main Course;27
+RE10487;Mexican;Fire Burrito;IT1048701;Main Course;23
+RE10487;Mexican;Chilli Tacos;IT1048702;Main Course;20
+RE10487;Mexican;Chicken Quasedillas;IT1048703;Main Course;10
+RE10487;Mexican;Grilled Pork;IT1048704;Main Course;25
+RE10487;Mexican;Pork Burritos;IT1048705;Main Course;12
+RE10488;Mexican;Fire Burrito;IT1048801;Main Course;16
+RE10488;Mexican;Chilli Tacos;IT1048802;Main Course;21
+RE10488;Mexican;Chicken Quasedillas;IT1048803;Main Course;20
+RE10488;Mexican;Grilled Pork;IT1048804;Main Course;21
+RE10488;Mexican;Pork Burritos;IT1048805;Main Course;22
+RE10489;Mexican;Fire Burrito;IT1048901;Main Course;26
+RE10489;Mexican;Chilli Tacos;IT1048902;Main Course;29
+RE10489;Mexican;Chicken Quasedillas;IT1048903;Main Course;19
+RE10489;Mexican;Grilled Pork;IT1048904;Main Course;29
+RE10489;Mexican;Pork Burritos;IT1048905;Main Course;25
+RE10490;Mexican;Fire Burrito;IT1049001;Main Course;22
+RE10490;Mexican;Chilli Tacos;IT1049002;Main Course;25
+RE10490;Mexican;Chicken Quasedillas;IT1049003;Main Course;25
+RE10490;Mexican;Grilled Pork;IT1049004;Main Course;29
+RE10490;Mexican;Pork Burritos;IT1049005;Main Course;20
+RE10491;Mexican;Fire Burrito;IT1049101;Main Course;10
+RE10491;Mexican;Chilli Tacos;IT1049102;Main Course;19
+RE10491;Mexican;Chicken Quasedillas;IT1049103;Main Course;19
+RE10491;Mexican;Grilled Pork;IT1049104;Main Course;27
+RE10491;Mexican;Pork Burritos;IT1049105;Main Course;11
+RE10492;Mexican;Fire Burrito;IT1049201;Main Course;27
+RE10492;Mexican;Chilli Tacos;IT1049202;Main Course;26
+RE10492;Mexican;Chicken Quasedillas;IT1049203;Main Course;20
+RE10492;Mexican;Grilled Pork;IT1049204;Main Course;19
+RE10492;Mexican;Pork Burritos;IT1049205;Main Course;15
+RE10493;Mexican;Fire Burrito;IT1049301;Main Course;29
+RE10493;Mexican;Chilli Tacos;IT1049302;Main Course;29
+RE10493;Mexican;Chicken Quasedillas;IT1049303;Main Course;10
+RE10493;Mexican;Grilled Pork;IT1049304;Main Course;27
+RE10493;Mexican;Pork Burritos;IT1049305;Main Course;24
+RE10494;Mexican;Fire Burrito;IT1049401;Main Course;27
+RE10494;Mexican;Chilli Tacos;IT1049402;Main Course;25
+RE10494;Mexican;Chicken Quasedillas;IT1049403;Main Course;18
+RE10494;Mexican;Grilled Pork;IT1049404;Main Course;19
+RE10494;Mexican;Pork Burritos;IT1049405;Main Course;10
+RE10495;Mexican;Fire Burrito;IT1049501;Main Course;29
+RE10495;Mexican;Chilli Tacos;IT1049502;Main Course;11
+RE10495;Mexican;Chicken Quasedillas;IT1049503;Main Course;24
+RE10495;Mexican;Grilled Pork;IT1049504;Main Course;26
+RE10495;Mexican;Pork Burritos;IT1049505;Main Course;17
+RE10496;Mexican;Fire Burrito;IT1049601;Main Course;14
+RE10496;Mexican;Chilli Tacos;IT1049602;Main Course;15
+RE10496;Mexican;Chicken Quasedillas;IT1049603;Main Course;24
+RE10496;Mexican;Grilled Pork;IT1049604;Main Course;21
+RE10496;Mexican;Pork Burritos;IT1049605;Main Course;13
+RE10497;Mexican;Fire Burrito;IT1049701;Main Course;17
+RE10497;Mexican;Chilli Tacos;IT1049702;Main Course;25
+RE10497;Mexican;Chicken Quasedillas;IT1049703;Main Course;22
+RE10497;Mexican;Grilled Pork;IT1049704;Main Course;16
+RE10497;Mexican;Pork Burritos;IT1049705;Main Course;24
+RE10498;Mexican;Fire Burrito;IT1049801;Main Course;28
+RE10498;Mexican;Chilli Tacos;IT1049802;Main Course;26
+RE10498;Mexican;Chicken Quasedillas;IT1049803;Main Course;17
+RE10498;Mexican;Grilled Pork;IT1049804;Main Course;14
+RE10498;Mexican;Pork Burritos;IT1049805;Main Course;11
+RE10499;Mexican;Fire Burrito;IT1049901;Main Course;26
+RE10499;Mexican;Chilli Tacos;IT1049902;Main Course;24
+RE10499;Mexican;Chicken Quasedillas;IT1049903;Main Course;16
+RE10499;Mexican;Grilled Pork;IT1049904;Main Course;15
+RE10499;Mexican;Pork Burritos;IT1049905;Main Course;12
+RE10500;Mexican;Fire Burrito;IT1050001;Main Course;14
+RE10500;Mexican;Chilli Tacos;IT1050002;Main Course;23
+RE10500;Mexican;Chicken Quasedillas;IT1050003;Main Course;16
+RE10500;Mexican;Grilled Pork;IT1050004;Main Course;25
+RE10500;Mexican;Pork Burritos;IT1050005;Main Course;12
+RE10501;Mexican;Fire Burrito;IT1050101;Main Course;10
+RE10501;Mexican;Chilli Tacos;IT1050102;Main Course;14
+RE10501;Mexican;Chicken Quasedillas;IT1050103;Main Course;14
+RE10501;Mexican;Grilled Pork;IT1050104;Main Course;16
+RE10501;Mexican;Pork Burritos;IT1050105;Main Course;27
+RE10502;Mexican;Fire Burrito;IT1050201;Main Course;24
+RE10502;Mexican;Chilli Tacos;IT1050202;Main Course;21
+RE10502;Mexican;Chicken Quasedillas;IT1050203;Main Course;18
+RE10502;Mexican;Grilled Pork;IT1050204;Main Course;12
+RE10502;Mexican;Pork Burritos;IT1050205;Main Course;11
+RE10503;Mexican;Fire Burrito;IT1050301;Main Course;11
+RE10503;Mexican;Chilli Tacos;IT1050302;Main Course;27
+RE10503;Mexican;Chicken Quasedillas;IT1050303;Main Course;14
+RE10503;Mexican;Grilled Pork;IT1050304;Main Course;27
+RE10503;Mexican;Pork Burritos;IT1050305;Main Course;27
+RE10504;Mexican;Fire Burrito;IT1050401;Main Course;29
+RE10504;Mexican;Chilli Tacos;IT1050402;Main Course;28
+RE10504;Mexican;Chicken Quasedillas;IT1050403;Main Course;29
+RE10504;Mexican;Grilled Pork;IT1050404;Main Course;13
+RE10504;Mexican;Pork Burritos;IT1050405;Main Course;16
+RE10505;Mexican;Fire Burrito;IT1050501;Main Course;27
+RE10505;Mexican;Chilli Tacos;IT1050502;Main Course;15
+RE10505;Mexican;Chicken Quasedillas;IT1050503;Main Course;13
+RE10505;Mexican;Grilled Pork;IT1050504;Main Course;29
+RE10505;Mexican;Pork Burritos;IT1050505;Main Course;13
+RE10506;Bar;Strawberry Daiquiri;IT1050601;Drink;7
+RE10506;Bar;Tequila Sunrise;IT1050602;Drink;8
+RE10506;Bar;Beer;IT1050603;Drink;8
+RE10506;Bar;Red Wine;IT1050604;Drink;5
+RE10506;Bar;White Wine;IT1050605;Drink;7
+RE10507;Mexican;Fire Burrito;IT1050701;Main Course;20
+RE10507;Mexican;Chilli Tacos;IT1050702;Main Course;26
+RE10507;Mexican;Chicken Quasedillas;IT1050703;Main Course;20
+RE10507;Mexican;Grilled Pork;IT1050704;Main Course;25
+RE10507;Mexican;Pork Burritos;IT1050705;Main Course;21
+RE10508;Mexican;Fire Burrito;IT1050801;Main Course;28
+RE10508;Mexican;Chilli Tacos;IT1050802;Main Course;24
+RE10508;Mexican;Chicken Quasedillas;IT1050803;Main Course;21
+RE10508;Mexican;Grilled Pork;IT1050804;Main Course;22
+RE10508;Mexican;Pork Burritos;IT1050805;Main Course;16
+RE10509;Mexican;Fire Burrito;IT1050901;Main Course;25
+RE10509;Mexican;Chilli Tacos;IT1050902;Main Course;26
+RE10509;Mexican;Chicken Quasedillas;IT1050903;Main Course;29
+RE10509;Mexican;Grilled Pork;IT1050904;Main Course;27
+RE10509;Mexican;Pork Burritos;IT1050905;Main Course;24
+RE10510;American;Artichoke Salad;IT1051001;Starter;10
+RE10510;American;Cobb Salad;IT1051002;Starter;5
+RE10510;American;Grilled Salmon;IT1051003;Main Course;20
+RE10510;American;New York Steak;IT1051004;Main Course;20
+RE10510;American;Turkey Sandwich;IT1051005;Main Course;10
+RE10511;Mexican;Fire Burrito;IT1051101;Main Course;18
+RE10511;Mexican;Chilli Tacos;IT1051102;Main Course;16
+RE10511;Mexican;Chicken Quasedillas;IT1051103;Main Course;13
+RE10511;Mexican;Grilled Pork;IT1051104;Main Course;21
+RE10511;Mexican;Pork Burritos;IT1051105;Main Course;10
+RE10512;Japanese;Chukka Salad;IT1051201;Starter;11
+RE10512;Japanese;Takitori;IT1051202;Starter;12
+RE10512;Japanese;Pork Teriyaki;IT1051203;Main Course;26
+RE10512;Japanese;Gunkan With Cucumber;IT1051204;Main Course;21
+RE10512;Japanese;Roll with Walnuts;IT1051205;Starter;5
+RE10513;Thai;Stuffed Chilli Peppers;IT1051301;Starter;10
+RE10513;Thai;Sticky Rice with Mango;IT1051302;Starter;7
+RE10513;Thai;Som Tam;IT1051303;Starter;8
+RE10513;Thai;Gang Massaman;IT1051304;Main Course;11
+RE10513;Thai;Gang Keow Wan;IT1051305;Dessert;14
+RE10515;American;Artichoke Salad;IT1051501;Starter;7
+RE10515;American;Cobb Salad;IT1051502;Starter;7
+RE10515;American;Grilled Salmon;IT1051503;Main Course;11
+RE10515;American;New York Steak;IT1051504;Main Course;22
+RE10515;American;Turkey Sandwich;IT1051505;Main Course;20
+RE10516;American;Artichoke Salad;IT1051601;Starter;11
+RE10516;American;Cobb Salad;IT1051602;Starter;5
+RE10516;American;Grilled Salmon;IT1051603;Main Course;14
+RE10516;American;New York Steak;IT1051604;Main Course;29
+RE10516;American;Turkey Sandwich;IT1051605;Main Course;27
+RE10517;American;Artichoke Salad;IT1051701;Starter;12
+RE10517;American;Cobb Salad;IT1051702;Starter;9
+RE10517;American;Grilled Salmon;IT1051703;Main Course;20
+RE10517;American;New York Steak;IT1051704;Main Course;20
+RE10517;American;Turkey Sandwich;IT1051705;Main Course;13
+RE10518;Mexican;Fire Burrito;IT1051801;Main Course;16
+RE10518;Mexican;Chilli Tacos;IT1051802;Main Course;23
+RE10518;Mexican;Chicken Quasedillas;IT1051803;Main Course;12
+RE10518;Mexican;Grilled Pork;IT1051804;Main Course;21
+RE10518;Mexican;Pork Burritos;IT1051805;Main Course;17
+RE10519;Mexican;Fire Burrito;IT1051901;Main Course;22
+RE10519;Mexican;Chilli Tacos;IT1051902;Main Course;24
+RE10519;Mexican;Chicken Quasedillas;IT1051903;Main Course;18
+RE10519;Mexican;Grilled Pork;IT1051904;Main Course;19
+RE10519;Mexican;Pork Burritos;IT1051905;Main Course;20
+RE10520;American;Artichoke Salad;IT1052001;Starter;9
+RE10520;American;Cobb Salad;IT1052002;Starter;10
+RE10520;American;Grilled Salmon;IT1052003;Main Course;17
+RE10520;American;New York Steak;IT1052004;Main Course;12
+RE10520;American;Turkey Sandwich;IT1052005;Main Course;26
+RE10521;Mexican;Fire Burrito;IT1052101;Main Course;13
+RE10521;Mexican;Chilli Tacos;IT1052102;Main Course;27
+RE10521;Mexican;Chicken Quasedillas;IT1052103;Main Course;29
+RE10521;Mexican;Grilled Pork;IT1052104;Main Course;22
+RE10521;Mexican;Pork Burritos;IT1052105;Main Course;19
+RE10522;Mexican;Fire Burrito;IT1052201;Main Course;10
+RE10522;Mexican;Chilli Tacos;IT1052202;Main Course;28
+RE10522;Mexican;Chicken Quasedillas;IT1052203;Main Course;16
+RE10522;Mexican;Grilled Pork;IT1052204;Main Course;13
+RE10522;Mexican;Pork Burritos;IT1052205;Main Course;27
+RE10523;Armenian;Smoked Pork Fillet;IT1052301;Main Course;10
+RE10523;Armenian;Fish Assortment;IT1052302;Main Course;10
+RE10523;Armenian;Cheese Platter;IT1052303;Main Course;14
+RE10523;Armenian;Meat Platter;IT1052304;Main Course;11
+RE10523;Armenian;Milkshake;IT1052305;Drink;8
+RE10524;Mexican;Fire Burrito;IT1052401;Main Course;15
+RE10524;Mexican;Chilli Tacos;IT1052402;Main Course;23
+RE10524;Mexican;Chicken Quasedillas;IT1052403;Main Course;21
+RE10524;Mexican;Grilled Pork;IT1052404;Main Course;13
+RE10524;Mexican;Pork Burritos;IT1052405;Main Course;19
+RE10525;American;Artichoke Salad;IT1052501;Starter;9
+RE10525;American;Cobb Salad;IT1052502;Starter;8
+RE10525;American;Grilled Salmon;IT1052503;Main Course;23
+RE10525;American;New York Steak;IT1052504;Main Course;14
+RE10525;American;Turkey Sandwich;IT1052505;Main Course;16
+RE10526;Mexican;Fire Burrito;IT1052601;Main Course;19
+RE10526;Mexican;Chilli Tacos;IT1052602;Main Course;27
+RE10526;Mexican;Chicken Quasedillas;IT1052603;Main Course;28
+RE10526;Mexican;Grilled Pork;IT1052604;Main Course;15
+RE10526;Mexican;Pork Burritos;IT1052605;Main Course;10
+RE10527;Mexican;Fire Burrito;IT1052701;Main Course;24
+RE10527;Mexican;Chilli Tacos;IT1052702;Main Course;24
+RE10527;Mexican;Chicken Quasedillas;IT1052703;Main Course;24
+RE10527;Mexican;Grilled Pork;IT1052704;Main Course;16
+RE10527;Mexican;Pork Burritos;IT1052705;Main Course;16
+RE10528;Armenian;Smoked Pork Fillet;IT1052801;Main Course;24
+RE10528;Armenian;Fish Assortment;IT1052802;Main Course;18
+RE10528;Armenian;Cheese Platter;IT1052803;Main Course;13
+RE10528;Armenian;Meat Platter;IT1052804;Main Course;25
+RE10528;Armenian;Milkshake;IT1052805;Drink;9
+RE10529;Mexican;Fire Burrito;IT1052901;Main Course;25
+RE10529;Mexican;Chilli Tacos;IT1052902;Main Course;27
+RE10529;Mexican;Chicken Quasedillas;IT1052903;Main Course;13
+RE10529;Mexican;Grilled Pork;IT1052904;Main Course;12
+RE10529;Mexican;Pork Burritos;IT1052905;Main Course;12
+RE10530;Mexican;Fire Burrito;IT1053001;Main Course;27
+RE10530;Mexican;Chilli Tacos;IT1053002;Main Course;11
+RE10530;Mexican;Chicken Quasedillas;IT1053003;Main Course;19
+RE10530;Mexican;Grilled Pork;IT1053004;Main Course;24
+RE10530;Mexican;Pork Burritos;IT1053005;Main Course;13
+RE10531;Mexican;Fire Burrito;IT1053101;Main Course;18
+RE10531;Mexican;Chilli Tacos;IT1053102;Main Course;11
+RE10531;Mexican;Chicken Quasedillas;IT1053103;Main Course;13
+RE10531;Mexican;Grilled Pork;IT1053104;Main Course;15
+RE10531;Mexican;Pork Burritos;IT1053105;Main Course;17
+RE10532;Armenian;Smoked Pork Fillet;IT1053201;Main Course;23
+RE10532;Armenian;Fish Assortment;IT1053202;Main Course;27
+RE10532;Armenian;Cheese Platter;IT1053203;Main Course;21
+RE10532;Armenian;Meat Platter;IT1053204;Main Course;14
+RE10532;Armenian;Milkshake;IT1053205;Drink;5
+RE10533;Mexican;Fire Burrito;IT1053301;Main Course;26
+RE10533;Mexican;Chilli Tacos;IT1053302;Main Course;22
+RE10533;Mexican;Chicken Quasedillas;IT1053303;Main Course;28
+RE10533;Mexican;Grilled Pork;IT1053304;Main Course;25
+RE10533;Mexican;Pork Burritos;IT1053305;Main Course;20
+RE10534;Mexican;Fire Burrito;IT1053401;Main Course;22
+RE10534;Mexican;Chilli Tacos;IT1053402;Main Course;24
+RE10534;Mexican;Chicken Quasedillas;IT1053403;Main Course;13
+RE10534;Mexican;Grilled Pork;IT1053404;Main Course;19
+RE10534;Mexican;Pork Burritos;IT1053405;Main Course;29
+RE10535;Mexican;Fire Burrito;IT1053501;Main Course;16
+RE10535;Mexican;Chilli Tacos;IT1053502;Main Course;18
+RE10535;Mexican;Chicken Quasedillas;IT1053503;Main Course;12
+RE10535;Mexican;Grilled Pork;IT1053504;Main Course;19
+RE10535;Mexican;Pork Burritos;IT1053505;Main Course;18
+RE10536;Mexican;Fire Burrito;IT1053601;Main Course;10
+RE10536;Mexican;Chilli Tacos;IT1053602;Main Course;20
+RE10536;Mexican;Chicken Quasedillas;IT1053603;Main Course;15
+RE10536;Mexican;Grilled Pork;IT1053604;Main Course;10
+RE10536;Mexican;Pork Burritos;IT1053605;Main Course;29
+RE10537;Mexican;Fire Burrito;IT1053701;Main Course;15
+RE10537;Mexican;Chilli Tacos;IT1053702;Main Course;14
+RE10537;Mexican;Chicken Quasedillas;IT1053703;Main Course;26
+RE10537;Mexican;Grilled Pork;IT1053704;Main Course;10
+RE10537;Mexican;Pork Burritos;IT1053705;Main Course;27
+RE10538;American;Artichoke Salad;IT1053801;Starter;7
+RE10538;American;Cobb Salad;IT1053802;Starter;14
+RE10538;American;Grilled Salmon;IT1053803;Main Course;24
+RE10538;American;New York Steak;IT1053804;Main Course;16
+RE10538;American;Turkey Sandwich;IT1053805;Main Course;23
+RE10539;Mexican;Fire Burrito;IT1053901;Main Course;13
+RE10539;Mexican;Chilli Tacos;IT1053902;Main Course;18
+RE10539;Mexican;Chicken Quasedillas;IT1053903;Main Course;27
+RE10539;Mexican;Grilled Pork;IT1053904;Main Course;28
+RE10539;Mexican;Pork Burritos;IT1053905;Main Course;12
+RE10540;American;Artichoke Salad;IT1054001;Starter;11
+RE10540;American;Cobb Salad;IT1054002;Starter;10
+RE10540;American;Grilled Salmon;IT1054003;Main Course;26
+RE10540;American;New York Steak;IT1054004;Main Course;15
+RE10540;American;Turkey Sandwich;IT1054005;Main Course;20
+RE10541;American;Artichoke Salad;IT1054101;Starter;12
+RE10541;American;Cobb Salad;IT1054102;Starter;9
+RE10541;American;Grilled Salmon;IT1054103;Main Course;14
+RE10541;American;New York Steak;IT1054104;Main Course;21
+RE10541;American;Turkey Sandwich;IT1054105;Main Course;29
+RE10542;Mexican;Fire Burrito;IT1054201;Main Course;25
+RE10542;Mexican;Chilli Tacos;IT1054202;Main Course;26
+RE10542;Mexican;Chicken Quasedillas;IT1054203;Main Course;12
+RE10542;Mexican;Grilled Pork;IT1054204;Main Course;18
+RE10542;Mexican;Pork Burritos;IT1054205;Main Course;11
+RE10543;American;Artichoke Salad;IT1054301;Starter;12
+RE10543;American;Cobb Salad;IT1054302;Starter;5
+RE10543;American;Grilled Salmon;IT1054303;Main Course;12
+RE10543;American;New York Steak;IT1054304;Main Course;15
+RE10543;American;Turkey Sandwich;IT1054305;Main Course;25
+RE10544;Mexican;Fire Burrito;IT1054401;Main Course;12
+RE10544;Mexican;Chilli Tacos;IT1054402;Main Course;28
+RE10544;Mexican;Chicken Quasedillas;IT1054403;Main Course;21
+RE10544;Mexican;Grilled Pork;IT1054404;Main Course;23
+RE10544;Mexican;Pork Burritos;IT1054405;Main Course;26
+RE10545;African;Beef Tenderloin Tips;IT1054501;Main Course;22
+RE10545;African;South African Bobotie;IT1054502;Main Course;15
+RE10545;African;Braai;IT1054503;Main Course;26
+RE10545;African;Tiramisu;IT1054504;Dessert;11
+RE10545;African;Soda;IT1054505;Drink;7
+RE10546;Mexican;Fire Burrito;IT1054601;Main Course;19
+RE10546;Mexican;Chilli Tacos;IT1054602;Main Course;14
+RE10546;Mexican;Chicken Quasedillas;IT1054603;Main Course;15
+RE10546;Mexican;Grilled Pork;IT1054604;Main Course;23
+RE10546;Mexican;Pork Burritos;IT1054605;Main Course;14
+RE10547;American;Artichoke Salad;IT1054701;Starter;14
+RE10547;American;Cobb Salad;IT1054702;Starter;6
+RE10547;American;Grilled Salmon;IT1054703;Main Course;11
+RE10547;American;New York Steak;IT1054704;Main Course;17
+RE10547;American;Turkey Sandwich;IT1054705;Main Course;17
+RE10548;Mexican;Fire Burrito;IT1054801;Main Course;25
+RE10548;Mexican;Chilli Tacos;IT1054802;Main Course;14
+RE10548;Mexican;Chicken Quasedillas;IT1054803;Main Course;14
+RE10548;Mexican;Grilled Pork;IT1054804;Main Course;15
+RE10548;Mexican;Pork Burritos;IT1054805;Main Course;12
+RE10549;African;Beef Tenderloin Tips;IT1054901;Main Course;27
+RE10549;African;South African Bobotie;IT1054902;Main Course;13
+RE10549;African;Braai;IT1054903;Main Course;18
+RE10549;African;Tiramisu;IT1054904;Dessert;13
+RE10549;African;Soda;IT1054905;Drink;6
+RE10550;American;Artichoke Salad;IT1055001;Starter;6
+RE10550;American;Cobb Salad;IT1055002;Starter;14
+RE10550;American;Grilled Salmon;IT1055003;Main Course;24
+RE10550;American;New York Steak;IT1055004;Main Course;16
+RE10550;American;Turkey Sandwich;IT1055005;Main Course;13
+RE10551;American;Artichoke Salad;IT1055101;Starter;11
+RE10551;American;Cobb Salad;IT1055102;Starter;12
+RE10551;American;Grilled Salmon;IT1055103;Main Course;25
+RE10551;American;New York Steak;IT1055104;Main Course;10
+RE10551;American;Turkey Sandwich;IT1055105;Main Course;13
+RE10552;Mexican;Fire Burrito;IT1055201;Main Course;12
+RE10552;Mexican;Chilli Tacos;IT1055202;Main Course;20
+RE10552;Mexican;Chicken Quasedillas;IT1055203;Main Course;11
+RE10552;Mexican;Grilled Pork;IT1055204;Main Course;29
+RE10552;Mexican;Pork Burritos;IT1055205;Main Course;18
+RE10553;American;Artichoke Salad;IT1055301;Starter;13
+RE10553;American;Cobb Salad;IT1055302;Starter;10
+RE10553;American;Grilled Salmon;IT1055303;Main Course;14
+RE10553;American;New York Steak;IT1055304;Main Course;20
+RE10553;American;Turkey Sandwich;IT1055305;Main Course;23
+RE10554;American;Artichoke Salad;IT1055401;Starter;11
+RE10554;American;Cobb Salad;IT1055402;Starter;11
+RE10554;American;Grilled Salmon;IT1055403;Main Course;11
+RE10554;American;New York Steak;IT1055404;Main Course;13
+RE10554;American;Turkey Sandwich;IT1055405;Main Course;20
+RE10555;Mexican;Fire Burrito;IT1055501;Main Course;24
+RE10555;Mexican;Chilli Tacos;IT1055502;Main Course;14
+RE10555;Mexican;Chicken Quasedillas;IT1055503;Main Course;21
+RE10555;Mexican;Grilled Pork;IT1055504;Main Course;14
+RE10555;Mexican;Pork Burritos;IT1055505;Main Course;12
+RE10556;Mexican;Fire Burrito;IT1055601;Main Course;22
+RE10556;Mexican;Chilli Tacos;IT1055602;Main Course;18
+RE10556;Mexican;Chicken Quasedillas;IT1055603;Main Course;14
+RE10556;Mexican;Grilled Pork;IT1055604;Main Course;20
+RE10556;Mexican;Pork Burritos;IT1055605;Main Course;27
+RE10557;Mexican;Fire Burrito;IT1055701;Main Course;28
+RE10557;Mexican;Chilli Tacos;IT1055702;Main Course;28
+RE10557;Mexican;Chicken Quasedillas;IT1055703;Main Course;21
+RE10557;Mexican;Grilled Pork;IT1055704;Main Course;20
+RE10557;Mexican;Pork Burritos;IT1055705;Main Course;11
+RE10558;Mexican;Fire Burrito;IT1055801;Main Course;20
+RE10558;Mexican;Chilli Tacos;IT1055802;Main Course;21
+RE10558;Mexican;Chicken Quasedillas;IT1055803;Main Course;26
+RE10558;Mexican;Grilled Pork;IT1055804;Main Course;10
+RE10558;Mexican;Pork Burritos;IT1055805;Main Course;18
+RE10559;Mexican;Fire Burrito;IT1055901;Main Course;21
+RE10559;Mexican;Chilli Tacos;IT1055902;Main Course;26
+RE10559;Mexican;Chicken Quasedillas;IT1055903;Main Course;23
+RE10559;Mexican;Grilled Pork;IT1055904;Main Course;12
+RE10559;Mexican;Pork Burritos;IT1055905;Main Course;16
+RE10560;Italian;Bruschetta;IT1056001;Starter;14
+RE10560;Italian;Pepperoni Pizza;IT1056002;Main Course;27
+RE10560;Italian;Bolognese Pasta;IT1056003;Main Course;10
+RE10560;Italian;Smoked Mushroom Soup;IT1056004;Starter;13
+RE10560;Italian;Tiramisu;IT1056005;Dessert;12
+RE10561;Italian;Bruschetta;IT1056101;Starter;5
+RE10561;Italian;Pepperoni Pizza;IT1056102;Main Course;26
+RE10561;Italian;Bolognese Pasta;IT1056103;Main Course;15
+RE10561;Italian;Smoked Mushroom Soup;IT1056104;Starter;5
+RE10561;Italian;Tiramisu;IT1056105;Dessert;7
+RE10562;Mexican;Fire Burrito;IT1056201;Main Course;25
+RE10562;Mexican;Chilli Tacos;IT1056202;Main Course;26
+RE10562;Mexican;Chicken Quasedillas;IT1056203;Main Course;20
+RE10562;Mexican;Grilled Pork;IT1056204;Main Course;26
+RE10562;Mexican;Pork Burritos;IT1056205;Main Course;13
+RE10563;Mexican;Fire Burrito;IT1056301;Main Course;17
+RE10563;Mexican;Chilli Tacos;IT1056302;Main Course;20
+RE10563;Mexican;Chicken Quasedillas;IT1056303;Main Course;10
+RE10563;Mexican;Grilled Pork;IT1056304;Main Course;23
+RE10563;Mexican;Pork Burritos;IT1056305;Main Course;29
+RE10564;Mexican;Fire Burrito;IT1056401;Main Course;26
+RE10564;Mexican;Chilli Tacos;IT1056402;Main Course;16
+RE10564;Mexican;Chicken Quasedillas;IT1056403;Main Course;18
+RE10564;Mexican;Grilled Pork;IT1056404;Main Course;22
+RE10564;Mexican;Pork Burritos;IT1056405;Main Course;20
+RE10565;Chinese;Lobster Cantonese;IT1056501;Main Course;22
+RE10565;Chinese;Pork Chow Mein;IT1056502;Main Course;16
+RE10565;Chinese;Chicken Chop Suey;IT1056503;Starter;13
+RE10565;Chinese;Egg Flower Soup;IT1056504;Starter;13
+RE10565;Chinese;Fried Shrimp;IT1056505;Starter;5
+RE10566;Mexican;Fire Burrito;IT1056601;Main Course;17
+RE10566;Mexican;Chilli Tacos;IT1056602;Main Course;16
+RE10566;Mexican;Chicken Quasedillas;IT1056603;Main Course;26
+RE10566;Mexican;Grilled Pork;IT1056604;Main Course;28
+RE10566;Mexican;Pork Burritos;IT1056605;Main Course;14
+RE10567;Fast_Food;Hot Dog with Fries;IT1056701;Main Course;15
+RE10567;Fast_Food;Chicken Burger;IT1056702;Main Course;23
+RE10567;Fast_Food;Hamburger;IT1056703;Main Course;13
+RE10567;Fast_Food;Beef Burger;IT1056704;Main Course;17
+RE10567;Fast_Food;Soda;IT1056705;Drink;8
+RE10568;Mexican;Fire Burrito;IT1056801;Main Course;17
+RE10568;Mexican;Chilli Tacos;IT1056802;Main Course;12
+RE10568;Mexican;Chicken Quasedillas;IT1056803;Main Course;23
+RE10568;Mexican;Grilled Pork;IT1056804;Main Course;28
+RE10568;Mexican;Pork Burritos;IT1056805;Main Course;27
+RE10569;Fast_Food;Hot Dog with Fries;IT1056901;Main Course;16
+RE10569;Fast_Food;Chicken Burger;IT1056902;Main Course;18
+RE10569;Fast_Food;Hamburger;IT1056903;Main Course;23
+RE10569;Fast_Food;Beef Burger;IT1056904;Main Course;20
+RE10569;Fast_Food;Soda;IT1056905;Drink;7
+RE10570;Mexican;Fire Burrito;IT1057001;Main Course;23
+RE10570;Mexican;Chilli Tacos;IT1057002;Main Course;13
+RE10570;Mexican;Chicken Quasedillas;IT1057003;Main Course;25
+RE10570;Mexican;Grilled Pork;IT1057004;Main Course;16
+RE10570;Mexican;Pork Burritos;IT1057005;Main Course;27
+RE10571;Mexican;Fire Burrito;IT1057101;Main Course;22
+RE10571;Mexican;Chilli Tacos;IT1057102;Main Course;28
+RE10571;Mexican;Chicken Quasedillas;IT1057103;Main Course;11
+RE10571;Mexican;Grilled Pork;IT1057104;Main Course;28
+RE10571;Mexican;Pork Burritos;IT1057105;Main Course;26
+RE10572;Mexican;Fire Burrito;IT1057201;Main Course;14
+RE10572;Mexican;Chilli Tacos;IT1057202;Main Course;10
+RE10572;Mexican;Chicken Quasedillas;IT1057203;Main Course;23
+RE10572;Mexican;Grilled Pork;IT1057204;Main Course;29
+RE10572;Mexican;Pork Burritos;IT1057205;Main Course;26
+RE10573;Mexican;Fire Burrito;IT1057301;Main Course;26
+RE10573;Mexican;Chilli Tacos;IT1057302;Main Course;10
+RE10573;Mexican;Chicken Quasedillas;IT1057303;Main Course;26
+RE10573;Mexican;Grilled Pork;IT1057304;Main Course;13
+RE10573;Mexican;Pork Burritos;IT1057305;Main Course;10
+RE10574;Pizzeria;Margherita;IT1057401;Main Course;17
+RE10574;Pizzeria;Fungi;IT1057402;Main Course;19
+RE10574;Pizzeria;Salami;IT1057403;Main Course;12
+RE10574;Pizzeria;Mexican;IT1057404;Main Course;25
+RE10574;Pizzeria;Vegetarian;IT1057405;Main Course;13
+RE10575;Mexican;Fire Burrito;IT1057501;Main Course;19
+RE10575;Mexican;Chilli Tacos;IT1057502;Main Course;19
+RE10575;Mexican;Chicken Quasedillas;IT1057503;Main Course;22
+RE10575;Mexican;Grilled Pork;IT1057504;Main Course;26
+RE10575;Mexican;Pork Burritos;IT1057505;Main Course;18
+RE10576;Mexican;Fire Burrito;IT1057601;Main Course;17
+RE10576;Mexican;Chilli Tacos;IT1057602;Main Course;11
+RE10576;Mexican;Chicken Quasedillas;IT1057603;Main Course;25
+RE10576;Mexican;Grilled Pork;IT1057604;Main Course;20
+RE10576;Mexican;Pork Burritos;IT1057605;Main Course;25
+RE10577;Fast_Food;Hot Dog with Fries;IT1057701;Main Course;24
+RE10577;Fast_Food;Chicken Burger;IT1057702;Main Course;19
+RE10577;Fast_Food;Hamburger;IT1057703;Main Course;14
+RE10577;Fast_Food;Beef Burger;IT1057704;Main Course;12
+RE10577;Fast_Food;Soda;IT1057705;Drink;5
+RE10578;Mexican;Fire Burrito;IT1057801;Main Course;17
+RE10578;Mexican;Chilli Tacos;IT1057802;Main Course;23
+RE10578;Mexican;Chicken Quasedillas;IT1057803;Main Course;19
+RE10578;Mexican;Grilled Pork;IT1057804;Main Course;18
+RE10578;Mexican;Pork Burritos;IT1057805;Main Course;25
+RE10579;Mexican;Fire Burrito;IT1057901;Main Course;28
+RE10579;Mexican;Chilli Tacos;IT1057902;Main Course;15
+RE10579;Mexican;Chicken Quasedillas;IT1057903;Main Course;24
+RE10579;Mexican;Grilled Pork;IT1057904;Main Course;21
+RE10579;Mexican;Pork Burritos;IT1057905;Main Course;27
+RE10580;American;Artichoke Salad;IT1058001;Starter;11
+RE10580;American;Cobb Salad;IT1058002;Starter;10
+RE10580;American;Grilled Salmon;IT1058003;Main Course;14
+RE10580;American;New York Steak;IT1058004;Main Course;15
+RE10580;American;Turkey Sandwich;IT1058005;Main Course;25
+RE10581;American;Artichoke Salad;IT1058101;Starter;5
+RE10581;American;Cobb Salad;IT1058102;Starter;9
+RE10581;American;Grilled Salmon;IT1058103;Main Course;15
+RE10581;American;New York Steak;IT1058104;Main Course;19
+RE10581;American;Turkey Sandwich;IT1058105;Main Course;20
+RE10582;Cafeteria;Popcorn Chicken;IT1058201;Starter;8
+RE10582;Cafeteria;Club Mix;IT1058202;Main Course;12
+RE10582;Cafeteria;Classic Cheese Pizza;IT1058203;Main Course;21
+RE10582;Cafeteria;Frozen Fruit Cup;IT1058204;Dessert;8
+RE10582;Cafeteria;Milkshake;IT1058205;Drink;9
+RE10583;Mexican;Fire Burrito;IT1058301;Main Course;16
+RE10583;Mexican;Chilli Tacos;IT1058302;Main Course;17
+RE10583;Mexican;Chicken Quasedillas;IT1058303;Main Course;29
+RE10583;Mexican;Grilled Pork;IT1058304;Main Course;16
+RE10583;Mexican;Pork Burritos;IT1058305;Main Course;17
+RE10584;Mexican;Fire Burrito;IT1058401;Main Course;29
+RE10584;Mexican;Chilli Tacos;IT1058402;Main Course;25
+RE10584;Mexican;Chicken Quasedillas;IT1058403;Main Course;29
+RE10584;Mexican;Grilled Pork;IT1058404;Main Course;17
+RE10584;Mexican;Pork Burritos;IT1058405;Main Course;10
+RE10585;Cafe-Coffee_Shop;Cappuccino;IT1058501;Drink;9
+RE10585;Cafe-Coffee_Shop;Glace;IT1058502;Drink;6
+RE10585;Cafe-Coffee_Shop;Latte;IT1058503;Drink;7
+RE10585;Cafe-Coffee_Shop;Cocoa;IT1058504;Drink;7
+RE10585;Cafe-Coffee_Shop;Mocha;IT1058505;Drink;8
+RE10586;American;Artichoke Salad;IT1058601;Starter;8
+RE10586;American;Cobb Salad;IT1058602;Starter;13
+RE10586;American;Grilled Salmon;IT1058603;Main Course;17
+RE10586;American;New York Steak;IT1058604;Main Course;10
+RE10586;American;Turkey Sandwich;IT1058605;Main Course;20
+RE10587;Mexican;Fire Burrito;IT1058701;Main Course;16
+RE10587;Mexican;Chilli Tacos;IT1058702;Main Course;22
+RE10587;Mexican;Chicken Quasedillas;IT1058703;Main Course;25
+RE10587;Mexican;Grilled Pork;IT1058704;Main Course;25
+RE10587;Mexican;Pork Burritos;IT1058705;Main Course;23
+RE10588;Mexican;Fire Burrito;IT1058801;Main Course;21
+RE10588;Mexican;Chilli Tacos;IT1058802;Main Course;20
+RE10588;Mexican;Chicken Quasedillas;IT1058803;Main Course;25
+RE10588;Mexican;Grilled Pork;IT1058804;Main Course;13
+RE10588;Mexican;Pork Burritos;IT1058805;Main Course;19
+RE10589;Mexican;Fire Burrito;IT1058901;Main Course;29
+RE10589;Mexican;Chilli Tacos;IT1058902;Main Course;24
+RE10589;Mexican;Chicken Quasedillas;IT1058903;Main Course;21
+RE10589;Mexican;Grilled Pork;IT1058904;Main Course;29
+RE10589;Mexican;Pork Burritos;IT1058905;Main Course;27
+RE10590;Mexican;Fire Burrito;IT1059001;Main Course;19
+RE10590;Mexican;Chilli Tacos;IT1059002;Main Course;22
+RE10590;Mexican;Chicken Quasedillas;IT1059003;Main Course;19
+RE10590;Mexican;Grilled Pork;IT1059004;Main Course;27
+RE10590;Mexican;Pork Burritos;IT1059005;Main Course;11
+RE10591;Mexican;Fire Burrito;IT1059101;Main Course;25
+RE10591;Mexican;Chilli Tacos;IT1059102;Main Course;11
+RE10591;Mexican;Chicken Quasedillas;IT1059103;Main Course;26
+RE10591;Mexican;Grilled Pork;IT1059104;Main Course;19
+RE10591;Mexican;Pork Burritos;IT1059105;Main Course;11
+RE10592;Mexican;Fire Burrito;IT1059201;Main Course;23
+RE10592;Mexican;Chilli Tacos;IT1059202;Main Course;12
+RE10592;Mexican;Chicken Quasedillas;IT1059203;Main Course;15
+RE10592;Mexican;Grilled Pork;IT1059204;Main Course;11
+RE10592;Mexican;Pork Burritos;IT1059205;Main Course;29
+RE10593;Mexican;Fire Burrito;IT1059301;Main Course;17
+RE10593;Mexican;Chilli Tacos;IT1059302;Main Course;24
+RE10593;Mexican;Chicken Quasedillas;IT1059303;Main Course;12
+RE10593;Mexican;Grilled Pork;IT1059304;Main Course;28
+RE10593;Mexican;Pork Burritos;IT1059305;Main Course;23
+RE10594;Mexican;Fire Burrito;IT1059401;Main Course;25
+RE10594;Mexican;Chilli Tacos;IT1059402;Main Course;21
+RE10594;Mexican;Chicken Quasedillas;IT1059403;Main Course;20
+RE10594;Mexican;Grilled Pork;IT1059404;Main Course;12
+RE10594;Mexican;Pork Burritos;IT1059405;Main Course;14
+RE10595;Hot_Dogs;Chicago Genuine;IT1059501;Main Course;24
+RE10595;Hot_Dogs;Polish Hot Dog;IT1059502;Main Course;10
+RE10595;Hot_Dogs;Chili Dog;IT1059503;Main Course;25
+RE10595;Hot_Dogs;Hawaiian ;IT1059504;Main Course;27
+RE10595;Hot_Dogs;Bratwurst;IT1059505;Main Course;27
+RE10596;Cafeteria;Popcorn Chicken;IT1059601;Starter;13
+RE10596;Cafeteria;Club Mix;IT1059602;Main Course;15
+RE10596;Cafeteria;Classic Cheese Pizza;IT1059603;Main Course;26
+RE10596;Cafeteria;Frozen Fruit Cup;IT1059604;Dessert;8
+RE10596;Cafeteria;Milkshake;IT1059605;Drink;8
+RE10597;Mexican;Fire Burrito;IT1059701;Main Course;15
+RE10597;Mexican;Chilli Tacos;IT1059702;Main Course;25
+RE10597;Mexican;Chicken Quasedillas;IT1059703;Main Course;12
+RE10597;Mexican;Grilled Pork;IT1059704;Main Course;15
+RE10597;Mexican;Pork Burritos;IT1059705;Main Course;23
+RE10598;American;Artichoke Salad;IT1059801;Starter;14
+RE10598;American;Cobb Salad;IT1059802;Starter;6
+RE10598;American;Grilled Salmon;IT1059803;Main Course;11
+RE10598;American;New York Steak;IT1059804;Main Course;22
+RE10598;American;Turkey Sandwich;IT1059805;Main Course;19
+RE10599;Mexican;Fire Burrito;IT1059901;Main Course;29
+RE10599;Mexican;Chilli Tacos;IT1059902;Main Course;18
+RE10599;Mexican;Chicken Quasedillas;IT1059903;Main Course;29
+RE10599;Mexican;Grilled Pork;IT1059904;Main Course;17
+RE10599;Mexican;Pork Burritos;IT1059905;Main Course;26
